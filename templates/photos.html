@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="{{ url_for('static', filename='photoStyle.css') }}">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Michael Steffee</title>
+</head>
+<body>
+    <div id="header">
+        <h2>Michael Steffee</h2> 
+        <h2>Photographs</h2>
+        <br><br><br>
+        <h2>Under Construction</h2>
+        <br><br><br>
+        <h3>I left my Christmas Light up too long</h3>
+        <br><br><br>
+        <h3>Due Back March 25th</h3>
+        <br><br><br>
+        <h3>See you in Spring</h3>
+
+
+            <!-- Hamburger Button -->
+    <div class="hamburger" id="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+
+    <!-- Slide Menu -->
+    <nav class="menu" id="menu">
+
+        <a href="{{ url_for('index_get') }}">Home</a>
+
+        <a href="{{ url_for('resume_get') }}">Resume</a>
+
+        <div class="menuDivider"></div>
+
+    <!-- Theme Picker -->
+        <form class="theme-picker">
+            <p class="themeTitle">Theme</p>
+            <label>
+                <input type="radio" id="light" name="theme" value="light">
+                Light
+            </label>
+            <label>
+                <input type="radio" id="dark" name="theme" value="dark">
+                Dark
+            </label>
+            <label>
+                <input type="radio" id="system" name="theme" value="system">
+                System
+            </label>
+        </form>
+    </nav>
+
+    </div>
+
+        <script type="text/javascript" src="{{ url_for('static', filename='theme.js') }}"></script>
+
+<script>
+
+const hamburger = document.getElementById("hamburger");
+const menu = document.getElementById("menu");
+
+hamburger.addEventListener("click", () => {
+
+    hamburger.classList.toggle("active");
+    menu.classList.toggle("open");
+
+});
+
+</script>
+        <script>
+            (function () {
+
+                const saved = localStorage.getItem("theme");
+
+                const systemDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+                const theme = saved ? saved : (systemDark ? "dark" : "light");
+
+                console.log("found " + theme);
+
+                document.documentElement.setAttribute("data-theme", theme);
+
+                const colorThemes = document.querySelectorAll('[name="theme"]');
+
+                const storeTheme = function (theme) {
+                    if (theme == "system") {
+                    localStorage.removeItem("theme");
+                    console.log("removed local setting - now using " + theme);
+                    } else {
+                    localStorage.setItem("theme", theme);
+                    console.log("storted " + theme + " as local setting");                        
+                    }
+                
+                };
+
+                colorThemes.forEach((themeOption) => {
+                    themeOption.addEventListener("click", () => {
+                         storeTheme(themeOption.id);
+                         document.documentElement.setAttribute("data-theme", themeOption.id);
+                    });
+                    });
+
+               //update radio buttons  
+
+               document.getElementById(theme).checked = true;
+            })();
+        </script>
+
+                <script>
+        const media = window.matchMedia("(prefers-color-scheme: dark)");
+
+        media.addEventListener("change", e => {
+
+            if (!localStorage.getItem("theme")) {
+
+            const newTheme = e.matches ? "dark" : "light"
+            document.documentElement.setAttribute(
+            "data-theme", newTheme);
+
+            // Update Buttons
+            document.getElementById(newTheme).checked = true;
+        }
+
+    });
+</script>  
+
+</body>
+
+</html>

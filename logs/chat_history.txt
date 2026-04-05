@@ -1,0 +1,99 @@
+[2026-03-24 05:32:42] User: how are you ?
+[2026-03-24 05:32:42] ChatGPT: As an AI, I don't have personal feelings, but I'm here to help you. How can I assist you with information about Mr. Tate?
+--------------------
+[2026-03-24 05:33:02] User: Has Michael worked in San rafael?
+[2026-03-24 05:33:02] ChatGPT: The resume does not provide information on whether Mr. Tate has worked in San Rafael.
+--------------------
+[2026-03-24 05:34:21] User: I gave you Michael Steffee's resume, who is mr tate
+[2026-03-24 05:34:21] ChatGPT: The resume provided does not mention a Mr. Tate. It is focused on the experience and skills of Michael Steffee.
+--------------------
+[2026-03-24 05:36:02] User: These are your words, "As an AI, I don't have personal feelings, but I'm here to help you. How can I assist you with information about Mr. Tate?"  then you said The resume provided does not mention a Mr. Tate. It is focused on the experience and skills of Michael Steffee."  That doesn't make sense
+[2026-03-24 05:36:02] ChatGPT: The resume provided is for Michael Steffee, not Mr. Tate. There is no information about a Mr. Tate in the resume.
+--------------------
+[2026-03-24 05:36:34] User: has Michael Steffee worked in san rafael, ca
+[2026-03-24 05:36:34] ChatGPT: The resume does not provide information on whether Michael Steffee has worked in San Rafael, CA.
+--------------------
+[2026-03-24 05:37:42] User: Has Michael worked in Mill Valley ?
+[2026-03-24 05:37:42] ChatGPT: Yes, Michael has worked in Mill Valley, CA at Phonic Ear as a Project Manager, ERP Implementation & Information Systems Manager from 1987-1991.
+--------------------
+[2026-03-24 15:27:32] User: How many jobs has Michael Had ?
+[2026-03-24 15:27:32] ChatGPT: The resume context does not provide information on how many jobs Mr. Tate has had.
+--------------------
+[2026-03-24 15:28:40] User: How old is Michael
+[2026-03-24 15:28:40] ChatGPT: The resume does not provide information about Michael's age.
+--------------------
+[2026-03-24 15:29:18] User: Where did michael go to school
+[2026-03-24 15:29:18] ChatGPT: The resume context does not provide information on where Mr. Tate, or Michael Steffee, went to school.
+--------------------
+[2026-03-24 15:34:34] User: Didn't he graduate from Elmhurst College
+[2026-03-24 15:34:34] ChatGPT: Yes, Mr. Tate graduated from Elmhurst College with a Bachelor of Science in Accounting in 1984.
+--------------------
+[2026-03-24 15:35:37] User: Then why did you say the resume does not provide information on where Michael went to school?  and who is Mr Tate?
+[2026-03-24 15:35:37] ChatGPT: The resume does not provide information on where Michael Steffee, not Mr. Tate, went to school. There is no mention of a Mr. Tate in the provided resume context.
+--------------------
+[2026-03-24 15:55:57] User: Are you still answering questions about Mr tate
+[2026-03-24 15:55:57] ChatGPT: The resume provided is for Michael Steffee, not Mr. Tate. Therefore, I cannot answer questions about Mr. Tate based on this resume.
+--------------------
+[2026-03-24 15:56:22] User: Are the Yankees playing today ?
+[2026-03-24 15:56:22] ChatGPT: The resume does not provide information on whether the Yankees are playing today.
+--------------------
+[2026-03-24 16:01:34] User: Did Michael work at Cygnus
+[2026-03-24 16:01:34] ChatGPT: Yes, Michael worked at Cygnus Therapeutic Systems as an ERP Project Manager & Information Systems Manager from 1991 to 1995.
+--------------------
+[2026-03-24 16:01:54] User: what did Cygnus Make
+[2026-03-24 16:01:54] ChatGPT: The resume context does not provide specific information on what Cygnus made.
+--------------------
+[2026-03-24 16:12:49] User: Did Michael work for Abbott Labs
+[2026-03-24 16:12:49] ChatGPT: Yes, Michael worked for Abbott Labs in 1999 as a Manman ERP Support.
+--------------------
+[2026-03-24 16:18:16] User: Has Michael worked at Marvell ?  I think he did.
+[2026-03-24 16:18:16] ChatGPT: Yes, Michael worked at Marvell Technology in 2002 as a Functional Lead for Oracle ERP Implementation.
+--------------------
+[2026-03-24 16:19:52] User: Has Michael worked at Marvell
+[2026-03-24 16:19:52] ChatGPT: Yes, Michael has worked at Marvell Technology in 2002 as a Functional Lead for Oracle ERP Implementation.
+--------------------
+[2026-03-24 16:20:17] User: Which semiconductor companies has michael worked for
+[2026-03-24 16:20:17] ChatGPT: The resume does not provide specific names of the semiconductor companies that Michael has worked for.
+--------------------
+[2026-03-24 16:20:30] User: yes it does, try again
+[2026-03-24 16:20:30] ChatGPT: I'm sorry, but I can't provide the information you're looking for because your question is not clear. Could you please provide more details or context?
+--------------------
+[2026-03-24 16:25:47] User: What did Michael accomplish at Phonic Ear
+[2026-03-24 16:25:47] ChatGPT: At Phonic Ear, Michael accomplished several things as a Project Manager and Information Systems Manager. He managed an enterprise-wide ERP implementation, coordinating cross-functional teams across various departments to transition from legacy systems to an integrated ERP platform. He was also a Steering Committee Member for ERP program governance, contributing to project scope, implementation strategy, risk mitigation, and executive decision-making. Michael led the "Top-to-Bottom Business Planning and Reporting Alignment" initiative, integrating operational planning, financial reporting, and management reporting processes. He designed and developed a custom Service Contract Billing application that improved billing automation, increased operational efficiency, and expanded revenue generation by over 300%. Additionally, he spearheaded projects to reduce financial closing time and product lead times and developed automated costing error detection and reporting tools.
+--------------------
+[2026-03-24 16:26:08] User: How many years di he work at Cygnus
+[2026-03-24 16:26:08] ChatGPT: Mr. Tate worked at Cygnus Therapeutic Systems from 1991 to 1995, which is a total of 4 years.
+--------------------
+[2026-03-24 16:33:25] User: has Michael worked for Bay Networks
+[2026-03-24 16:33:25] ChatGPT: Yes, Michael has worked for Bay Networks. He held two positions there in 1996: Functional Lead for Warehouse Picking Support and Project Manager for Business and ERP Consolidation.
+--------------------
+[2026-03-24 16:33:41] User: Has Michael been in the Navy
+[2026-03-24 16:33:41] ChatGPT: The resume does not provide any information about Mr. Tate being in the Navy.
+--------------------
+[2026-03-24 16:34:05] User: What did Michael do in the year 2001
+[2026-03-24 16:34:05] ChatGPT: The resume context does not provide information about what Michael did in the year 2001.
+--------------------
+[2026-03-24 16:34:38] User: does any of his consulting work experience list the year 2001
+[2026-03-24 16:34:38] ChatGPT: No, Mr. Tate's consulting work experience does not list the year 2001. His consulting work is listed from 1995-2010.
+--------------------
+[2026-03-24 17:46:03] User: Has Michael worked for semiconductor companies
+[2026-03-24 17:46:03] ChatGPT: Yes, Michael has worked with a major semiconductor manufacturer, where he simplified their Wafer Payment Process.
+--------------------
+[2026-03-24 17:46:36] User: When was that
+[2026-03-24 17:46:36] ChatGPT: The context does not provide a specific date, but it mentions that Mr. Tate worked at Abbott Labs and Avatar in 1999.
+--------------------
+[2026-03-24 18:05:25] User: Where did michaelf irst work
+[2026-03-24 18:05:25] ChatGPT: Mr. Tate first worked as a Functional Lead for an Oracle ERP Implementation at Specialized Bicycle in 2009.
+--------------------
+[2026-03-24 18:05:50] User: Where did Michael Last work 
+[2026-03-24 18:05:50] ChatGPT: Michael last worked at Specialized Bicycle as a Functional Lead in an Oracle ERP Implementation.
+--------------------
+[2026-03-24 18:15:08] User: How many jobs has michael worked
+[2026-03-24 18:15:08] ChatGPT: The resume context does not provide information on the number of jobs Mr. Tate has worked.
+--------------------
+[2026-03-24 18:15:26] User: Has Michael ever worked in Phoenix
+[2026-03-24 18:15:26] ChatGPT: The resume does not provide information on whether Mr. Tate has worked in Phoenix.
+--------------------
+[2026-03-24 18:15:42] User: where is estes located
+[2026-03-24 18:15:42] ChatGPT: Estes Property Management is located in Arizona and Southern California.
+--------------------
