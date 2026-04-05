@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael Steffee</title>
+</head>
+
+<style>
+    /* Styles for 0-499px viewports */
+    @media (min-width: 500px) {
+        /* Styles for >= 500px viewports */
+    }
+</style>
+
+<body>
+
+        <!-- Header -->
+    <div class="header">
+        <div class="headerLeft">
+        <h2>Michael Steffee</h2><p class="tagLine">Building Better Business Systems<p>
+        <h3>Business Analyst | Project Manager | Accountant | Developer</h3>
+        </div>
+
+        <div class="headerRight">
+            <div class="topRow">
+                <p>michaelsteffee@att.net</p>
+
+                <div class="hamburger" id="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+                <p>408 656-4639</p>
+        </div>
+    </div>
+
+    <!-- Slide Menu -->
+    <nav class="menu" id="menu">
+
+        <p class="themeTitle">Pages</p>
+        <a href="index.html">Home</a>
+        <a href="{{ url_for('resume_get') }}">Resume</a>
+        <a href="{{ url_for('photo_get') }}">Photos</a>
+
+        <div class="menuDivider"></div>
+
+    <!-- Theme Picker -->
+        <form class="theme-picker">
+            <p class="themeTitle">Themes</p>
+            <label>
+                <input type="radio" id="light" name="theme" value="light">
+                Light
+            </label>
+            <label>
+                <input type="radio" id="dark" name="theme" value="dark">
+                Dark
+            </label>
+            <label>
+                <input type="radio" id="system" name="theme" value="system">
+                System
+            </label>
+        </form>
+	<a href="/django/jobsearch">Job Search</a>
+    </nav>
+
+    <!-- Resume Download -->
+
+	<a href="{{ url_for('download_resume') }}" 
+	   class="resumeDL">
+	    <p class="corner-text">Download Resume</p>
+	</a>
+
+    <!-- Chatbot -->
+    <div class="container">
+        <div class="chatbox">
+            <div class="chatbox__support">
+                <div class="chatbox__header">
+                    <div class="chatbox__content--header">
+                        <img class="thumbnail" src="{{ url_for('static', filename='images/janeh.png') }}"/>
+                        <h4 class="chatbox__heading--header">Michael's assistant can help with questions</h4>
+                    </div>
+                </div>
+                <div class="chatbox__messages"></div>
+                <div class="chatbox__footer">
+                    <input id="data_input" type="text" placeholder="How can I help?">
+                    <button class="chatbox__send--footer send__button">Send</button>
+                </div>
+            </div>
+            <div class="chatbox__button">
+                <button><img src="{{ url_for('static', filename='images/chatbox-icon.svg') }}" /></button>
+            </div>
+            <div id="ttfn_blurb"></div>
+        </div>
+    </div>
+       
+    <div class="tableWrapper">
+
+        <div class="tableHeroHeader">
+            <p>Companies I have helped</p>
+        </div>
+        <div class="tablePanel">
+            <table class="sortable-table" id="placesWorked">
+ 
+                <thead>
+                    <tr>
+                        <th onclick="sortTable(0)">Company</th>
+                        <th onclick="sortTable(1)">Industry</th>
+                        <th onclick="sortTable(2)">Role</th>
+                        <th onclick="sortTable(3)">Project</th>
+                    </tr>
+                </thead>
+        
+                <tbody id="tableBody"></tbody>                
+            </table>
+        </div>
+        <div class="tableInstructions">
+            <span class="accent-3 instruction">Click: </span>
+            <span class="accent-1 instruction">Rows for Details</span>
+            <span class="accent-2 instruction">Headings to Sort</span> 
+        </div>
+    </div>
+
+    <!-- The popup (hidden by default) -->
+    <div id="tablePopup" class="documentFrame">
+        <div >
+            <span class="close" onclick="closepopup()">&times;</span>
+            <div id="resumeEntry"></div>
+        </div>
+    </div>
+
+    <div id="footer" class="accent-1">Powered by Miguel&oacute;n</div>
+
+    <script>
+        $SCRIPT_ROOT = {{ request.script_root|tojson }};
+    </script>
+    <script type="text/javascript" src="{{ url_for('static', filename='script.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='app.js') }}"></script>
+
+    <!-- project story board  -->
+
+            <div class="book-wrapper hidden" id="book-wrapper">
+            <div class="book-title">How I built my resume with OpenAI's API</div>
+            
+                <figure id="projectBook">
+                    <div id="closeX">x</div>
+                    <img src="{{ url_for('static', filename='images/1_old_excel_file.png') }}" id="Page1"/>
+                    <img src="{{ url_for('static', filename='images/2_entry_form.png') }}" id="Page2"/>
+                    <img src="{{ url_for('static', filename='images/3_transfer_to_table.png') }}" id="Page3"/>
+                    <img src="{{ url_for('static', filename='images/4_form_to_array.png') }}" id="Page4"/>
+                    <img src="{{ url_for('static', filename='images/5_python_data_array.png') }}" id="Page5"/>
+                    <img src="{{ url_for('static', filename='images/6_python_program.png') }}" id="Page6"/>
+                    <img src="{{ url_for('static', filename='images/7_prompt_template.png') }}" id="Page7"/>
+                    <img src="{{ url_for('static', filename='images/8_AI_api.png') }}" id="Page8"/>
+                    <img src="{{ url_for('static', filename='images/9_save_to_text.png') }}" id="Page9"/>
+                    <img src="{{ url_for('static', filename='images/10_word_macro.png') }}" id="Page10"/>
+                    <img src="{{ url_for('static', filename='images/11_add_to_resume.png') }}" id="Page11"/>
+                    <img src="{{ url_for('static', filename='images/10_word_macro.png') }}" id="Page12"/>
+                    <figcaption id="caption">I had a spreadsheet of my work, but it was put together over years and used 
+                        skills and jobs inconsistently within the narratives.</figcaption>
+                </figure>
+
+            <div class="nav-buttons">
+                <button class="nav-btn back" id="back">
+                    <span class="arrow">←</span>
+                    Back
+                </button>
+
+                <div id="pageCounter">1 / 3</div>
+
+                <button class="nav-btn forward" id="next">
+                    Next
+                    <span class="arrow">→</span>
+                </button>
+            </div>
+        </div>
+
+        <button class="paper-stack" id="paper-stack"><p class="corner-text">How <span class="slash-e">A</span>I Made my Resume</p></button>
+
+        <script type="text/javascript" src="{{ url_for('static', filename='projectAI.js') }}"></script>
+
+        <script type="text/javascript" src="{{ url_for('static', filename='theme.js') }}"></script>
+
+<script>
+
+const hamburger = document.getElementById("hamburger");
+const menu = document.getElementById("menu");
+
+hamburger.addEventListener("click", () => {
+
+    hamburger.classList.toggle("active");
+    menu.classList.toggle("open");
+
+});
+
+</script>
+        <script>
+            (function () {
+
+                const saved = localStorage.getItem("theme");
+
+                const systemDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+                const theme = saved ? saved : (systemDark ? "dark" : "light");
+
+                console.log("found " + theme);
+
+                document.documentElement.setAttribute("data-theme", theme);
+
+                const colorThemes = document.querySelectorAll('[name="theme"]');
+
+                const storeTheme = function (theme) {
+                    if (theme == "system") {
+                    localStorage.removeItem("theme");
+                    console.log("removed local setting - now using " + theme);
+                    } else {
+                    localStorage.setItem("theme", theme);
+                    console.log("storted " + theme + " as local setting");                        
+                    }
+                
+                };
+
+                colorThemes.forEach((themeOption) => {
+                    themeOption.addEventListener("click", () => {
+                         storeTheme(themeOption.id);
+                         document.documentElement.setAttribute("data-theme", themeOption.id);
+                    });
+                    });
+
+               //update radio buttons  
+
+               document.getElementById(theme).checked = true;
+            })();
+        </script>
+
+                <script>
+        const media = window.matchMedia("(prefers-color-scheme: dark)");
+
+        media.addEventListener("change", e => {
+
+            if (!localStorage.getItem("theme")) {
+
+            const newTheme = e.matches ? "dark" : "light"
+            document.documentElement.setAttribute(
+            "data-theme", newTheme);
+
+            // Update Buttons
+            document.getElementById(newTheme).checked = true;
+        }
+
+    });
+</script>  
+
+</body>
+
+</html>

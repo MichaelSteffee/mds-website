@@ -1,0 +1,572 @@
+[
+    {
+        "jobId": "1",
+        "company": "Specialized Bicycle",
+        "product": "Bicycles",
+        "industry": "Bicycle Manufacturing",
+        "project": "ERP Implementation in London and Austria.",
+        "year": "2009",
+        "job": "Purchasing lead in the implementation of a distribution hub in Austria and costing lead for the implementation of a distributor in London.",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Implementation | Specialized Bicycle | 2009  \nSpecialized Bicycle is a leading manufacturer of high-performance bicycles.\n\n- Led purchasing operations for the establishment of a distribution hub in Austria, ensuring seamless integration with existing supply chain processes.\n- Directed costing strategies for the London distributor implementation, optimizing financial accounting processes within Oracle ERP.\n- Configured Oracle ERP modules to enhance purchasing and costing functionalities, leveraging SQL for data accuracy and efficiency.\n\nRoles: Functional Lead  \nSkills Used: Financial Accounting, Oracle ERP, SQL\n"
+    },
+    {
+        "jobId": "2",
+        "company": "Exar",
+        "product": "Semiconductor Manufacturer",
+        "industry": "Semiconductor Manufacturing",
+        "project": "ERP Implementation",
+        "year": "2008",
+        "job": "Developed programs to transfer and update customer data and history from an acquired company (Sipex) into Exar's ERP system where many of the same customers already existed.  Provided general support during cutover efforts.",
+        "resumeEntry": "\nDeveloper | Oracle ERP Implementation | Exar | 2008  \nExar is a leading semiconductor manufacturer specializing in high-performance analog mixed-signal integrated circuits.\n- Developed robust programs to seamlessly transfer and update customer data from acquired company Sipex into Exar's existing Oracle ERP system, ensuring data integrity and continuity.\n- Provided critical support during cutover efforts, facilitating a smooth transition and minimizing downtime.\n- Conducted comprehensive testing to validate data migration processes, ensuring accuracy and reliability post-integration.\n\nRoles: Developer, Tester, Post Go Live Support  \nSkills Used: Oracle ERP, SQL\n"
+    },
+    {
+        "jobId": "3",
+        "company": "Specialized Bicycle",
+        "product": "Bicycles",
+        "industry": "Bicycle Manufacturing",
+        "project": "ERP Implementation in Madrid",
+        "year": "2007",
+        "job": "Lead the implementation of the Manufacturer and Costing apps.",
+        "resumeEntry": "\nFunctional Lead | ERP Implementation | Specialized Bicycle | 2007  \nSpecialized Bicycle is a leading company in the bicycle manufacturing industry.\n\n- Led the successful implementation of Manufacturer and Costing applications within Oracle ERP, ensuring alignment with Specialized Bicycle's operational goals.\n- Developed and executed a comprehensive post-go-live support strategy, ensuring seamless transition and system stability.\n- Conducted in-depth training sessions for end-users, enhancing proficiency in Financial Accounting modules.\n\nRoles: Functional Lead, Post Go Live Support, Trainer  \nSkills Used: Financial Accounting, Oracle ERP, SQL, Visio  \n"
+    },
+    {
+        "jobId": "4",
+        "company": "Calpine Containers",
+        "product": "Vegetable Containers",
+        "industry": "Container Manufacturing",
+        "project": "ERP System Upgrade",
+        "year": "2005",
+        "job": "Loaded all data from the current instance to a new instance on a new machine running  a new version of the software. Wrote conversion programs. Tested and verified results.",
+        "resumeEntry": "\nTechnical Lead | Oracle ERP System Upgrade | Calpine Containers | 2005  \nCalpine Containers specializes in manufacturing vegetable containers.\n\n- Loaded comprehensive data from the existing system to a new instance on an upgraded machine, ensuring seamless transition and data integrity.\n- Developed robust conversion programs to facilitate accurate data migration and system compatibility.\n- Conducted thorough testing and verification of results, ensuring system functionality and reliability.\n\nRoles: Technical Lead, Developer, Tester  \nSkills Used: Oracle ERP, SQL\n"
+    },
+    {
+        "jobId": "5",
+        "company": "California Micro Devices",
+        "product": "Semiconductors",
+        "industry": "Fabless Semiconductor Manufacturing",
+        "project": "ERP Implementation",
+        "year": "2005",
+        "job": "Project lead for manufacturing, costing, quality and sox apps.  Developed an outside processing roprojectMuting generator that tracked multiple assembly suppliers. Converted legacy data .",
+        "resumeEntry": "\nFunctional Lead | ERP Implementation | California Micro Devices | 2005  \nFabless Semiconductor Manufacturing Company  \n\n- Led the implementation of manufacturing, costing, quality, and SOX applications, ensuring alignment with industry standards and regulatory compliance.  \n- Developed an outside processing routing generator to efficiently track and manage multiple assembly suppliers, enhancing supply chain visibility.  \n- Converted legacy data to Oracle ERP, ensuring data integrity and seamless transition to the new system.  \n\nRoles: Functional Lead, Developer, Post Go Live Support  \nSkills: Financial Accounting, Oracle ERP, SQL  \n"
+    },
+    {
+        "jobId": "6",
+        "company": "Xilinx",
+        "product": "Semiconductors",
+        "industry": "Fabless Semiconductor Manufacturing",
+        "project": "Wafer payments process improvement.  ",
+        "year": "2003",
+        "job": "Analyzed the wafer payment system, recommending a change to Pay by Lot.  Changed accounts payable setups and developed new procedures and reports.  Found out why the lot number wasn't being passed to AP and specified program changes.  Managed programmer  Supported cutover and first weeks of processing.",
+        "resumeEntry": "\nFunctional Lead | Oracle Wafer Payment Process | Xilinx | 2003 \nXilinx is a leader in the fabless semiconductor manufacturing industry.\n\n- Analyzed existing wafer payment system, recommending a shift to Pay by Lot to streamline financial processes.\n- Developed new accounts payable setups, procedures, and reports to enhance financial accuracy and efficiency.\n- Identified and resolved issues with lot number transmission to Accounts Payable, specifying necessary program changes.\n- Managed programmer to ensure timely and accurate implementation of system modifications.\n- Supported cutover and initial processing weeks, ensuring smooth transition and system stability.\n\nRoles: Technical Lead, Functional Lead, Post Go Live Support, Trainer  \nSkills used: Financial Accounting, Oracle ERP, SQL\n"
+    },
+    {
+        "jobId": "7",
+        "company": "SF News Agency",
+        "product": "Newspaper Distributor",
+        "industry": "Newspaper",
+        "project": "ERP Purchasing Support",
+        "year": "2003",
+        "job": "Wrote reports, setup functions and answered questions in support of the purchasing department",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Support | SF News Agency | 2003  \nSF News Agency is a leading newspaper distributor.\n\n- Developed comprehensive reports to enhance purchasing department efficiency using Oracle ERP and SQL.\n- Configured purchasing functions to streamline operations and improve data accuracy.\n- Provided expert support and solutions to address purchasing department inquiries.\n\nRoles: Functional Lead, Developer, Post Go Live Support  \nSkills Used: Financial Accounting, Oracle ERP, SQL  \n"
+    },
+    {
+        "jobId": "8",
+        "company": "Power One",
+        "product": "Power Supplies",
+        "industry": "Semiconductor Manufacturing",
+        "project": "ERP Implementation",
+        "year": "2003",
+        "job": "Implemented a complete set of financial, order management, and manufacturing apps for a small engineering division of a larger company by myself.  Prepared documentation of the implementation and presented it to corporate IT. ",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Implementation | Power One | 2003  \nPower One is a semiconductor manufacturing company specializing in power supplies.\n\n- Implemented financial, order management, and manufacturing applications for an engineering division independently.\n- Prepared comprehensive documentation of the ERP implementation and presented findings to corporate IT.\n- Delivered project on time and within budget, ensuring seamless integration with existing systems.\n\nRoles: Technical Lead, Functional Lead, Post Go Live Support, Trainer  \nSkills Used: Project Management, Financial Accounting, Oracle ERP, SQL\n"
+    },
+    {
+        "jobId": "9",
+        "company": "Atheros",
+        "product": "Networking Chips",
+        "industry": "Semiconductor Manufacturing",
+        "project": "ERP Process Review.",
+        "year": "2003",
+        "job": "Reviewed manufacturer setups and processes.   Recommended changes to outside processing, made the setup changes, updated the users manuals and trained the users..",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Process Review | Atheros | 2003  \nAtheros is a leading company in the semiconductor manufacturing industry, specializing in networking chips.\n\n- Reviewed and analyzed manufacturer setups and processes to identify areas for improvement.\n- Recommended and implemented changes to outside processing, enhancing operational efficiency.\n- Updated user manuals to reflect new processes, ensuring clarity and ease of use.\n- Trained users on updated systems, facilitating smooth transitions and adoption.\n\nRoles: Functional Lead, Trainer  \nSkills used: Financial Accounting, Oracle ERP\n"
+    },
+    {
+        "jobId": "10",
+        "company": "Silicon Valley Group",
+        "product": "wafer processing equipment",
+        "industry": "Semiconductor Manufacturing",
+        "project": "Implementation of Quality Data application and general manufacturing support.",
+        "year": "2003",
+        "job": "Implementation of Quality Data application and general manufacturing support.",
+        "resumeEntry": "\nFunctional Lead | ERP Implementation | Silicon Valley Group | 2003  \nSilicon Valley Group specializes in wafer processing equipment for the semiconductor manufacturing industry.\n\n- Implemented Quality Data application, enhancing data accuracy and manufacturing efficiency.\n- Provided comprehensive post go-live support, ensuring seamless transition and system stability.\n\nRoles: Functional Lead, Post Go Live Support  \nSkills Used: Oracle ERP, Visio, Microsoft Project  \n"
+    },
+    {
+        "jobId": "11",
+        "company": "Finisar",
+        "product": "optical communication components",
+        "industry": "Semiconductor Manufacturing",
+        "project": "Training Class on  ERP Manufacturer apps",
+        "year": "2002",
+        "job": "  Developed manufacturing training class and materials. Presented 2 day class. Performed individual training sessions with a new manufacturing vice president.",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Training | Finisar | 2002  \nFinisar is a leading provider of optical communication components in the semiconductor manufacturing industry.\n\n- Developed comprehensive training materials for Oracle ERP manufacturing applications, ensuring alignment with Finisar's operational processes.\n- Delivered a two-day intensive training class, enhancing the understanding and application of ERP tools among manufacturing teams.\n- Conducted personalized training sessions with the new manufacturing vice president, facilitating a smooth transition and effective ERP utilization.\n\nRoles: Trainer  \nSkills Used: Financial Accounting, Oracle ERP\n"
+    },
+    {
+        "jobId": "12",
+        "company": "Marvell Technology",
+        "product": "Semiconductors",
+        "industry": "Fabless Semiconductor Manufacturing",
+        "project": "ERP Implementation in Singapore",
+        "year": "2002",
+        "job": "Lead the implementation of the manufacturing and costing apps. Created customizations to automate wafer receipts throughout a network of countries for tax purposes and to automate the closing procedures.",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Implementation | Marvell Technology | 2002  \nMarvell Technology is a leading fabless semiconductor company specializing in data infrastructure technology.\n\n- Led the implementation of manufacturing and costing applications, ensuring seamless integration with existing systems.\n- Developed customizations to automate wafer receipts across multiple countries, optimizing tax compliance processes.\n- Automated closing procedures, enhancing efficiency and accuracy in financial reporting.\n\nRoles: Functional Lead, Developer, Post Go Live Support, Trainer  \nSkills used: Financial Accounting, Oracle ERP, SQL\n"
+    },
+    {
+        "jobId": "13",
+        "company": "Corsair Communications",
+        "product": "Telecommunication Software",
+        "industry": "Telecommunication Software",
+        "project": "Chart of Accounts Conversion",
+        "year": "2002",
+        "job": "Conversion of  the segments and values of the ERP system's  chart of accounts  Wrote conversion programs. Tested and verified results with the Controller.",
+        "resumeEntry": "\nTechnical Lead | Chart of Account Conversion | Corsair Communications | 2002  \nCorsair Communications is a leading provider of telecommunication software solutions.\n\n- Developed conversion programs for the ERP system's chart of accounts, ensuring seamless integration of segments and values.\n- Tested and verified conversion results in collaboration with the Controller, ensuring accuracy and compliance with financial standards.\n\nRoles: Project Manager, Technical Lead, Developer, Tester  \nSkills: Project Management, Financial Accounting, Oracle ERP, SQL, Microsoft Project\n"
+    },
+    {
+        "jobId": "14",
+        "company": "Order Fusion",
+        "product": "Call Center Order Management Software",
+        "industry": "Order Management Software",
+        "project": "Develop Order Fusion to Oracle General Ledger Interface",
+        "year": "2001",
+        "job": "Development an interface to Oracle General Ledger to be incorporated into Order Fusion's Call Center Order Management software. Wrote detailed specifications Managed a programmer. Tested the product. Prepared user instructions.",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Implementation | Order Fusion | 2001  \nOrder Fusion specializes in Call Center Order Management Software.\n\n- Developed an interface to Oracle General Ledger, enhancing Order Fusion's Call Center Order Management software.\n- Wrote detailed specifications, ensuring alignment with Oracle ERP standards.\n- Managed a programmer to deliver the project on time and within budget.\n- Conducted rigorous testing to ensure seamless integration and functionality.\n- Prepared comprehensive user instructions to facilitate smooth adoption.\n\nRoles: Project Manager, Technical Lead, Tester, Trainer  \nSkills used: Project Management, Financial Accounting, Oracle ERP, SQL, Visio, Microsoft Project\n"
+    },
+    {
+        "jobId": "15",
+        "company": "West Coast Beauty",
+        "product": "Cosmetics",
+        "industry": "Cosmetics Distributor",
+        "project": "Inventory Structure Conversion",
+        "year": "2001",
+        "job": "Conversion of  the segments and values of the ERP system's  inventory structure  Wrote conversion programs. Tested and verified results with the Controller.",
+        "resumeEntry": "\nTechnical Lead | Inventory Structure Conversion | West Coast Beauty | 2001  \nWest Coast Beauty is a leading cosmetics distributor.\n\n- Developed conversion programs to restructure ERP inventory segments and values.\n- Tested and verified conversion results in collaboration with the Controller, ensuring accuracy and compliance.\n\nRoles: Technical Lead, Developer, Tester  \nSkills used: Financial Accounting, Oracle ERP, SQL\n"
+    },
+    {
+        "jobId": "16",
+        "company": "Form Factor",
+        "product": "Semiconductor Test Equipment ",
+        "industry": "Semiconductor Test Equipment  Manufacturing",
+        "project": "Chart of Accounts Conversion",
+        "year": "2001",
+        "job": "Converted the segments and values of the ERP system's  chart of accounts  Wrote conversion programs. Tested and verified results with the Controller.",
+        "resumeEntry": "\nTechnical Lead | Chart of Accounts Conversion | Form Factor | 2001  \nForm Factor is a leading manufacturer of semiconductor test equipment.\n\n- Converted segments and values of the ERP system's chart of accounts, ensuring seamless integration with existing financial structures.\n- Developed and executed conversion programs, maintaining data integrity throughout the process.\n- Conducted rigorous testing and verification of conversion results in collaboration with the Controller, ensuring accuracy and compliance.\n\nRoles: Technical Lead, Developer, Tester  \nSkills used: Financial Accounting, Oracle ERP, SQL\n"
+    },
+    {
+        "jobId": "17",
+        "company": "eSilicon",
+        "product": "Semiconductors Manufacturing Services",
+        "industry": "Semiconductors Manufacturing Services",
+        "project": "ERP Implementation Review",
+        "year": "2001",
+        "job": "Reviewed manufacturing setups and processes.   Recommended changes to Outside Processing, made the setup changes and updated the users manuals.  Revised Cost Accounting procedures",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Implementation Review | eSilicon | 2001  \neSilicon is a provider of semiconductor manufacturing services.\n\n- Reviewed and optimized manufacturing setups and processes, enhancing operational efficiency.\n- Recommended and implemented changes to Outside Processing, improving workflow and system integration.\n- Updated user manuals to reflect new processes, ensuring seamless user adoption.\n- Revised Cost Accounting procedures, aligning them with updated manufacturing processes.\n\nRoles: Functional Lead, Post Go Live Support, Trainer  \nSkills used: Financial Accounting, Oracle ERP, SQL  \n"
+    },
+    {
+        "jobId": "18",
+        "company": "CAT Technology",
+        "product": "Enterprise Computers",
+        "industry": "Computer Hardware",
+        "project": "Chart of Accounts Conversion",
+        "year": "2001",
+        "job": "Converted the segments and values of the ERP system's  chart of accounts  Wrote conversion programs. Tested and verified results with the Controller.",
+        "resumeEntry": "\nTechnical Lead | Chart of Accounts Conversion | CAT Technology | 2001  \nCAT Technology is a leader in the computer hardware industry, specializing in enterprise computing solutions.\n\n- Converted segments and values of the ERP system's chart of accounts, ensuring seamless integration with existing financial structures.\n- Developed and executed conversion programs, optimizing data migration processes.\n- Tested and verified conversion results with the Controller, ensuring accuracy and compliance with financial standards.\n\nRoles: Technical Lead, Developer, Tester  \nSkills Used: Financial Accounting, Oracle ERP, SQL  \n"
+    },
+    {
+        "jobId": "19",
+        "company": "Questlink",
+        "product": "B2B Engineering Sales Website",
+        "industry": "B2B Website",
+        "project": "B2B Website Project Plan",
+        "year": "2000",
+        "job": "Managed the creation of a detailed project plan to build the backend of an Engineering Business to Business website.",
+        "resumeEntry": "\nProject Manager | Oracle ERP Implementation | Questlink | 2000  \nQuestlink is a B2B engineering sales platform.\n\n- Managed the creation of a comprehensive project plan for the backend development of a B2B engineering website.\n- Architected the solution leveraging Oracle ERP to align with business objectives and streamline financial accounting processes.\n- Utilized Microsoft Project to ensure timely delivery and adherence to budget constraints.\n\nRoles: Project Manager, Architect  \nSkills used: Project Management, Financial Accounting, Oracle ERP, Microsoft Project\n"
+    },
+    {
+        "jobId": "20",
+        "company": "Ventro",
+        "product": "Business to Business Websites",
+        "industry": "B2B Websites",
+        "project": "Data Warehouse Implementation",
+        "year": "2000",
+        "job": "Project Manager for the implementation of a enterprise-wide Data Warehouse.",
+        "resumeEntry": "\nProject Manager | Data Warehouse Implementation | Ventro | 2000  \nVentro is a leading provider of B2B websites, specializing in connecting businesses through innovative digital platforms.\n\n- Led the enterprise-wide Data Warehouse implementation, ensuring alignment with business objectives and data integrity.\n- Architected the data warehouse structure, optimizing data flow and accessibility for enhanced decision-making capabilities.\n- Delivered the project on time and within budget, utilizing Microsoft Project for effective timeline and resource management.\n\nRoles: Project Manager, Architect  \nSkills Used: Project Management, Microsoft Project\n"
+    },
+    {
+        "jobId": "21",
+        "company": "Artesyn Solutions",
+        "product": "Contract Repair of HP Printers",
+        "industry": "OEM Equipment Repair",
+        "project": "Business System Upgrade",
+        "year": "2000",
+        "job": "Setup and tested a new Oracle ERP version.  Updated procedures and trained  the users.",
+        "resumeEntry": "\nProject Manager | Oracle ERP Implementation | Artesyn Solutions | 2000  \nArtesyn Solutions specializes in OEM repair services.\n\n- Configured and tested new Oracle ERP version, ensuring seamless integration with existing systems.\n- Developed and updated operational procedures, aligning with new system capabilities.\n- Conducted user training sessions, enhancing system adoption and proficiency.\n\nRoles: Project Manager, Functional Lead, Tester  \nSkills used: Project Management, Financial Accounting, Oracle ERP, SQL, Microsoft Project\n"
+    },
+    {
+        "jobId": "22",
+        "company": "George Lithograph",
+        "product": "Printing Services",
+        "industry": "Printer",
+        "project": "Implement WIP Average costing",
+        "year": "2000",
+        "job": "Setup and tested WIP average costing.  Updated the user procedures and trained the users.",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Implementation | George Lithograph | 2000  \nGeorge Lithograph is a leading provider of high-quality printing services.\n\n- Configured and tested Work In Progress (WIP) average costing module within Oracle ERP, ensuring seamless integration with existing financial systems.\n- Updated user procedures to align with new system functionalities, enhancing operational efficiency.\n- Trained end-users on new processes, ensuring smooth transition and adoption.\n\nRoles: Functional Lead, Tester, Trainer  \nSkills Used: Financial Accounting, Oracle ERP, Visio  \n"
+    },
+    {
+        "jobId": "23",
+        "company": "@Road",
+        "product": "Web based Vehicle Tracking",
+        "industry": "GPS Location Services",
+        "project": "ERP Implementation and a custom service contract billing application",
+        "year": "2000",
+        "job": "Project manager.  Developed a custom service contract billing application.  Managed Technical Resources and tested the results.",
+        "resumeEntry": "\nProject Manager | Oracle ERP Implementation & Custom Billing Application | @Road | 2000 \n@Road, a leader in GPS Location Services, specializes in web-based vehicle tracking solutions.\n\n- Developed a custom service contract billing application, enhancing financial accounting processes.\n- Managed technical resources, ensuring project milestones were met on time and within budget.\n- Tested application results, ensuring seamless integration with existing Oracle ERP systems.\n\nRoles: Project Manager, Technical Lead, Tester, Post Go Live Support  \nSkills Used: Project Management, Financial Accounting, Oracle ERP, SQL, Visio, Microsoft Project\n"
+    },
+    {
+        "jobId": "24",
+        "company": "wine.com",
+        "product": "Wine Sales Website",
+        "industry": "Web Store",
+        "project": "ERP Implementation",
+        "year": "2000",
+        "job": "Project Manager for an ERP Implementation.  Designed an architecture where Oracle supported a Web Store and a warehouse management application. Developed interfaces for items and sales information.",
+        "resumeEntry": "\nProject Manager | Oracle ERP Implementation | wine.com | 2000  \nwine.com is a leading online wine sales platform.\n\n- Designed a robust architecture integrating Oracle ERP with a web store and warehouse management system.\n- Developed seamless interfaces for item and sales data, enhancing data accuracy and accessibility.\n- Delivered project on time and within budget, optimizing financial accounting processes.\n\nRoles: Project Manager, Technical Lead, Developer, Architect  \nSkills used: Project Management, Financial Accounting, Oracle ERP, SQL, Visio, Microsoft Project\n"
+    },
+    {
+        "jobId": "25",
+        "company": "Chemdex",
+        "product": "LiveScience B2B Website",
+        "industry": "Webstore",
+        "project": "ERP Implementation",
+        "year": "1999",
+        "job": "Project manager, technical manager and functional lead for order management  Helped to develop a middle layer in the company databases to track transactions between business applications. Developed interfaces for order and sales information. Helped Oracle through their \u201cbeta release\u201d of Purchase Release features.  Managed technical resources.",
+        "resumeEntry": "\nProject Manager | Oracle ERP Implementation | Chemdex | 1999  \nChemdex is a pioneering B2B webstore specializing in scientific products.\n\n- Led the development of a middle layer in company databases to efficiently track transactions between business applications, enhancing data integrity and accessibility.\n- Developed robust interfaces for order and sales information, streamlining data flow and improving order management processes.\n- Collaborated with Oracle during the beta release of Purchase Release features, ensuring seamless integration and functionality.\n- Managed technical resources, optimizing team performance and ensuring project milestones were met on time and within budget.\n\nRoles: Project Manager, Technical Lead, Functional Lead, Architect, Tester, Post Go Live Support  \nSkills used: Project Management, Financial Accounting, Oracle ERP, SQL, Visio, Microsoft Project\n"
+    },
+    {
+        "jobId": "26",
+        "company": "GSS Array",
+        "product": "Contract Manufacturing",
+        "industry": "Contract Manufacturing",
+        "project": "ERP Support and Development",
+        "year": "1999",
+        "job": "Supported the controller's business needs.  Developed reports and customizations to report both actual and standard costs.  Developed procedures and training.",
+        "resumeEntry": "\nTechnical Lead | ERP Support and Development | GSS Array | 1999  \nGSS Array is a contract manufacturing company specializing in providing comprehensive manufacturing solutions.\n\n- Developed reports and customizations to accurately reflect both actual and standard costs, enhancing financial visibility.\n- Supported the controller's business needs by aligning ERP functionalities with financial accounting requirements.\n- Created and implemented procedures and training materials to streamline ERP usage and ensure effective knowledge transfer.\n\nRoles: Technical Lead, Functional Lead, Developer, Tester, Trainer  \nSkills Used: Financial Accounting, Manman ERP, 4GL Tools\n"
+    },
+    {
+        "jobId": "27",
+        "company": "Calpine Containers",
+        "product": "Farm Containers",
+        "industry": "Container Manufacturing",
+        "project": "ERP Implementation",
+        "year": "1999",
+        "job": "Lead the implementation of the manufacturing and costing apps.",
+        "resumeEntry": "\nFunctional Lead | ERP Implementation | Calpine Containers | 1999  \nCalpine Containers is a leading manufacturer of farm containers.\n\n- Led the implementation of manufacturing and costing applications, ensuring alignment with business objectives.\n- Developed and executed training programs for end-users, enhancing system adoption and efficiency.\n- Configured Oracle ERP modules to streamline financial accounting processes, improving data accuracy.\n\nRoles: Functional Lead, Trainer  \nSkills Used: Financial Accounting, Oracle ERP, SQL  \n"
+    },
+    {
+        "jobId": "28",
+        "company": "Litton Solid State",
+        "product": "Defense Contractor",
+        "industry": "Defense Contractor",
+        "project": "ERP Support",
+        "year": "1999",
+        "job": "Review of  systems and procedures. Developed procedures and reports. Helped train an inexperienced IT Manager. General support.",
+        "resumeEntry": ""
+    },
+    {
+        "jobId": "29",
+        "company": "Abbott Labs",
+        "product": "LifeScience Products Manufacturer",
+        "industry": "LifeScience Products Manufacturing",
+        "project": "ERP Support",
+        "year": "1999",
+        "job": "Supported the manufacturing reporting  needs of engineering and quality departments. Developed reports and customizations",
+        "resumeEntry": "\nDeveloper | Manman ERP Support | Abbott Labs | 1999  \nLifeScience Products Manufacturer  \n\n- Developed reports and customizations to support manufacturing reporting needs for engineering and quality departments.  \n- Utilized Manman ERP and 4GL Tools to enhance data accuracy and accessibility.  \n\nRoles: Developer  \nSkills used: Manman ERP, 4GL Tools  \n"
+    },
+    {
+        "jobId": "30",
+        "company": "Avatar",
+        "product": "Portable Hard Drives Manufacturer",
+        "industry": "Portable Hard Drives Manufacturing",
+        "project": "ERP Support",
+        "year": "1999",
+        "job": "Supported manufacturing apps during staff vacations.",
+        "resumeEntry": "\nFunctional Lead | Manman ERP Support | Avatar | 1999  \nPortable Hard Drives Manufacturer  \n\n- Supported manufacturing applications during staff vacations, ensuring seamless operations and continuity.  \n- Utilized Financial Accounting modules to maintain accurate financial data and reporting.  \n- Leveraged 4GL Tools to troubleshoot and resolve technical issues promptly.  \n\nRoles: Developer, Post Go Live Support  \nSkills Used: Financial Accounting, Manman ERP, 4GL Tools  \n"
+    },
+    {
+        "jobId": "31",
+        "company": "George Lithograph",
+        "product": "Printing Services",
+        "industry": "Printing",
+        "project": "ERP Implementation",
+        "year": "1999",
+        "job": "Project Lead for the manufacturing and costing applications.",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Implementation | George Lithograph | 1999  \nGeorge Lithograph is a leading provider of printing services.\n\n- Led the implementation of manufacturing and costing applications, ensuring alignment with business objectives.\n- Developed and executed project plans, delivering the project on time and within budget.\n- Configured Oracle ERP modules to optimize financial accounting processes.\n- Provided post go-live support, enhancing system stability and user satisfaction.\n- Conducted training sessions to empower users with ERP functionalities.\n\nRoles: Functional Lead, Post Go Live Support, Trainer  \nSkills Used: Financial Accounting, Oracle ERP, SQL\n"
+    },
+    {
+        "jobId": "32",
+        "company": "KLA/Tencor",
+        "product": "Semiconductor Test Equipment",
+        "industry": "Semiconductor Test Equipment  Manufacturing",
+        "project": "ERP Support",
+        "year": "1999",
+        "job": "Supported manufacturing apps during staff vacations.",
+        "resumeEntry": "\nFunctional Lead | Manman ERP Support | KLA/Tencor | 1999  \nKLA/Tencor is a leader in semiconductor test equipment manufacturing.\n\n- Supported manufacturing applications during staff vacations, ensuring seamless operations and continuity.\n- Utilized Financial Accounting modules to maintain accurate financial data during critical periods.\n- Leveraged 4GL Tools to troubleshoot and resolve technical issues promptly.\n\nRoles: Developer, Post Go Live Support  \nSkills used: Financial Accounting, Manman ERP, 4GL Tools\n"
+    },
+    {
+        "jobId": "33",
+        "company": "Novellus Systems",
+        "product": "Semiconductor Manufacturing Equipment",
+        "industry": "Semiconductor Manufacturing Equipment",
+        "project": "Business System Review",
+        "year": "1999",
+        "job": "Review of  systems and procedures. Recommendations included incorporating ECO software  to augment their current system.  ",
+        "resumeEntry": "\nFunctional Lead | Business System Review | Novellus Systems | 1999  \nSemiconductor Manufacturing Equipment Company  \n\n- Conducted comprehensive review of existing systems and procedures, identifying key areas for enhancement.  \n- Recommended integration of Engineering Change Order (ECO) software to optimize current system capabilities.  \n\nRoles: Functional Lead, Architect  \nSkills Used: Financial Accounting, Manman ERP, Visio  \n"
+    },
+    {
+        "jobId": "34",
+        "company": "Jetstream Communications",
+        "product": "Voice over DSL Hardware",
+        "industry": "Communications Equipment Manufacturing",
+        "project": "ERP Implementation",
+        "year": "1999",
+        "job": "General manufacturing and accounting support and training for the implementation team.",
+        "resumeEntry": "\nTrainer | Oracle ERP Implementation | Jetstream Communications | 1999  \nJetstream Communications is a leader in communications equipment manufacturing, specializing in Voice over DSL hardware.\n\n- Delivered comprehensive training sessions to the implementation team, focusing on Oracle ERP's Financial Accounting module.\n- Supported the manufacturing and accounting departments, ensuring seamless integration and adoption of new ERP processes.\n\nRoles: Trainer  \nSkills Used: Financial Accounting, Oracle ERP\n"
+    },
+    {
+        "jobId": "35",
+        "company": "Phone.com",
+        "product": "Mobile Browsing Software",
+        "industry": "Mobile Browsing Software",
+        "project": "Chart of Accounts Conversion",
+        "year": "1999",
+        "job": "Conversion of  the segments and values of the ERP system's chart of accounts.  Wrote conversion programs. Tested and verified results with the Controller.",
+        "resumeEntry": "\nTechnical Lead | Chart of Accounts Conversion| Phone.com | 1999  \nMobile Browsing Software Company  \n\n- Developed conversion programs for the ERP system's chart of accounts, ensuring seamless integration of segments and values.  \n- Conducted rigorous testing and verification of conversion results in collaboration with the Controller, ensuring accuracy and compliance with financial accounting standards.  \n\nRoles: Technical Lead, Developer, Tester  \nSkills: Financial Accounting, Oracle ERP, SQL  \n"
+    },
+    {
+        "jobId": "36",
+        "company": "Skylawn",
+        "product": "Cemetery",
+        "industry": "Burial Services",
+        "project": "ERP Implementation",
+        "year": "1998",
+        "job": "Lead the implementation of the purchasing, inventory and costing apps. Developed customizations to create a cales commissions ledger to handle a unique payment structure and a non-financial transaction to record internment data within a map of  inventory locators.",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Implementation | Skylawn | 1998  \nSkylawn is a leading provider of burial services, offering comprehensive cemetery solutions.\n\n- Led the implementation of Oracle ERP modules for purchasing, inventory, and costing, ensuring seamless integration with existing processes.\n- Developed customizations to create a sales commissions ledger, addressing unique payment structures and enhancing financial tracking.\n- Engineered a non-financial transaction system to accurately record interment data, utilizing a map of inventory locators for precise management.\n- Delivered the project on time and within budget, optimizing resource allocation and minimizing disruptions.\n\nRoles: Technical Lead, Functional Lead, Developer, Tester, Post Go Live Support, Trainer  \nSkills: Financial Accounting, Oracle ERP, SQL, Visio  \n"
+    },
+    {
+        "jobId": "37",
+        "company": "GSS Array",
+        "product": "Contract Manufacturer",
+        "industry": "Contract Manufacturing",
+        "project": "ERP Training Classes",
+        "year": "1998",
+        "job": "Developed manufacturing, order management and finance apps.  class materials and presented 5 day class.",
+        "resumeEntry": "\nTrainer | Manman ERP Training Classes | GSS Array | 1998  \nGSS Array is a contract manufacturer specializing in custom manufacturing solutions.\n\n- Created detailed class materials and delivered a 5-day intensive training program to equip staff with essential ERP skills.\n\nRoles: Trainer  \nSkills used: Financial Accounting, Manman ERP, 4GL Tools\n"
+    },
+    {
+        "jobId": "38",
+        "company": "Topcon Lase",
+        "product": "Construction Levels",
+        "industry": "Electronics Manufacturing",
+        "project": "ERP Support",
+        "year": "1998",
+        "job": "Supported the Controller's business needs.  Developed reports and customizations.  Developed procedures and training.",
+        "resumeEntry": "\nFunctional Lead | Manman ERP Support | Topcon Laser | 1998  \nTopcon Lase is a leader in electronics manufacturing specializing in construction levels.\n\n- Developed tailored financial reports and customizations to align with the Controller's business requirements.\n- Created comprehensive procedures and facilitated training sessions to enhance user proficiency and system utilization.\n- Provided post go-live support ensuring seamless ERP operations and user satisfaction.\n\nRoles: Functional Lead, Post Go Live Support, Trainer  \nSkills Used: Financial Accounting, Manman ERP, 4GL Tools\n"
+    },
+    {
+        "jobId": "39",
+        "company": "Artesyn Solutions",
+        "product": "Contract Repair of HP Printers",
+        "industry": "OEM Equipment Repair",
+        "project": "ERP Implementation",
+        "year": "1998",
+        "job": "Project manage, manufacturing functional lead and data conversion developer",
+        "resumeEntry": "\nProject Manager | Oracle ERP Implementation | Artesyn Solutions | 1998  \nArtesyn Solutions specializes in OEM equipment repair, focusing on contract repair of HP printers.\n\n- Led the manufacturing module implementation, aligning ERP functionalities with business processes.\n- Managed project timelines and resources, ensuring delivery on schedule and within budget.\n- Developed data conversion processes, migrating legacy data to Oracle ERP with precision.\n- Utilized SQL for data extraction and transformation, ensuring data integrity and accuracy.\n\nRoles: Project Manager, Functional Lead, Developer, Tester  \nSkills used: Project Management, Financial Accounting, Oracle ERP, SQL, Visio, Microsoft Project\n"
+    },
+    {
+        "jobId": "40",
+        "company": "Electroglas",
+        "product": "Precision Glass",
+        "industry": "Precision Glass Manufacturing",
+        "project": "ERP Training Classes",
+        "year": "1998",
+        "job": "Developed manufacturing, order management and finance apps.  class materials and presented 5 day class.",
+        "resumeEntry": "\nTrainer | ERP Training Classes | Electroglas | 1998  \nElectroglas is a leader in precision glass manufacturing.\n\n- Developed manufacturing, order management, and finance applications to enhance operational efficiency.\n- Created comprehensive class materials and delivered a 5-day training session to ensure seamless ERP adoption.\n\nRoles: Trainer  \nSkills Used: Financial Accounting, Manman ERP\n"
+    },
+    {
+        "jobId": "41",
+        "company": "Onsale.com",
+        "product": "Online Auction",
+        "industry": "Webstore",
+        "project": "Chart of accounts Conversion ",
+        "year": "1998",
+        "job": "Change the structure of Onsale\u2019s Oracle ERP chart of accounts. ",
+        "resumeEntry": "\nFunctional Lead | Chart of Accounts Conversion | Onsale.com | 1998  \nOnsale.com is a pioneering online auction webstore.  \n\n- Developed a new chart of accounts structure within Oracle ERP, enhancing financial reporting capabilities.  \n- Executed comprehensive testing to ensure seamless integration and functionality of the new structure.  \n\nRoles: Developer, Tester  \nSkills used: Financial Accounting, Oracle ERP, SQL  \n"
+    },
+    {
+        "jobId": "42",
+        "company": "Metricom",
+        "product": "Wireless Internet Services",
+        "industry": "Wireless Internet Services",
+        "project": "ERP Training Classes",
+        "year": "1998",
+        "job": "Developed manufacturing application class materials and presented 3 day class.",
+        "resumeEntry": "\nTrainer | ERP Training Classes | Metricom | 1998  \nMetricom is a provider of wireless internet services.\n\n- Developed comprehensive manufacturing application class materials tailored for ERP training.\n- Presented an intensive 3-day training class, enhancing user proficiency in ERP systems.\n\nRoles: Trainer  \nSkills Used: Financial Accounting, Manman ERP\n"
+    },
+    {
+        "jobId": "43",
+        "company": "Hughes - Avicom",
+        "product": "Audio and Video Electronics",
+        "industry": "Electronics Manufacturing",
+        "project": "ERP Training Classes",
+        "year": "1997",
+        "job": "Developed manufacturing application class materials and presented 3 day class.",
+        "resumeEntry": "\nTrainer | ERP Training Classes | Hughes - Avicom | 1997  \nHughes - Avicom is a leader in the electronics manufacturing industry, specializing in audio and video electronics.\n\n- Developed comprehensive manufacturing application class materials tailored for ERP users.\n- Presented a three-day intensive training class, enhancing user proficiency in Manman ERP.\n\nRoles: Trainer  \nSkills used: Manman ERP\n"
+    },
+    {
+        "jobId": "44",
+        "company": "Education Access",
+        "product": "Computer Hardware and Software",
+        "industry": "Education Electronics Retailer",
+        "project": "ERP Implementation",
+        "year": "1997",
+        "job": "Project Lead for the manufacturing and costing applications.",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Implementation | Education Access | 1997  \nEducation Access is a leading retailer specializing in computer hardware and software for the education sector.\n\n- Led the implementation of Oracle ERP manufacturing and costing applications, ensuring alignment with business objectives.\n- Developed and executed training programs for end-users, enhancing system adoption and proficiency.\n- Utilized SQL to streamline financial accounting processes, improving data accuracy and reporting efficiency.\n\nRoles: Functional Lead, Trainer  \nSkills Used: Financial Accounting, Oracle ERP, SQL\n"
+    },
+    {
+        "jobId": "45",
+        "company": "DH Technology",
+        "product": "Printers and Labels",
+        "industry": "Printer Manufacturing",
+        "project": "ERP Implementation",
+        "year": "1997",
+        "job": "Lead the implementation of the manufacturing and costing apps in Riverton, Wy, Golden, CO and Paso Robles, CA.  ",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Implementation | DH Technology | 1997  \nDH Technology is a leading manufacturer of printers and labels.\n\n- Led the implementation of manufacturing and costing applications across three locations: Riverton, WY, Golden, CO, and Paso Robles, CA.\n- Configured Oracle ERP modules to streamline manufacturing processes and enhance costing accuracy.\n- Delivered training sessions to ensure seamless adoption of new systems by end-users.\n\nRoles: Functional Lead, Trainer  \nSkills Used: Financial Accounting, Oracle ERP\n"
+    },
+    {
+        "jobId": "46",
+        "company": "Advanced Fibre Comm.",
+        "product": "Telecommunication Equipment",
+        "industry": "Telecommunication Equipment Manufacturing",
+        "project": "ERP System Selection",
+        "year": "1997",
+        "job": "Developed the manufacturing  specifications for an ERP system selection.",
+        "resumeEntry": "\nFunctional Lead | ERP System Selection | Advanced Fibre Comm. | 1997  \nTelecommunication Equipment Manufacturing  \n\n- Developed manufacturing specifications for ERP system selection, ensuring alignment with industry standards and operational needs.  \n- Collaborated with stakeholders to define system requirements, enhancing decision-making processes.  \n\nRoles: Functional Lead  \nSkills Used: Financial Accounting, Oracle ERP  \n"
+    },
+    {
+        "jobId": "47",
+        "company": "Compression Labs",
+        "product": "Video Software",
+        "industry": "Video Software",
+        "project": "ERP Development Support",
+        "year": "1997",
+        "job": "Supported the business reporting needs.  Developed reports and customizations.",
+        "resumeEntry": "\nDeveloper | ERP Development Support | Compression Labs | 1997  \nCompression Labs is a leader in video software solutions.\n\n- Developed and customized business reports to support organizational reporting needs.\n- Utilized Manman ERP and 4GL Tools to enhance data accuracy and accessibility.\n\nRoles: Developer  \nSkills used: Manman ERP, 4GL Tools\n"
+    },
+    {
+        "jobId": "48",
+        "company": "Polycom",
+        "product": "Video Conferencing Equipment",
+        "industry": "Video Conferencing Equipment Manufacturing",
+        "project": "ERP Development Support",
+        "year": "1997",
+        "job": " Supported the business reporting needs.  Developed reports and customizations.",
+        "resumeEntry": "\nDeveloper | ERP Development Support | Polycom | 1997  \nPolycom is a leader in voice and video conferencing equipment manufacturing.\n\n- Developed tailored reports and customizations to meet business reporting needs.\n- Enhanced data visibility and decision-making capabilities through effective report development.\n\nRoles: Developer  \nSkills used: Manman ERP, 4GL Tools\n"
+    },
+    {
+        "jobId": "49",
+        "company": "Cellnet Data Systems",
+        "product": "Wireless Network Equipment",
+        "industry": "Wireless Network Equipment",
+        "project": "Chart of Accounts Conversion",
+        "year": "1997",
+        "job": "Project Manager.  Conversion of  the segments and values of the ERP system's  chart of accounts  Managed programmer.  Wrote consolidation procedures. Tested and verified results with the Controller.",
+        "resumeEntry": "\nProject Manager | Chart of Accounts Conversion | Cellnet Data Systems | 1997  \nCellnet Data Systems specializes in wireless network equipment.\n\n- Led the conversion of ERP system's chart of accounts segments and values, ensuring seamless integration with existing financial structures.\n- Developed and implemented consolidation procedures, enhancing financial reporting accuracy.\n- Managed technical development and testing, collaborating closely with the Controller to verify results.\n\nRoles: Project Manager, Technical Lead, Functional Lead, Tester  \nSkills Used: Project Management, Financial Accounting, Manman ERP, 4GL Tools\n"
+    },
+    {
+        "jobId": "50",
+        "company": "JTS",
+        "product": "Hard Drives",
+        "industry": "Hard Drive Manufacturing",
+        "project": "ERP Implementation",
+        "year": "1996",
+        "job": "Project manager of an ERP implementation in San Jose and Madros, India.  Lead the implementation of the Manufacturer apps.  Performed ",
+        "resumeEntry": "\nProject Manager | Manman ERP Implementation | JTS | 1996  \nJTS is a company specializing in the manufacturing of hard drives.\n\n- Led the ERP implementation project across San Jose and Madras, India, ensuring seamless integration of Manufacturer applications.\n- Directed project timelines and deliverables, achieving completion on schedule and within budget.\n- Developed and executed testing protocols to ensure system reliability and accuracy.\n- Conducted training sessions to enhance user proficiency and system adoption.\n\nRoles: Project Manager, Functional Lead, Tester, Trainer  \nSkills used: Project Management, Financial Accounting, Manman ERP, Visio, Microsoft Project, 4GL Tools\n"
+    },
+    {
+        "jobId": "51",
+        "company": "Sanmina",
+        "product": "Contract Manufacturing",
+        "industry": "Contract Manufacturing",
+        "project": "ERP Implementation",
+        "year": "1996",
+        "job": "Go Live support for production facility in Richardson, TX",
+        "resumeEntry": "\nFunctional Lead | Oracle ERP Implementation | Sanmina | 1996  \nSanmina is a global leader in contract manufacturing services.\n\n- Led Go Live support for Oracle ERP implementation at the Richardson, TX production facility.\n- Ensured seamless transition to Oracle Financial Accounting module, minimizing downtime.\n- Provided expert post Go Live support, optimizing system functionality and user adoption.\n\nRoles: Functional Lead, Post Go Live Support  \nSkills used: Financial Accounting, Oracle ERP  \n"
+    },
+    {
+        "jobId": "52",
+        "company": "Bell Microproducts",
+        "product": "Contract Manufacturer",
+        "industry": "Contract Manufacturing",
+        "project": "ERP Support",
+        "year": "1996",
+        "job": " Supported the Controller's business needs.  Developed Reports and Customizations.  Developed Procedures and Training.",
+        "resumeEntry": "\nFunctional Lead | Manman ERP Support | Bell Microproducts | 1996  \nBell Microproducts is a contract manufacturing company specializing in electronic components.\n\n- Developed reports and customizations to align with the Controller's business needs, enhancing financial reporting capabilities.\n- Created and documented procedures to streamline financial accounting processes, ensuring compliance and efficiency.\n- Delivered targeted training sessions to empower staff with the necessary skills to utilize ERP tools effectively.\n\nRoles: Functional Lead, Developer, Trainer  \nSkills used: Financial Accounting, Manman ERP, 4GL Tools  \n"
+    },
+    {
+        "jobId": "53",
+        "company": "Bay Networks",
+        "product": "Network Equipment",
+        "industry": "Network Equipment Manufacturing",
+        "project": "ERP Legacy Support",
+        "year": "1996",
+        "job": "Support business applications, allowing department staff to focus on the next implementation.",
+        "resumeEntry": "\nFunctional Lead | ERP Legacy Support | Bay Networks | 1996  \nNetwork Equipment Manufacturing Company  \n\n- Supported business applications, enabling department staff to concentrate on upcoming implementations.  \n- Utilized Manman ERP and 4GL Tools to maintain seamless financial accounting operations.  \n\nRoles: Post Go Live Support  \nSkills Used: Financial Accounting, Manman ERP, 4GL Tools  \n"
+    },
+    {
+        "jobId": "54",
+        "company": "Harmonic Lightwaves",
+        "product": "Fibre-Optic Network Equipment",
+        "industry": "Network Equipment Manufacturing",
+        "project": "ERP Legacy Support",
+        "year": "1996",
+        "job": "Supported finance and costing applications",
+        "resumeEntry": "\nFunctional Lead | ERP Support | Harmonic Lightwaves | 1996  \nHarmonic Lightwaves is a leader in fibre-optic equipment manufacturing.\n\n- Supported financial applications within the Manman ERP system, ensuring seamless operation and reliability.\n- Utilized 4GL Tools to troubleshoot and resolve post go-live issues, enhancing system performance and user satisfaction.\n\nRoles: Post Go Live Support  \nSkills used: Financial Accounting, Manman ERP, 4GL Tools  \n"
+    },
+    {
+        "jobId": "55",
+        "company": "Dana Automotive",
+        "product": "Automobile Frames",
+        "industry": "Automobile Frame Manufacturing",
+        "project": "ERP Implementation",
+        "year": "1995",
+        "job": "Project Manager. ERP Implementation in Elizabethtown, KY.  Replaced the regular project manager during times they couldn't travel.",
+        "resumeEntry": "\nProject Manager | ERP Implementation | Dana Automotive | 1996  \nDana Automotive is a leading manufacturer of automobile frames.\n\n- Led the ERP implementation project in Elizabethtown, KY, ensuring seamless integration of financial accounting processes.\n- Managed project timelines and deliverables using Microsoft Project, achieving completion on time and under budget.\n- Filled in as Project Manager during critical phases, maintaining project momentum and stakeholder engagement.\n- Conducted training sessions to enhance team proficiency in Manman ERP, optimizing system utilization.\n\nRoles: Project Manager, Functional Lead, Trainer  \nSkills Used: Project Management, Financial Accounting, Manman ERP, Microsoft Project\n"
+    },
+    {
+        "jobId": "56",
+        "company": "Bay Networks",
+        "product": "Network Equipment",
+        "industry": "Network Equipment Manufacturing",
+        "project": "Support of Custom Barcode Picking System",
+        "year": "1995",
+        "job": "Supported Warehouse activities on a custom picking system",
+        "resumeEntry": "\nFunctional Lead | Manman ERP Support | Bay Networks | 1996  \nBay Networks is a leader in network equipment manufacturing.\n\n- Supported warehouse operations by optimizing a custom barcode picking system, ensuring seamless integration with existing processes.\n- Enhanced system reliability and efficiency, contributing to improved warehouse productivity.\n\nRoles: Post Go Live Support  \nSkills Used: Manman ERP, 4GL Tools\n"
+    },
+    {
+        "jobId": "57",
+        "company": "Bay Networks",
+        "product": "Network Equipment",
+        "industry": "Network Equipment Manufacturing",
+        "project": "Business and ERP Consolidation",
+        "year": "1995",
+        "job": "Project manager for the consolidation of Synoptics and Wellfleet's business systems to become Bay Networks.  Specified database changes to reflect merged business practices.  Managed programmer.  Tested and verified results with auditor Ernst and Young.  ",
+        "resumeEntry": "Project Manager | Business and ERP Consolidation | Bay Networks | 1996  \nBay Networks, a leader in network equipment manufacturing.\n\n- Led the consolidation of Synoptics and Wellfleet's business systems into Bay Networks, ensuring seamless integration and operational continuity.\n- Specified critical database changes to align with merged business practices, enhancing data accuracy and system efficiency.\n- Managed programmer resources effectively, ensuring project milestones were met on time and within budget constraints.\n- Conducted rigorous testing and verification of system changes, collaborating with Ernst and Young to ensure compliance and accuracy.\n\nRoles: Project Manager, Tester  \nSkills Used: Financial Accounting, Manman ERP, Microsoft Project, 4GL Tools\n"
+    }
+]

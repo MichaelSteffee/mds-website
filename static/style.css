@@ -1,0 +1,1173 @@
+:root {
+
+  --bg-base: #f4f8ff;
+;
+  --bg-rg-1: rgba(120,160,255,0.25);
+  --bg-rg-2: rgba(0,80,150,0.12);
+  --bg-lg-1: #b5b6db;
+  --bg-lg-2: #abc6f2;
+  --bg-lg-3: #82a8f5;
+  --bg-lg-grid: rgba(255,255,255,0.25);
+  
+  --menu-bg: rgba(255,255,255);
+
+  --bg-main: rgb(161, 167, 193);
+  --bg-panel: rgb(255,255,255);
+  --bg-table: rgb(248,249,255);
+
+  --tbl-hdr: rgba(0,0,0);
+  --tbl-row:rgba(0,0,0);
+
+  --text-h2:  rgba(0,0,0);
+  --text-h3:  rgba(0,0,0);
+  --text-p:  rgba(0,0,0);
+  --text-shdw: rgba(255,255,255,.7);
+  
+  --text-main: rgb(0,0,0);
+  --text-soft: rgb(60,60,90);
+  --text-header: rgb(25,25,112);
+
+  --text-accent-1: rgb(0, 0, 255);
+  --text-accent-2: #176740;
+  --text-accent-3: #f5a609; 
+  --hamburger-color: #000;
+  --book-bkgnd: #ffdf80;
+}
+
+[data-theme="light"] {
+  --hamburger-color: #000;
+  --text-main: rgb(0,0,0);
+}
+
+[data-theme="dark"] {
+
+  --bg-base: #0b4f8a;
+  --bg-rg-1: rgba(255,255,255,0.15);
+  --bg-rg-2: rgba(0,0,0,0.25);
+  --bg-lg-1: #1f659f;
+  --bg-lg-2: #1f629c;
+  --bg-lg-3: #1a3a5e;
+  --bg-lg-grid: rgba(255,255,255,0.08);
+
+  /* large grid */
+  --grid-major: rgba(255,255,255,.10);
+
+  /* small grid */
+  --grid-minor: rgba(255,255,255,.04);
+
+  --bg-main: rgb(84, 88, 62);
+  --bg-panel: rgb(0,0,0);
+  --bg-table: rgb(7,6,0);
+
+  --tbl-bg: rgba(10,25,55,.45);
+  --tbl-brdr: rgba(255,255,255,0.15);
+  --tbl-shdw: rgba(0,0,0,.35);
+  --tbl-shdw-ins: rgba(255,255,255,.05);
+  --tbl-hdr: #e8f0ff;
+  --tbl-row: #cfdfff;
+  --tbl-nth: rgba(255,255,255,.02);
+
+  --menu-bg: rgba(10,25,55,.85);
+
+  --theme-hdr: #9fb5d6;
+  --theme-acc: #ffd27a;
+
+  --text-h2: #E6EAF2;
+  --text-h3: #E6EAF2;
+  --text-p:  #c8d8f0;
+  --text-shdw-1: rgba(0,0,0,.45);
+  --text-shdw-2: rgba(0,0,0,.15);
+
+  --text-main: #f2f6ff;
+  --text-heading: #ffffff;
+  --text-secondary: #c8d8f0;
+
+  --text-link: #7fd3ff;
+  --text-accent-1: #ffd27a;
+  --text-accent-2: #a8ffd6;
+  --text-accent-3: rgb(255,255,0);
+
+  --box-shdw-1: rgba(0,0,0,.4);
+  --box-shdw-2: rgba(0, 0, 0, 0.1);
+
+  --popup-bg: rgba(179, 107, 107, 0.4);
+  --hamburger-color: #ffffff;
+  --book-bkgnd: #996600; /* brown */
+}
+
+html {
+  color-scheme: light dark;
+}
+
+
+Body {
+  height: 97vh;
+
+  background-image: 
+    /* grid vertical */
+  linear-gradient(var(--bg-lg-grid) 1px, transparent 1px),
+
+    /* grid horizontal */
+  linear-gradient(90deg, var(--bg-lg-grid) 1px, transparent 1px);
+
+  /* Base color */
+  background-color: var(--bg-base);
+
+  /* Layered background */
+  background-image:
+    radial-gradient(circle at 30% 30%, var(--bg-rg-2), transparent 40%),
+    radial-gradient(circle at 70% 70%, var(--bg-rg-1), transparent 30%),
+    linear-gradient(to bottom right, var(--bg-lg-3) 0%, var(--bg-lg-2) 50%, var(--bg-lg-1) 100%);
+
+  background-size:
+    auto,
+    auto,
+    cover,
+    60px 60px,
+    60px 60px;
+
+  background-position:
+    center,
+    center,
+    center,
+    center,
+    center;
+
+  background-repeat: no-repeat, no-repeat, no-repeat, repeat, repeat;
+  
+  padding: 70px 70px;
+  box-sizing: border-box;
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+
+  background-image: url("https://www.transparenttextures.com/patterns/grid-me.png");
+  opacity: 0.35;
+}
+
+
+h2 {
+  color: var(--text-h2);
+  margin-bottom:.5em;
+  margin-top:0;
+  line-height: 1.1;
+}
+
+h3 {
+  color: var(--text-h3);
+  line-height: 1.15;
+}
+
+p {
+  color: var(--text-p);
+  font-weight:400;
+  letter-spacing:.01em;
+
+  text-shadow:
+    0 1px 2px var(--text-shdw-1),
+    0 0 6px var(--text-shdw-2);
+
+  -webkit-font-smoothing:antialiased;
+
+  margin-top: 0em;
+  margin-bottom: 1em;
+}
+
+h2, h3, .headerLeft p {
+    margin: 0;
+}
+
+.header {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: auto auto;
+    align-items: start;
+    margin-top: -36px;
+}
+
+/* LEFT SIDE */
+.headerLeft {
+    grid-column: 1;
+    grid-row: 1 / span 2;
+
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+
+    column-gap: 15px;
+    row-gap: 4px;
+
+    align-items: baseline;
+}
+
+
+/* Place elements explicitly */
+.headerLeft h2 {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.headerLeft p {
+    grid-column: 2;
+    grid-row: 1;
+    margin: 0;
+    white-space: nowrap; 
+    line-height: 1.1;
+}
+
+.headerLeft h3 {
+    grid-column: 1 / span 2;
+    grid-row: 2;
+}
+
+.tagLine {
+    font-family: 'Georgia', 'Times New Roman', serif; /* classic serif */
+    font-weight: 400;        /* regular weight for subtlety */
+    font-size: 1.5rem;       /* adjust as needed for your layout */
+    color: #c0c0c0;          /*  lighter  gray for a softer professional look */
+    letter-spacing: 0.5px;   /* slight spacing for elegance */
+    line-height: 1.4;        /* good vertical spacing */
+ /*   text-align: center;      /* optional, center on page */
+    margin: 0.5em 0;         /* vertical spacing around the phrase */
+}
+
+/* RIGHT SIDE */
+
+.headerRight {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+
+    display: grid;
+    grid-template-columns: 1fr auto; /* email/phone | hamburger */
+    grid-template-rows: auto auto;
+    align-items: start;
+}
+
+/* Email */
+.topRow {
+    grid-column: 1;
+    grid-row: 1;
+
+    display: contents; /* IMPORTANT: removes wrapper influence */
+}
+
+/* Email text */
+.topRow p {
+    grid-column: 1;
+    justify-self: end;
+    margin: 0;
+}
+
+/* Hamburger */
+.hamburger {
+    grid-column: 2;
+    grid-row: 1;
+
+    margin-left: 15px;
+}
+
+/* Phone */
+.headerRight > p {
+    grid-column: 1;
+    grid-row: 2;
+
+    justify-self: end;
+    margin: 0;
+}
+
+
+/* Hamburger now participates in layout */
+.hamburger {
+    position: static;   /* REMOVE fixed */
+    margin-left: 15px;  /* spacing from contact info */
+
+    width: 30px;
+    height: 22px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    cursor: pointer;
+}
+
+.hamburger span {
+    height: 3px;
+    width: 100%;
+    border-radius: 2px;
+    transition: all .35s ease;
+    z-index: 9999;
+    background-color: var(--hamburger-color) !important;
+}
+
+/* Animate into X */
+
+.hamburger.active span:nth-child(1) {
+    transform: rotate(45deg) translate(5px,5px);
+    background-color: var(--hamburger-color);
+}
+
+.hamburger.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger.active span:nth-child(3) {
+    transform: rotate(-45deg) translate(6px,-6px);
+    background-color: var(--hamburger-color);
+}
+
+/* Slide menu panel */
+
+.menu {
+    position: fixed;
+    top: 0;
+    right: -300px;
+
+    width: 12vw;
+    height: 120%;
+
+    background: var(--menu-bg);
+    backdrop-filter: blur(10px);
+
+    border-left: 1px solid var(--tbl-brdr);
+
+    padding-top: 120px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+
+    transition: right .35s ease;
+
+    z-index: 9000;
+}
+
+/* Open state */
+
+.menu.open {
+    right: 0;
+}
+
+/* Menu links */
+
+.menu a {
+    color: var(--tbl-hdr);
+    text-decoration: none;
+    font-size: 1.3em;
+    padding-left: 40px;
+    letter-spacing: .05em;
+
+    transition: all .2s ease;
+}
+
+.menu a:hover {
+    color: var(--text-heading);
+    transform: translateX(6px);
+}
+
+/*  theme picker styling  /
+//////////////////////////*/
+
+/* divider between menu and theme picker */
+
+.menuDivider {
+    height: 1px;
+    margin: 10px 40px;
+    background: var(--tbl-brdr);
+}
+
+/* theme picker */
+
+.theme-picker {
+
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+
+    padding-left: 40px;
+    margin-top: 10px;
+
+    color: var(--text-main);
+}
+
+.themeTitle {
+    font-size: 1.2em;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--theme-hdr);
+    margin-bottom: 6px;
+    text-align:center;
+}
+
+.theme-picker label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+}
+
+/* nicer radios */
+
+ 
+.theme-picker input[type="radio"] {
+    accent-color: var(--theme-acc);
+}
+
+
+
+/*///////////////////////////////////////////////////
+///////////////////    Table Styles
+/////////////////////////////////////////*/
+
+.tableWrapper {
+  position: fixed;
+  top: 300px;     
+  left: 64px;
+  width: 78%;
+}
+
+/* This sits "on" the page background */
+.tableHeroHeader {
+
+  color: var(--text-p);
+
+  /* transparent so background shows through */
+  background: transparent;
+
+  /* glass effect to match your table */
+  backdrop-filter: blur(4px);
+
+  border-radius: 10px;
+
+  /* subtle separation */
+  box-shadow: 0 4px 20px var(--text-shdw-2);
+}
+
+
+.tableHeroHeader p {
+  margin: 4px 0 0;
+  padding: 0px 12px;
+  font-size: 23px;
+  color: var(--text-p);
+}
+
+.tableHeroHeader {
+  background: var(--text-shdw-2); /* or dark equivalent */
+  border: 1px solid var(--tbl-brdr);
+  width: 35%;
+}
+
+.tablePanel {
+  
+ /* position: relative;*/
+
+  background: var(--tbl-bg);
+  backdrop-filter: blur(6px);
+
+  border: 1px solid var(--tbl-brdr);
+  border-radius: 10px;
+
+  height: calc(100vh - 420px);
+
+  overflow-y: auto;   /* Enables vertical scroll */
+
+  box-shadow:
+    0 8px 30px var(--tbl-shdw),
+    inset 0 0 20px var(--tbl-shdw-ins);
+
+}
+
+/* table layout */
+
+table {
+ /*  width: 100%;*/
+  border-collapse: collapse;
+  font-size: 15px;
+   table-layout: fixed;  
+
+  /* give first 3 columns natural-ish room */
+th:nth-child(1), td:nth-child(1) { width: 20%; }
+th:nth-child(2), td:nth-child(2) { width: 30%; }
+th:nth-child(3), td:nth-child(3) { width: 15%; }
+th:nth-child(4), td:nth-child(4) { width: 35%; }
+}
+
+ thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;  /* 👈 puts it above table rows */
+
+  padding: 10px;
+  text-align: left;
+
+  color: var(--tbl-hdr);
+  font-weight: 800;
+  letter-spacing: .03em;
+
+  /* 👇 IMPORTANT: make it opaque (not transparent grid) */
+  background: var(--bg-table);
+
+  border-bottom: 1px solid var(--tbl-brdr);
+} 
+
+td {
+  padding: 4px 8px;
+  color: var(--tbl-row);
+  font-weight: 600;
+  border-bottom: 1px solid var(--bg-lg-grid);
+}
+
+
+/* alternating rows */
+
+tr:nth-child(even) td {
+  background: var(--tbl-nth);
+}
+
+/* first 3 columns (th + td) */
+th:nth-child(-n+3),
+td:nth-child(-n+3) {
+  white-space: nowrap;
+}
+
+/* last column */
+th:last-child,
+td:last-child {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+/* row hover */
+
+tr:hover td {
+    color: var(--text-accent-1);
+    cursor: pointer;
+    background: var(--tbl-shdw-ins);
+}
+
+/* column hover */
+
+th:hover {
+    color: var(--text-accent-2);
+    cursor: pointer;
+    background: var(--tbl-shdw-ins);
+}
+
+.tableInstructions {
+    margin-top: 10px;
+} 
+
+#footer {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  font-size: 12px;
+}
+
+.documentFrame {
+  
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px 40px;
+
+  background: var(--bg-lg-grid);
+  backdrop-filter: blur(22px); 
+
+  border: 1px solid var(--tbl-brdr);
+  border-radius: 12px;
+
+  box-shadow:
+    0 10px 40px var(--bg-rg-2),
+    inset 0 0 20px var(--tbl-shdw-ins);
+
+  color: var(--text-main);
+
+   opacity: 0;
+    transform: translateY(10px);
+    pointer-events: none;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+
+}
+
+.documentFrame.active {
+    pointer-events: auto;
+    transform: translateY(0);
+    pointer-events: auto;
+    z-index: 9999;
+    opacity: 1;
+    display: block;
+    position: fixed; 
+    left: 70px;
+    top: 100px;
+}
+
+.narrow-table {
+    /* Set table width explicitly, e.g., 500px, to make it narrow */
+    width: 66vw; 
+    table-layout: fixed; /* Ensures column widths are respected */
+    border-collapse: collapse; /* Merges borders for a cleaner look */
+    /* border: 1    px solid #ccc; */
+    font-family: sans-serif;
+    font-size: 2vh;
+    position: fixed;
+    left: 0;
+    bottom: 0.75in;
+}
+
+.narrow-table th, 
+.narrow-table td {
+    /* border: 1px solid #ccc; */
+    padding: 8px;
+    text-align: left;
+    overflow: hidden; /* Hides content that overflows if it's too long */
+    text-overflow: ellipsis; /* Adds an ellipsis (...) for overflowing text */
+    white-space: nowrap; /* Prevents text from wrapping within the cell by default */
+}
+
+.narrow-table th {
+    border-bottom: 1px solid white;
+}
+
+
+button {
+    border-radius: 8px;
+transition: 0.2s;
+
+}
+
+.subtitle{
+  margin-top:-8px;
+    opacity: 0.75;
+
+}   
+
+.instruction {
+    margin-left: 120px;
+    font-size: small;
+}
+
+/*///////////////////////////////////////
+////////    Chatbot Styles   ///////////
+////////////////////////////////////////*/
+
+.chatbox {
+    position: absolute;
+    top: 250px;
+    right:270px;
+    width: 40vw;
+    height: 70vh;
+}
+
+/* CONTENT IS CLOSE */
+.chatbox__support {
+    display: flex;
+    flex-direction: column;
+
+    height: 60vh;
+    width: 40vw;
+
+    background-color: #3b5e8e;
+
+    /*background: var(--tbl-bg);
+    backdrop-filter: blur(6px);*/
+
+    border: 1px solid var(--tbl-brdr);
+    border-radius: 10px;
+
+    box-shadow:
+        0 8px 30px var(--tbl-shdw),
+        inset 0 0 20px var(--tbl-shdw-ins);
+
+    overflow: hidden;
+
+    opacity: 0;
+    z-index: -9999;
+    transition: all .4s ease;
+}
+
+.popup-content {
+    background: var(--bg-panel);
+    border: 1px solid var(--border-soft);
+    border-radius: 10px;
+    box-shadow: 0 10px 40px var(--box-shdw);
+}
+
+
+/* CONTENT IS OPEN */
+.chatbox--active {
+    transform: translateY(-40px);
+    z-index: 9999;
+    opacity: 1;
+    position: fixed; 
+}
+
+/* BUTTON */
+.chatbox__button {
+    text-align: right;
+    position: fixed;
+    right: 80px;
+    bottom: 100px;
+}
+
+.send__button {
+    padding: 6px;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.send__button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+
+/* HEADER */
+/* HEADER */
+.chatbox__header {
+    padding: 14px 18px;
+
+    display: flex;
+    flex-direction: row;
+
+    color: var(--tbl-hdr);
+    font-weight: 600;
+    letter-spacing: .03em;
+
+    background: var(--bg-lg-grid);
+    border-bottom: 1px solid var(--tbl-brdr);
+}
+
+
+.chatbox__content--header,
+.chatbox__content--header h4,
+.chatbox__content--header img
+ {
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+    justify-content: stretch;
+}
+
+.chatbox__image--header {
+    margin-right: 10px;
+}
+
+.chatbox__heading--header {
+    font-size: .8rem;
+    color: white;
+}
+
+.chatbox__description--header {
+    font-size: .6rem;
+    color: white;
+}
+
+.thumbnail {
+    height: 80px;
+    width: 80px;
+}
+
+/* Messages */
+.chatbox__messages {
+    padding: 16px;  
+    overflow-y: auto;
+    flex: 1;
+}
+
+.messages__item--visitor,
+.messages__item--typing {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px; 
+    margin-right: auto;
+    color: var(--text-accent-2);
+}
+
+.messages__item--operator {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-left: auto;
+
+/*    background: white;*/
+    color: var(--text-accent-1)
+}
+
+/* FOOTER */
+.chatbox__footer {
+    display: flex;
+    gap: 10px;
+
+    padding: 12px;
+
+    border-top: 1px solid var(--tbl-brdr);
+    background: var(--tbl-nth);
+}
+
+.chatbox__footer input {
+    flex: 1;
+
+    padding: 8px 12px;
+
+    border-radius: 6px;
+    border: 1px solid var(--tbl-brdr);
+
+    background: var(--bg-panel);
+    color: var(--text-main);
+}
+
+.chatbox__send--footer {
+    padding: 8px 14px;
+
+    border-radius: 6px;
+    border: 1px solid var(--tbl-brdr);
+
+    background: var(--bg-lg-grid);
+    color: var(--tbl-hdr);
+
+    cursor: pointer;
+}
+
+.chatbox__send--footer:hover {
+    color: var(--text-accent-2);
+    background: var(--tbl-shdw-ins);
+}
+
+.chatbox__button button,
+.chatbox__button button:focus,
+.chatbox__button button:visited {
+    padding: 10px;
+    background: white;
+    border: none;
+    outline: none;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    box-shadow: 0px 10px 15px var(--box-shdw-2);
+    cursor: pointer;
+}
+
+#ttfn_blurb {
+    text-align: right;
+}
+
+/* popup styles */
+.popup {
+    display: none; 
+    position: fixed; 
+    z-index: 1; 
+    left: 40px;
+    top: 100px;
+    background-color: var(--popup-bg); 
+}
+.popup-content {
+    background-color: #1b0758;
+    padding: 20px;
+    border: 1px solid #888;
+}
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    display: block;
+}
+.close:hover, .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.accent-1 {
+  color: var(--text-accent-1);
+}
+
+.accent-2 {
+  color: var(--text-accent-2);
+}
+
+.accent-3 {
+  color: var(--text-accent-3);
+}
+
+
+/*//////////////////////////
+ // Project AI stylings ///
+//////////////////////////*/
+
+/*//////////////////////////
+ // Project Book        ///
+//////////////////////////*/
+
+
+.book-wrapper{
+    position: fixed;
+    right: 280px;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--book-bkgnd);
+}
+
+.book-title {
+    color: var(--text-main);
+    font-size: 1.3em;
+    margin-top: 10px;
+}
+
+#caption {
+    color: var(--text-main);
+    font-sizeL 1.2em;
+}
+
+#projectBook {
+    border: 2px var(bg-panel) solid;
+    height: 440px;
+    width: 440px;
+    overflow: hidden;
+    display: grid;
+    place-items: center;
+    cursor:pointer;
+    border-radius:4px;
+}
+
+#projectBook img {
+  width: 100%; 
+  height: 100%;
+  object-fit: cover; 
+}
+
+
+/* container */
+.nav-buttons{
+    display:flex;
+    justify-content:space-between;
+    width:440px;
+    margin-top: 15px;
+}
+
+/* base button */
+.nav-btn{
+    display:block;
+    height: 60px;
+    width: 120px;
+    align-items:center;
+/*    padding:12px 26px;*/
+    font-size:16px;
+    font-weight:600;
+    border-radius:10px;
+    border:none;
+    cursor:pointer;
+    transition:all .25s ease;
+    box-shadow:0 4px 6px darkred;
+}
+
+/* arrows */
+.arrow{
+    font-size:18px;
+    transition:transform .25s ease;
+}
+
+/* back button */
+.back{
+    background:linear-gradient(#616562,#2b25225f);
+    color:white;
+}
+
+.back:hover{
+    transform:translateY(-2px);
+}
+
+.back:hover .arrow{
+    transform:translateX(-4px);
+}
+
+/* forward button */
+.forward{
+    background:linear-gradient(#1ac851,#10610a);
+    color:white;
+}
+
+.forward:hover{
+    transform:translateY(-2px);
+}
+
+.forward:hover .arrow{
+    transform:translateX(4px);
+}
+
+/* press effect */
+.nav-btn:active{
+    transform:translateY(1px);
+    box-shadow:0 8px 12px darkred;
+}
+
+#pageCounter{
+    font-weight:600;
+    font-size:15px;
+    height: 20px;
+    background:black;
+    color: white;
+    align-items: center;
+    padding:8px 14px;
+    border-radius:8px;
+    box-shadow:0 2px 6px var(--text-shdw-2);
+}
+
+/* Main button */
+
+.paper-stack{
+    position: fixed;
+    right: 360px;
+    top: 150px;
+    padding:14px 30px;
+    font-size:18px;
+    font-weight:bold;
+    background-image: url(images/7_prompt_template.png);
+    background-repeat: no-repeat;  /* Prevents the image from repeating */
+    background-position: center;   /* Centers the image within the button */
+    background-color: transparent; /* Makes the default button color transparent */
+    background-size: contain;
+    width: 210px;
+    height: 125px;   
+    border:2px solid #ccc;
+    border-radius:4px;
+    cursor:pointer;
+    box-shadow:0 4px 10px var(--text-shdw-2);
+    transition:all .15s ease;
+}
+
+/* bottom paper */
+.paper-stack::before{
+    content:"";
+    position:absolute;
+    width:100%;
+    height:100%;
+    border:2px solid #ccc;
+    border-radius:4px;
+    top:6px;
+    left:6px;
+    z-index:-1;
+}
+
+/* bottom paper 2 */
+.paper-stack::after{
+    content:"";
+    position:absolute;
+    width:100%;
+    height:100%;
+    border:2px solid #ccc;
+    border-radius:4px;
+    top:12px;
+    left:12px;
+    z-index:-2;
+}
+
+/* hover lift */
+.paper-stack:hover{
+    transform:translateY(-2px);
+    box-shadow:0 6px 14px var(--bg-rg-2);
+}
+
+/* press effect */
+.paper-stack:active{
+    transform:translateY(2px);
+}
+
+.slash-e {
+  position: relative;
+  display: inline-block;
+}
+
+.slash-e::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 5px;
+  width: 100%;
+  height: 100%;
+  border-left: 2px solid red; /* color of the slash */
+  transform: rotate(-20deg); /* angle of the slash */
+  transform-origin: center;
+}
+.hidden {
+    display: none;
+}
+
+#closeX {
+    height: 10px;
+    width: 10px;
+    color: red;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    cursor:pointer;
+}
+
+/* hover lift */
+#closeX:hover{
+    transform:translateY(-2px);
+    box-shadow:0 6px 14px var(--bg-rg-2);
+}
+
+/* press effect */
+#closeX:active{
+    transform:translateY(2px);
+}
+
+/*//////////////////////////
+ // Resume DL           ///
+//////////////////////////*/
+
+.resumeDL{
+    position: fixed;
+    display: block;
+    right: 120px;
+    top: 150px;
+    z-index: 6666;
+    height: 165px;
+    width: 120px;
+    font-size: 20px;
+    font-weight:bold;
+    background-image: url("/static/images/92_resume.png");
+    background-repeat: no-repeat;  /* Prevents the image from repeating */
+    background-position: center;   /* Centers the image within the button */
+    background-color: transparent; /* Makes the default button color transparent */
+    background-size: contain;
+    border: 2px solid white;
+    border-radius:4px;
+    cursor:pointer;
+    box-shadow:0 4px 10px var(--text-shdw-2);
+    transition:all .15s ease;
+}
+
+.corner-text {
+  position: absolute; /* Position the text absolutely */
+  bottom: 0;          /* Align to the bottom edge */
+  right: 0;           /* Align to the right edge */
+  margin: 0;          /* Remove default paragraph margin */
+  padding: 5px;       /* Add some spacing from the edge if needed */
+  color: var(--text-accent-3);
+  pointer-events: none;
+}
+
+/* hover lift */
+.resumeDL:hover{
+    transform:translateY(-2px);
+    box-shadow:0 6px 14px var(--bg-rg-2);
+}
+
+/* press effect */
+.resumeDL:active{
+    transform:translateY(2px);
+}
+
