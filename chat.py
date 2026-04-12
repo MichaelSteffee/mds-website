@@ -7,8 +7,12 @@ from flask import current_app
 from dotenv import load_dotenv
 load_dotenv()
 
-from langchain_community.document_loaders import PyPDFLoader
-from langchain_text_splitters import TokenTextSplitter
+# Remove for new structure in load-resume-data.py ##########################
+# from langchain_community.document_loaders import PyPDFLoader
+# from langchain_community.document_loaders import UnstructuredExcelLoader
+
+# from langchain_text_splitters import TokenTextSplitter
+from load_resume_data_vectorstore import main as build_vectorstore
 
 from langchain_core.output_parsers.string import StrOutputParser
 from langchain_core.messages import SystemMessage
@@ -56,8 +60,9 @@ def build_chain():
     if chain is not None:
         return chain
 
-    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-    pdf_path = os.path.join(BASE_DIR, "MichaelSteffeeResume.pdf")
+# Remove for new structure in load-resume-data.py ##########################
+#    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+#    pdf_path = os.path.join(BASE_DIR, "MichaelSteffeeResume.pdf")
 
     chat = ChatOpenAI(
         model_name='gpt-4',
@@ -66,30 +71,49 @@ def build_chain():
         max_tokens=200
     )
 
-    loader_pdf = PyPDFLoader(pdf_path)
-    pages_pdf = loader_pdf.load()
+# Remove for new structure in load-resume-data.py ##########################
+#    loader_pdf = PyPDFLoader(pdf_path)
+#    pages_pdf = loader_pdf.load()
 
-    token_splitter = TokenTextSplitter(
-        encoding_name="cl100k_base",
-        chunk_size=200,
-        chunk_overlap=40
-    )
+# Remove for new structure in load-resume-data.py ##########################
+#     token_splitter = TokenTextSplitter(
+#        encoding_name="cl100k_base",
+#        chunk_size=200,
+#        chunk_overlap=40
+#    )
 
-    t = token_splitter.split_documents(pages_pdf)
+# Remove for new structure in load-resume-data.py ##########################
+#    docs_list_tokens_split = token_splitter.split_documents(pages_pdf)
 
     embedding = OpenAIEmbeddings(model='text-embedding-3-small')
 
+    persist_dir = os.path.join(BASE_DIR, "chroma_db")
+
+    # 🔍 Check if vectorstore exists
+    if not os.path.exists(persist_dir) or not os.listdir(persist_dir):
+        logger.info("No vectorstore found. Building new one...")
+        build_vectorstore()
+    else:
+        logger.info("Existing vectorstore found. Loading...")
+
     vectorstore = Chroma(
-        persist_directory=os.path.join(BASE_DIR, "chroma_db"),
+        persist_directory=persist_dir,
         embedding_function=embedding
     )
 
     retriever = vectorstore.as_retriever(
         search_type='mmr',
-        search_kwargs={'k': 1, 'lambda_mult': 0.7}  # fixed typo
+        search_kwargs={'k': 3, 'lambda_mult': 0.7}  # fixed typo
     )
 
-    PROMPT_RETRIEVING_S = """You will receive a question from a human resource professional about Mr. Tate. Answer using only the resume context."""
+    PROMPT_RETRIEVING_S = """
+        You will receive a question from a human resource professional about Michael Steffee. 
+        Answer using his resume context and 
+        public information about the more than 50 companies he has worked for.  
+        Treat the information found under the heading Consulting Work Experience like any other job.
+        Answer questions like "Did Michael work at XX company ?" with information about the work Michael did there
+        and information about the company
+        """
 
     PROMPT_TEMPLATE_RETRIEVING_H = """This is the question:
 {question}

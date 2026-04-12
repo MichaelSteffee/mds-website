@@ -334,7 +334,7 @@ h2, h3, .headerLeft p {
 
     border-left: 1px solid var(--tbl-brdr);
 
-    padding-top: 120px;
+    padding-top: 90px;
 
     display: flex;
     flex-direction: column;
@@ -375,7 +375,7 @@ h2, h3, .headerLeft p {
 
 .menuDivider {
     height: 1px;
-    margin: 10px 40px;
+    margin: 10px 20px;
     background: var(--tbl-brdr);
 }
 

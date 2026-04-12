@@ -1,850 +1,1043 @@
-[2026-04-05 05:02:35,260] INFO in app: 24.7.171.84 GET /static/script.js
-[2026-04-05 05:02:35,260] INFO in app: 24.7.171.84 GET /static/script.js
-[2026-04-05 05:02:35,266] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 05:02:35,266] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 05:02:35,347] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 05:02:35,347] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 05:02:35,355] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:02:35,355] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:02:35,363] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 05:02:35,363] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 05:02:47,845] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 05:02:47,845] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 05:02:48,031] INFO in app: 24.7.171.84 GET /static/app.js
-[2026-04-05 05:02:48,031] INFO in app: 24.7.171.84 GET /static/app.js
-[2026-04-05 05:02:48,089] INFO in app: 24.7.171.84 GET /static/jobs.json
-[2026-04-05 05:02:48,089] INFO in app: 24.7.171.84 GET /static/jobs.json
-[2026-04-05 05:02:48,156] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 05:02:48,156] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 05:02:48,157] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:02:48,157] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:02:48,171] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 05:02:48,171] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 05:02:48,256] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 05:02:48,256] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 05:02:56,804] INFO in app: 24.7.171.84 GET /static/script.js
-[2026-04-05 05:02:56,804] INFO in app: 24.7.171.84 GET /static/script.js
-[2026-04-05 05:02:56,872] INFO in app: 24.7.171.84 GET /static/app.js
-[2026-04-05 05:02:56,872] INFO in app: 24.7.171.84 GET /static/app.js
-[2026-04-05 05:02:56,880] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 05:02:56,880] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 05:02:56,885] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 05:02:56,885] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 05:02:56,959] INFO in app: 24.7.171.84 GET /static/theme.js
-[2026-04-05 05:02:56,959] INFO in app: 24.7.171.84 GET /static/theme.js
-[2026-04-05 05:02:56,965] INFO in app: 24.7.171.84 GET /static/images/4_form_to_array.png
-[2026-04-05 05:02:56,965] INFO in app: 24.7.171.84 GET /static/images/4_form_to_array.png
-[2026-04-05 05:02:56,973] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:02:56,973] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:02:56,975] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 05:02:56,975] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 05:02:57,037] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 05:02:57,037] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 05:02:57,044] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 05:02:57,044] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 05:02:57,049] INFO in app: 24.7.171.84 GET /static/images/10_word_macro.png
-[2026-04-05 05:02:57,049] INFO in app: 24.7.171.84 GET /static/images/10_word_macro.png
-[2026-04-05 05:02:57,056] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 05:02:57,056] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 05:03:02,289] INFO in app: 24.7.171.84 GET /
-[2026-04-05 05:03:02,289] INFO in app: 24.7.171.84 GET /
-[2026-04-05 05:03:02,411] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 05:03:02,411] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 05:03:02,516] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 05:03:02,516] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 05:03:02,602] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 05:03:02,602] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 05:03:02,610] INFO in app: 24.7.171.84 GET /static/images/1_old_excel_file.png
-[2026-04-05 05:03:02,610] INFO in app: 24.7.171.84 GET /static/images/1_old_excel_file.png
-[2026-04-05 05:03:02,696] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 05:03:02,696] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 05:03:02,699] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:03:02,699] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:03:02,707] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 05:03:02,707] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 05:03:02,785] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 05:03:02,785] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 05:03:02,790] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 05:03:02,790] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 05:03:14,765] INFO in app: 24.7.171.84 GET /
-[2026-04-05 05:03:14,765] INFO in app: 24.7.171.84 GET /
-[2026-04-05 05:03:14,996] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 05:03:14,996] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 05:03:15,089] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 05:03:15,089] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 05:03:15,090] INFO in app: 24.7.171.84 GET /static/app.js
-[2026-04-05 05:03:15,090] INFO in app: 24.7.171.84 GET /static/app.js
-[2026-04-05 05:03:15,092] INFO in app: 24.7.171.84 GET /static/images/1_old_excel_file.png
-[2026-04-05 05:03:15,092] INFO in app: 24.7.171.84 GET /static/images/1_old_excel_file.png
-[2026-04-05 05:03:15,187] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:03:15,187] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:03:15,286] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 05:03:15,286] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 05:03:15,295] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 05:03:15,295] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 05:03:50,871] INFO in app: 24.7.171.84 GET /static/images/3_transfer_to_table.png
-[2026-04-05 05:03:50,871] INFO in app: 24.7.171.84 GET /static/images/3_transfer_to_table.png
-[2026-04-05 05:03:50,879] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 05:03:50,879] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 05:03:50,886] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 05:03:50,886] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 05:03:50,922] INFO in app: 24.7.171.84 GET /static/jobs.json
-[2026-04-05 05:03:50,922] INFO in app: 24.7.171.84 GET /static/jobs.json
-[2026-04-05 05:03:50,996] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 05:03:50,996] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 05:03:50,997] INFO in app: 24.7.171.84 GET /static/theme.js
-[2026-04-05 05:03:50,997] INFO in app: 24.7.171.84 GET /static/theme.js
-[2026-04-05 05:03:50,998] INFO in app: 24.7.171.84 GET /static/images/4_form_to_array.png
-[2026-04-05 05:03:50,998] INFO in app: 24.7.171.84 GET /static/images/4_form_to_array.png
-[2026-04-05 05:03:51,082] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 05:03:51,082] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 05:03:51,086] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 05:03:51,086] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 05:04:01,436] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 05:04:01,436] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 05:04:01,532] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 05:04:01,532] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 05:04:01,593] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 05:04:01,593] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 05:04:01,694] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 05:04:01,694] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 05:04:02,026] INFO in app: 24.7.171.84 GET /static/images/92_resume.png
-[2026-04-05 05:04:02,026] INFO in app: 24.7.171.84 GET /static/images/92_resume.png
-[2026-04-05 05:04:15,167] INFO in app: 24.7.171.84 GET /
-[2026-04-05 05:04:15,167] INFO in app: 24.7.171.84 GET /
-[2026-04-05 05:04:15,301] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 05:04:15,301] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 05:04:15,306] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 05:04:15,306] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 05:04:15,395] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 05:04:15,395] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 05:04:15,479] INFO in app: 24.7.171.84 GET /static/images/3_transfer_to_table.png
-[2026-04-05 05:04:15,479] INFO in app: 24.7.171.84 GET /static/images/3_transfer_to_table.png
-[2026-04-05 05:04:15,570] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:04:15,570] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:56:03,488] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 05:56:03,488] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 05:56:03,650] INFO in app: 24.7.171.84 GET /static/images/92_resume.png
-[2026-04-05 05:56:03,650] INFO in app: 24.7.171.84 GET /static/images/92_resume.png
-[2026-04-05 05:56:03,656] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 05:56:03,656] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 05:56:03,685] INFO in app: 24.7.171.84 GET /static/images/1_old_excel_file.png
-[2026-04-05 05:56:03,685] INFO in app: 24.7.171.84 GET /static/images/1_old_excel_file.png
-[2026-04-05 05:56:03,758] INFO in app: 24.7.171.84 GET /static/theme.js
-[2026-04-05 05:56:03,758] INFO in app: 24.7.171.84 GET /static/theme.js
-[2026-04-05 05:56:03,765] INFO in app: 24.7.171.84 GET /static/images/4_form_to_array.png
-[2026-04-05 05:56:03,765] INFO in app: 24.7.171.84 GET /static/images/4_form_to_array.png
-[2026-04-05 05:56:03,773] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:56:03,773] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 05:56:03,788] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 05:56:03,788] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 05:56:03,836] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 05:56:03,836] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 05:56:03,844] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 05:56:03,844] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 05:56:03,858] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 05:56:03,858] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 05:56:03,866] INFO in app: 24.7.171.84 GET /static/images/10_word_macro.png
-[2026-04-05 05:56:03,866] INFO in app: 24.7.171.84 GET /static/images/10_word_macro.png
-[2026-04-05 05:56:03,876] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 05:56:03,876] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 05:56:52,743] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 05:56:52,743] INFO in app: 24.7.171.84 GET /static/style.css
-2026-04-05 06:23:31,243 [INFO] [chat] This is chat.py starting
-[2026-04-05 06:23:31,247] INFO in app: App startup
-2026-04-05 06:23:31,401 [INFO] [chat] This is chat.py starting
-[2026-04-05 06:23:31,403] INFO in app: App startup
-2026-04-05 06:23:31,427 [INFO] [chat] This is chat.py starting
-[2026-04-05 06:23:31,429] INFO in app: App startup
-[2026-04-05 06:23:39,525] INFO in app: 24.7.171.84 GET /
-[2026-04-05 06:23:39,525] INFO in app: 24.7.171.84 GET /
-[2026-04-05 06:23:39,743] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 06:23:39,743] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 06:23:39,744] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 06:23:39,744] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 06:23:39,848] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 06:23:39,848] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 06:23:39,904] INFO in app: 24.7.171.84 GET /static/images/92_resume.png
-[2026-04-05 06:23:39,904] INFO in app: 24.7.171.84 GET /static/images/92_resume.png
-[2026-04-05 06:23:39,904] INFO in app: 24.7.171.84 GET /static/script.js
-[2026-04-05 06:23:39,904] INFO in app: 24.7.171.84 GET /static/script.js
-[2026-04-05 06:23:39,955] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 06:23:39,955] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 06:23:39,956] INFO in app: 24.7.171.84 GET /static/app.js
-[2026-04-05 06:23:39,956] INFO in app: 24.7.171.84 GET /static/app.js
-[2026-04-05 06:23:39,957] INFO in app: 24.7.171.84 GET /static/images/1_old_excel_file.png
-[2026-04-05 06:23:39,957] INFO in app: 24.7.171.84 GET /static/images/1_old_excel_file.png
-[2026-04-05 06:23:39,988] INFO in app: 24.7.171.84 GET /static/images/3_transfer_to_table.png
-[2026-04-05 06:23:39,988] INFO in app: 24.7.171.84 GET /static/images/3_transfer_to_table.png
-[2026-04-05 06:23:40,045] INFO in app: 24.7.171.84 GET /static/jobs.json
-[2026-04-05 06:23:40,045] INFO in app: 24.7.171.84 GET /static/jobs.json
-[2026-04-05 06:23:40,050] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 06:23:40,050] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 06:23:40,133] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 06:23:40,133] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 06:23:40,467] INFO in app: 24.7.171.84 GET /static/theme.js
-[2026-04-05 06:23:40,467] INFO in app: 24.7.171.84 GET /static/theme.js
-[2026-04-05 06:23:40,560] INFO in app: 24.7.171.84 GET /static/images/4_form_to_array.png
-[2026-04-05 06:23:40,560] INFO in app: 24.7.171.84 GET /static/images/4_form_to_array.png
-[2026-04-05 06:23:40,590] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 06:23:40,590] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 06:23:41,148] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 06:23:41,148] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 06:23:41,916] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 06:23:41,916] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 06:23:42,179] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 06:23:42,179] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 06:23:42,297] INFO in app: 24.7.171.84 GET /static/images/10_word_macro.png
-[2026-04-05 06:23:42,297] INFO in app: 24.7.171.84 GET /static/images/10_word_macro.png
-[2026-04-05 06:23:42,305] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 06:23:42,305] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 06:23:43,493] INFO in app: 24.7.171.84 GET /favicon.ico
-[2026-04-05 06:23:43,493] INFO in app: 24.7.171.84 GET /favicon.ico
-[2026-04-05 06:32:34,955] INFO in app: 104.28.164.64 GET /wp-login.php
-[2026-04-05 06:32:34,955] INFO in app: 104.28.164.64 GET /wp-login.php
-[2026-04-05 06:35:29,333] INFO in app: 149.86.227.60 GET /
-[2026-04-05 06:35:29,333] INFO in app: 149.86.227.60 GET /
-2026-04-05 06:38:19,234 [INFO] [chat] This is chat.py starting
-[2026-04-05 06:38:19,236] INFO in app: App startup
-2026-04-05 06:38:19,453 [INFO] [chat] This is chat.py starting
-[2026-04-05 06:38:19,455] INFO in app: App startup
-2026-04-05 06:38:19,483 [INFO] [chat] This is chat.py starting
-[2026-04-05 06:38:19,484] INFO in app: App startup
-[2026-04-05 06:38:29,927] INFO in app: 24.7.171.84 GET /
-[2026-04-05 06:38:29,927] INFO in app: 24.7.171.84 GET /
-[2026-04-05 06:38:30,079] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 06:38:30,079] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 06:38:30,079] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 06:38:30,079] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 06:38:30,157] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 06:38:30,157] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 06:38:30,178] INFO in app: 24.7.171.84 GET /static/script.js
-[2026-04-05 06:38:30,178] INFO in app: 24.7.171.84 GET /static/script.js
-[2026-04-05 06:38:30,221] INFO in app: 24.7.171.84 GET /static/images/92_resume.png
-[2026-04-05 06:38:30,221] INFO in app: 24.7.171.84 GET /static/images/92_resume.png
-[2026-04-05 06:38:30,253] INFO in app: 24.7.171.84 GET /static/app.js
-[2026-04-05 06:38:30,253] INFO in app: 24.7.171.84 GET /static/app.js
-[2026-04-05 06:38:30,261] INFO in app: 24.7.171.84 GET /static/images/3_transfer_to_table.png
-[2026-04-05 06:38:30,261] INFO in app: 24.7.171.84 GET /static/images/3_transfer_to_table.png
-[2026-04-05 06:38:30,261] INFO in app: 24.7.171.84 GET /static/images/1_old_excel_file.png
-[2026-04-05 06:38:30,261] INFO in app: 24.7.171.84 GET /static/images/1_old_excel_file.png
-[2026-04-05 06:38:30,262] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 06:38:30,262] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 06:38:30,268] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 06:38:30,268] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 06:38:30,304] INFO in app: 24.7.171.84 GET /static/jobs.json
-[2026-04-05 06:38:30,304] INFO in app: 24.7.171.84 GET /static/jobs.json
-[2026-04-05 06:38:30,340] INFO in app: 24.7.171.84 GET /static/theme.js
-[2026-04-05 06:38:30,340] INFO in app: 24.7.171.84 GET /static/theme.js
-[2026-04-05 06:38:30,347] INFO in app: 24.7.171.84 GET /static/images/4_form_to_array.png
-[2026-04-05 06:38:30,347] INFO in app: 24.7.171.84 GET /static/images/4_form_to_array.png
-[2026-04-05 06:38:30,355] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 06:38:30,355] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 06:38:30,355] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 06:38:30,355] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 06:38:30,356] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 06:38:30,356] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 06:38:30,386] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 06:38:30,386] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 06:38:30,420] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 06:38:30,420] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 06:38:30,440] INFO in app: 24.7.171.84 GET /static/images/10_word_macro.png
-[2026-04-05 06:38:30,440] INFO in app: 24.7.171.84 GET /static/images/10_word_macro.png
-[2026-04-05 06:38:30,447] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 06:38:30,447] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 06:42:00,299] INFO in app: 165.154.36.91 GET /
-[2026-04-05 06:42:00,299] INFO in app: 165.154.36.91 GET /
-[2026-04-05 06:42:02,319] INFO in app: 165.154.36.91 GET /
-[2026-04-05 06:42:02,319] INFO in app: 165.154.36.91 GET /
-[2026-04-05 06:42:02,786] INFO in app: 165.154.36.91 GET /favicon.ico
-[2026-04-05 06:42:02,786] INFO in app: 165.154.36.91 GET /favicon.ico
-[2026-04-05 06:42:03,134] INFO in app: 165.154.36.91 GET /static/script.js
-[2026-04-05 06:42:03,134] INFO in app: 165.154.36.91 GET /static/script.js
-[2026-04-05 06:42:03,376] INFO in app: 165.154.36.91 GET /static/app.js
-[2026-04-05 06:42:03,376] INFO in app: 165.154.36.91 GET /static/app.js
-[2026-04-05 06:42:03,634] INFO in app: 165.154.36.91 GET /static/projectAI.js
-[2026-04-05 06:42:03,634] INFO in app: 165.154.36.91 GET /static/projectAI.js
-[2026-04-05 06:42:03,846] INFO in app: 165.154.36.91 GET /static/theme.js
-[2026-04-05 06:42:03,846] INFO in app: 165.154.36.91 GET /static/theme.js
-[2026-04-05 06:43:27,631] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 06:43:27,631] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 06:45:57,649] INFO in app: 43.157.142.101 GET /
-[2026-04-05 06:45:57,649] INFO in app: 43.157.142.101 GET /
-[2026-04-05 06:49:54,233] INFO in app: 36.41.75.167 GET /
-[2026-04-05 06:49:54,233] INFO in app: 36.41.75.167 GET /
-[2026-04-05 06:57:48,050] INFO in app: 66.132.195.66 GET /
-[2026-04-05 06:57:48,050] INFO in app: 66.132.195.66 GET /
-[2026-04-05 07:01:04,118] INFO in app: 66.132.195.66 GET /robots.txt
-[2026-04-05 07:01:04,118] INFO in app: 66.132.195.66 GET /robots.txt
-[2026-04-05 07:03:36,927] INFO in app: 138.124.180.165 GET /
-[2026-04-05 07:03:36,927] INFO in app: 138.124.180.165 GET /
-[2026-04-05 07:03:37,016] INFO in app: 138.124.180.165 GET /
-[2026-04-05 07:03:37,016] INFO in app: 138.124.180.165 GET /
-[2026-04-05 07:07:09,619] INFO in app: 20.80.88.7 GET /
-[2026-04-05 07:07:09,619] INFO in app: 20.80.88.7 GET /
-[2026-04-05 07:15:18,137] INFO in app: 137.184.227.205 GET /
-[2026-04-05 07:15:18,137] INFO in app: 137.184.227.205 GET /
-[2026-04-05 07:15:39,030] INFO in app: 170.106.161.78 GET /auth/login/
-[2026-04-05 07:15:39,030] INFO in app: 170.106.161.78 GET /auth/login/
-[2026-04-05 07:24:51,580] INFO in app: 43.173.1.69 GET /auth/signup/
-[2026-04-05 07:24:51,580] INFO in app: 43.173.1.69 GET /auth/signup/
-[2026-04-05 07:34:36,934] INFO in app: 107.189.30.132 GET /
-[2026-04-05 07:34:36,934] INFO in app: 107.189.30.132 GET /
-[2026-04-05 07:34:53,955] INFO in app: 43.155.162.41 GET /search/
-[2026-04-05 07:34:53,955] INFO in app: 43.155.162.41 GET /search/
-[2026-04-05 07:41:03,770] INFO in app: 48.217.87.78 GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
-[2026-04-05 07:41:03,770] INFO in app: 48.217.87.78 GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
-[2026-04-05 07:41:43,242] INFO in app: 107.189.30.132 GET /
-[2026-04-05 07:41:43,242] INFO in app: 107.189.30.132 GET /
-[2026-04-05 07:43:21,289] INFO in app: 170.106.72.93 GET /results/
-[2026-04-05 07:43:21,289] INFO in app: 170.106.72.93 GET /results/
-[2026-04-05 07:47:19,281] INFO in app: 43.159.144.16 GET /
-[2026-04-05 07:47:19,281] INFO in app: 43.159.144.16 GET /
-[2026-04-05 07:48:51,857] INFO in app: 66.132.172.42 GET /
-[2026-04-05 07:48:51,857] INFO in app: 66.132.172.42 GET /
-[2026-04-05 07:48:55,110] INFO in app: 66.132.172.42 GET /favicon.ico
-[2026-04-05 07:48:55,110] INFO in app: 66.132.172.42 GET /favicon.ico
-[2026-04-05 07:49:08,092] INFO in app: 66.132.172.42 GET /.well-known/security.txt
-[2026-04-05 07:49:08,092] INFO in app: 66.132.172.42 GET /.well-known/security.txt
-[2026-04-05 07:52:07,949] INFO in app: 170.106.148.137 GET /
-[2026-04-05 07:52:07,949] INFO in app: 170.106.148.137 GET /
-[2026-04-05 07:55:55,586] INFO in app: 135.237.125.221 GET /actuator/health
-[2026-04-05 07:55:55,586] INFO in app: 135.237.125.221 GET /actuator/health
-[2026-04-05 08:01:13,228] INFO in app: 147.185.132.177 GET /
-[2026-04-05 08:01:13,228] INFO in app: 147.185.132.177 GET /
-[2026-04-05 08:03:04,598] INFO in app: 45.205.1.8 GET /
-[2026-04-05 08:03:04,598] INFO in app: 45.205.1.8 GET /
-[2026-04-05 08:03:05,066] INFO in app: 45.205.1.8 PROPFIND /
-[2026-04-05 08:03:05,066] INFO in app: 45.205.1.8 PROPFIND /
-[2026-04-05 08:04:45,467] INFO in app: 164.92.218.241 GET /
-[2026-04-05 08:04:45,467] INFO in app: 164.92.218.241 GET /
-[2026-04-05 08:04:48,091] INFO in app: 164.92.218.241 GET /favicon.ico
-[2026-04-05 08:04:48,091] INFO in app: 164.92.218.241 GET /favicon.ico
-[2026-04-05 08:11:48,387] INFO in app: 176.65.149.227 GET /
-[2026-04-05 08:11:48,387] INFO in app: 176.65.149.227 GET /
-[2026-04-05 08:15:04,203] INFO in app: 49.51.141.76 GET /auth/signup/
-[2026-04-05 08:15:04,203] INFO in app: 49.51.141.76 GET /auth/signup/
-[2026-04-05 08:18:50,301] INFO in app: 45.148.10.249 GET /.env
-[2026-04-05 08:18:50,301] INFO in app: 45.148.10.249 GET /.env
-[2026-04-05 08:19:44,848] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 08:19:44,848] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 08:25:09,167] INFO in app: 170.106.192.208 GET /search/
-[2026-04-05 08:25:09,167] INFO in app: 170.106.192.208 GET /search/
-[2026-04-05 08:25:16,312] INFO in app: 170.106.187.106 GET /auth/signup/
-[2026-04-05 08:25:16,312] INFO in app: 170.106.187.106 GET /auth/signup/
-[2026-04-05 08:32:57,037] INFO in app: 49.51.245.241 GET /results/
-[2026-04-05 08:32:57,037] INFO in app: 49.51.245.241 GET /results/
-[2026-04-05 08:34:18,281] INFO in app: 43.165.67.57 GET /results/
-[2026-04-05 08:34:18,281] INFO in app: 43.165.67.57 GET /results/
-[2026-04-05 08:43:31,113] INFO in app: 43.157.22.109 GET /search/
-[2026-04-05 08:43:31,113] INFO in app: 43.157.22.109 GET /search/
-[2026-04-05 08:45:17,807] INFO in app: 43.130.47.33 GET /auth/login/
-[2026-04-05 08:45:17,807] INFO in app: 43.130.47.33 GET /auth/login/
-[2026-04-05 08:54:21,864] INFO in app: 49.51.36.179 GET /auth/login/
-[2026-04-05 08:54:21,864] INFO in app: 49.51.36.179 GET /auth/login/
-[2026-04-05 08:55:54,220] INFO in app: 46.101.217.14 GET /
-[2026-04-05 08:55:54,220] INFO in app: 46.101.217.14 GET /
-[2026-04-05 08:55:54,719] INFO in app: 46.101.217.14 POST /sdk
-[2026-04-05 08:55:54,719] INFO in app: 46.101.217.14 POST /sdk
-[2026-04-05 08:55:54,721] INFO in app: 46.101.217.14 GET /odinhttpcall1775379354
-[2026-04-05 08:55:54,721] INFO in app: 46.101.217.14 GET /odinhttpcall1775379354
-[2026-04-05 08:55:55,175] INFO in app: 46.101.217.14 GET /evox/about
-[2026-04-05 08:55:55,175] INFO in app: 46.101.217.14 GET /evox/about
-[2026-04-05 08:55:55,227] INFO in app: 46.101.217.14 GET /HNAP1
-[2026-04-05 08:55:55,227] INFO in app: 46.101.217.14 GET /HNAP1
-[2026-04-05 08:55:55,675] INFO in app: 46.101.217.14 GET /
-[2026-04-05 08:55:55,675] INFO in app: 46.101.217.14 GET /
-[2026-04-05 08:55:56,124] INFO in app: 46.101.217.14 GET /
-[2026-04-05 08:55:56,124] INFO in app: 46.101.217.14 GET /
-[2026-04-05 08:55:56,604] INFO in app: 134.209.252.223 POST /
-[2026-04-05 08:55:56,604] INFO in app: 134.209.252.223 POST /
-[2026-04-05 08:55:56,966] INFO in app: 165.227.161.0 GET /
-[2026-04-05 08:55:56,966] INFO in app: 165.227.161.0 GET /
-[2026-04-05 08:55:57,724] INFO in app: 134.209.253.71 GET /
-[2026-04-05 08:55:57,724] INFO in app: 134.209.253.71 GET /
-[2026-04-05 08:57:19,081] INFO in app: 87.106.210.166 GET /.env
-[2026-04-05 08:57:19,081] INFO in app: 87.106.210.166 GET /.env
-[2026-04-05 08:57:19,306] INFO in app: 87.106.210.166 GET /.env.local
-[2026-04-05 08:57:19,306] INFO in app: 87.106.210.166 GET /.env.local
-[2026-04-05 08:57:19,482] INFO in app: 87.106.210.166 GET /.env.backup
-[2026-04-05 08:57:19,482] INFO in app: 87.106.210.166 GET /.env.backup
-[2026-04-05 08:57:19,659] INFO in app: 87.106.210.166 GET /.env.prod
-[2026-04-05 08:57:19,659] INFO in app: 87.106.210.166 GET /.env.prod
-[2026-04-05 08:57:19,834] INFO in app: 87.106.210.166 GET /.env.production
-[2026-04-05 08:57:19,834] INFO in app: 87.106.210.166 GET /.env.production
-[2026-04-05 08:57:20,023] INFO in app: 87.106.210.166 GET /.env.staging
-[2026-04-05 08:57:20,023] INFO in app: 87.106.210.166 GET /.env.staging
-[2026-04-05 08:57:20,202] INFO in app: 87.106.210.166 GET /.env.dev
-[2026-04-05 08:57:20,202] INFO in app: 87.106.210.166 GET /.env.dev
-[2026-04-05 08:57:20,382] INFO in app: 87.106.210.166 GET /.env.old
-[2026-04-05 08:57:20,382] INFO in app: 87.106.210.166 GET /.env.old
-[2026-04-05 08:57:20,615] INFO in app: 87.106.210.166 GET /.env.bak
-[2026-04-05 08:57:20,615] INFO in app: 87.106.210.166 GET /.env.bak
-[2026-04-05 08:57:20,800] INFO in app: 87.106.210.166 GET /.env.example
-[2026-04-05 08:57:20,800] INFO in app: 87.106.210.166 GET /.env.example
-[2026-04-05 09:03:20,043] INFO in app: 205.210.31.176 GET /
-[2026-04-05 09:03:20,043] INFO in app: 205.210.31.176 GET /
-[2026-04-05 09:15:38,195] INFO in app: 85.217.149.7 GET /
-[2026-04-05 09:15:38,195] INFO in app: 85.217.149.7 GET /
-[2026-04-05 09:15:38,337] INFO in app: 85.217.149.7 GET /favicon.ico
-[2026-04-05 09:15:38,337] INFO in app: 85.217.149.7 GET /favicon.ico
-[2026-04-05 09:16:47,066] INFO in app: 179.181.11.10 GET /
-[2026-04-05 09:16:47,066] INFO in app: 179.181.11.10 GET /
-[2026-04-05 09:17:57,631] INFO in app: 80.82.77.202 GET /aaa9
-[2026-04-05 09:17:57,631] INFO in app: 80.82.77.202 GET /aaa9
-[2026-04-05 09:17:58,153] INFO in app: 80.82.77.202 GET /aab9
-[2026-04-05 09:17:58,153] INFO in app: 80.82.77.202 GET /aab9
-[2026-04-05 09:35:08,839] INFO in app: 104.23.223.71 GET /wp-admin/setup-config.php
-[2026-04-05 09:35:08,839] INFO in app: 104.23.223.71 GET /wp-admin/setup-config.php
-[2026-04-05 09:35:41,927] INFO in app: 146.19.125.135 GET /
-[2026-04-05 09:35:41,927] INFO in app: 146.19.125.135 GET /
-[2026-04-05 09:36:13,456] INFO in app: 104.23.223.70 GET /wordpress/wp-admin/setup-config.php
-[2026-04-05 09:36:13,456] INFO in app: 104.23.223.70 GET /wordpress/wp-admin/setup-config.php
-[2026-04-05 09:36:21,389] INFO in app: 167.172.64.18 GET /favicon.ico
-[2026-04-05 09:36:21,389] INFO in app: 167.172.64.18 GET /favicon.ico
-[2026-04-05 09:36:54,465] INFO in app: 104.23.223.70 GET /wp-admin/setup-config.php
-[2026-04-05 09:36:54,465] INFO in app: 104.23.223.70 GET /wp-admin/setup-config.php
-[2026-04-05 09:39:04,332] INFO in app: 104.23.223.70 GET /wordpress/wp-admin/setup-config.php
-[2026-04-05 09:39:04,332] INFO in app: 104.23.223.70 GET /wordpress/wp-admin/setup-config.php
-[2026-04-05 09:39:14,657] INFO in app: 104.23.223.71 GET /wp-admin/setup-config.php
-[2026-04-05 09:39:14,657] INFO in app: 104.23.223.71 GET /wp-admin/setup-config.php
-[2026-04-05 09:41:16,486] INFO in app: 149.86.227.60 GET /
-[2026-04-05 09:41:16,486] INFO in app: 149.86.227.60 GET /
-[2026-04-05 09:46:07,821] INFO in app: 79.124.40.174 GET /
-[2026-04-05 09:46:07,821] INFO in app: 79.124.40.174 GET /
-[2026-04-05 09:58:13,100] INFO in app: 20.198.86.98 GET /admin.php
-[2026-04-05 09:58:13,100] INFO in app: 20.198.86.98 GET /admin.php
-[2026-04-05 09:58:13,354] INFO in app: 20.198.86.98 GET /about.php
-[2026-04-05 09:58:13,354] INFO in app: 20.198.86.98 GET /about.php
-[2026-04-05 09:58:13,594] INFO in app: 20.198.86.98 GET /wp-2019.php
-[2026-04-05 09:58:13,594] INFO in app: 20.198.86.98 GET /wp-2019.php
-[2026-04-05 09:58:13,834] INFO in app: 20.198.86.98 GET /atomlib.php
-[2026-04-05 09:58:13,834] INFO in app: 20.198.86.98 GET /atomlib.php
-[2026-04-05 09:58:14,074] INFO in app: 20.198.86.98 GET /css.php
-[2026-04-05 09:58:14,074] INFO in app: 20.198.86.98 GET /css.php
-[2026-04-05 09:58:14,314] INFO in app: 20.198.86.98 GET /simple.php
-[2026-04-05 09:58:14,314] INFO in app: 20.198.86.98 GET /simple.php
-[2026-04-05 09:58:14,582] INFO in app: 20.198.86.98 GET /log.php
-[2026-04-05 09:58:14,582] INFO in app: 20.198.86.98 GET /log.php
-[2026-04-05 09:58:14,823] INFO in app: 20.198.86.98 GET /mail.php
-[2026-04-05 09:58:14,823] INFO in app: 20.198.86.98 GET /mail.php
-[2026-04-05 09:58:15,063] INFO in app: 20.198.86.98 GET /lufix.php
-[2026-04-05 09:58:15,063] INFO in app: 20.198.86.98 GET /lufix.php
-[2026-04-05 09:58:15,303] INFO in app: 20.198.86.98 GET /doc.php
-[2026-04-05 09:58:15,303] INFO in app: 20.198.86.98 GET /doc.php
-[2026-04-05 09:58:15,543] INFO in app: 20.198.86.98 GET /bak.php
-[2026-04-05 09:58:15,543] INFO in app: 20.198.86.98 GET /bak.php
-[2026-04-05 09:58:15,783] INFO in app: 20.198.86.98 GET /content.php
-[2026-04-05 09:58:15,783] INFO in app: 20.198.86.98 GET /content.php
-[2026-04-05 09:58:16,035] INFO in app: 20.198.86.98 GET /upfile.php
-[2026-04-05 09:58:16,035] INFO in app: 20.198.86.98 GET /upfile.php
-[2026-04-05 09:58:16,275] INFO in app: 20.198.86.98 GET /wp.php
-[2026-04-05 09:58:16,275] INFO in app: 20.198.86.98 GET /wp.php
-[2026-04-05 09:58:16,515] INFO in app: 20.198.86.98 GET /wp-conflg.php
-[2026-04-05 09:58:16,515] INFO in app: 20.198.86.98 GET /wp-conflg.php
-[2026-04-05 09:58:16,755] INFO in app: 20.198.86.98 GET /bypass.php
-[2026-04-05 09:58:16,755] INFO in app: 20.198.86.98 GET /bypass.php
-[2026-04-05 09:58:17,003] INFO in app: 20.198.86.98 GET /wp-activate.php
-[2026-04-05 09:58:17,003] INFO in app: 20.198.86.98 GET /wp-activate.php
-[2026-04-05 09:58:17,247] INFO in app: 20.198.86.98 GET /404.php
-[2026-04-05 09:58:17,247] INFO in app: 20.198.86.98 GET /404.php
-[2026-04-05 09:58:17,487] INFO in app: 20.198.86.98 GET /updates.php
-[2026-04-05 09:58:17,487] INFO in app: 20.198.86.98 GET /updates.php
-[2026-04-05 09:58:17,726] INFO in app: 20.198.86.98 GET /radio.php
-[2026-04-05 09:58:17,726] INFO in app: 20.198.86.98 GET /radio.php
-[2026-04-05 09:58:17,966] INFO in app: 20.198.86.98 GET /plugins.php
-[2026-04-05 09:58:17,966] INFO in app: 20.198.86.98 GET /plugins.php
-[2026-04-05 09:58:18,207] INFO in app: 20.198.86.98 GET /xmrlpc.php
-[2026-04-05 09:58:18,207] INFO in app: 20.198.86.98 GET /xmrlpc.php
-[2026-04-05 09:58:18,447] INFO in app: 20.198.86.98 GET /ae.php
-[2026-04-05 09:58:18,447] INFO in app: 20.198.86.98 GET /ae.php
-[2026-04-05 09:58:18,687] INFO in app: 20.198.86.98 GET /moon.php
-[2026-04-05 09:58:18,687] INFO in app: 20.198.86.98 GET /moon.php
-[2026-04-05 09:58:18,927] INFO in app: 20.198.86.98 GET /blog.php
-[2026-04-05 09:58:18,927] INFO in app: 20.198.86.98 GET /blog.php
-[2026-04-05 09:58:19,168] INFO in app: 20.198.86.98 GET /themes.php
-[2026-04-05 09:58:19,168] INFO in app: 20.198.86.98 GET /themes.php
-[2026-04-05 09:58:19,408] INFO in app: 20.198.86.98 GET /ini.php
-[2026-04-05 09:58:19,408] INFO in app: 20.198.86.98 GET /ini.php
-[2026-04-05 09:58:19,649] INFO in app: 20.198.86.98 GET /as.php
-[2026-04-05 09:58:19,649] INFO in app: 20.198.86.98 GET /as.php
-[2026-04-05 09:58:19,889] INFO in app: 20.198.86.98 GET /shell.php
-[2026-04-05 09:58:19,889] INFO in app: 20.198.86.98 GET /shell.php
-[2026-04-05 09:58:20,138] INFO in app: 20.198.86.98 GET /ws.php
-[2026-04-05 09:58:20,138] INFO in app: 20.198.86.98 GET /ws.php
-[2026-04-05 09:58:20,378] INFO in app: 20.198.86.98 GET /dropdown.php
-[2026-04-05 09:58:20,378] INFO in app: 20.198.86.98 GET /dropdown.php
-[2026-04-05 09:58:20,619] INFO in app: 20.198.86.98 GET /makeasmtp.php
-[2026-04-05 09:58:20,619] INFO in app: 20.198.86.98 GET /makeasmtp.php
-[2026-04-05 09:58:20,859] INFO in app: 20.198.86.98 GET /wp-sigunq.php
-[2026-04-05 09:58:20,859] INFO in app: 20.198.86.98 GET /wp-sigunq.php
-[2026-04-05 09:58:21,101] INFO in app: 20.198.86.98 GET /wso112233.php
-[2026-04-05 09:58:21,101] INFO in app: 20.198.86.98 GET /wso112233.php
-[2026-04-05 09:58:21,341] INFO in app: 20.198.86.98 GET /alfanew.php
-[2026-04-05 09:58:21,341] INFO in app: 20.198.86.98 GET /alfanew.php
-[2026-04-05 09:58:21,581] INFO in app: 20.198.86.98 GET /fw.php
-[2026-04-05 09:58:21,581] INFO in app: 20.198.86.98 GET /fw.php
-[2026-04-05 09:58:21,831] INFO in app: 20.198.86.98 GET /install.php
-[2026-04-05 09:58:21,831] INFO in app: 20.198.86.98 GET /install.php
-[2026-04-05 09:58:22,071] INFO in app: 20.198.86.98 GET /wp-login.php
-[2026-04-05 09:58:22,071] INFO in app: 20.198.86.98 GET /wp-login.php
-[2026-04-05 10:02:45,743] INFO in app: 205.210.31.53 GET /
-[2026-04-05 10:02:45,743] INFO in app: 205.210.31.53 GET /
-[2026-04-05 10:06:39,850] INFO in app: 223.130.147.47 GET /
-[2026-04-05 10:06:39,850] INFO in app: 223.130.147.47 GET /
-[2026-04-05 10:06:40,642] INFO in app: 223.130.147.47 GET /
-[2026-04-05 10:06:40,642] INFO in app: 223.130.147.47 GET /
-[2026-04-05 10:08:50,438] INFO in app: 185.247.137.202 GET /
-[2026-04-05 10:08:50,438] INFO in app: 185.247.137.202 GET /
-[2026-04-05 10:09:00,766] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 10:09:00,766] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 10:24:59,529] INFO in app: 185.12.59.118 GET /Dr0v
-[2026-04-05 10:24:59,529] INFO in app: 185.12.59.118 GET /Dr0v
-[2026-04-05 10:30:31,497] INFO in app: 138.124.7.7 POST /hello.world
-[2026-04-05 10:30:31,497] INFO in app: 138.124.7.7 POST /hello.world
-[2026-04-05 10:30:31,987] INFO in app: 138.124.7.7 POST /
-[2026-04-05 10:30:31,987] INFO in app: 138.124.7.7 POST /
-[2026-04-05 10:30:32,563] INFO in app: 138.124.7.7 GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:32,563] INFO in app: 138.124.7.7 GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:33,076] INFO in app: 138.124.7.7 GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:33,076] INFO in app: 138.124.7.7 GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:33,799] INFO in app: 138.124.7.7 GET /vendor/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:33,799] INFO in app: 138.124.7.7 GET /vendor/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:34,318] INFO in app: 138.124.7.7 GET /vendor/phpunit/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:34,318] INFO in app: 138.124.7.7 GET /vendor/phpunit/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:34,930] INFO in app: 138.124.7.7 GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php
-[2026-04-05 10:30:34,930] INFO in app: 138.124.7.7 GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php
-[2026-04-05 10:30:35,665] INFO in app: 138.124.7.7 GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:35,665] INFO in app: 138.124.7.7 GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:36,297] INFO in app: 138.124.7.7 GET /phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:36,297] INFO in app: 138.124.7.7 GET /phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:36,971] INFO in app: 138.124.7.7 GET /phpunit/phpunit/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:36,971] INFO in app: 138.124.7.7 GET /phpunit/phpunit/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:37,468] INFO in app: 138.124.7.7 GET /phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:37,468] INFO in app: 138.124.7.7 GET /phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:37,832] INFO in app: 138.124.7.7 GET /phpunit/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:37,832] INFO in app: 138.124.7.7 GET /phpunit/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:38,482] INFO in app: 138.124.7.7 GET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:38,482] INFO in app: 138.124.7.7 GET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:39,048] INFO in app: 138.124.7.7 GET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:39,048] INFO in app: 138.124.7.7 GET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:39,497] INFO in app: 138.124.7.7 GET /lib/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:39,497] INFO in app: 138.124.7.7 GET /lib/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:39,956] INFO in app: 138.124.7.7 GET /lib/phpunit/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:39,956] INFO in app: 138.124.7.7 GET /lib/phpunit/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:40,471] INFO in app: 138.124.7.7 GET /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:40,471] INFO in app: 138.124.7.7 GET /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:40,795] INFO in app: 138.124.7.7 GET /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:40,795] INFO in app: 138.124.7.7 GET /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:41,129] INFO in app: 138.124.7.7 GET /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:41,129] INFO in app: 138.124.7.7 GET /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:41,463] INFO in app: 138.124.7.7 GET /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:41,463] INFO in app: 138.124.7.7 GET /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:41,766] INFO in app: 138.124.7.7 GET /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:41,766] INFO in app: 138.124.7.7 GET /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:42,271] INFO in app: 138.124.7.7 GET /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:42,271] INFO in app: 138.124.7.7 GET /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:42,727] INFO in app: 138.124.7.7 GET /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:42,727] INFO in app: 138.124.7.7 GET /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:43,370] INFO in app: 138.124.7.7 GET /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:43,370] INFO in app: 138.124.7.7 GET /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:43,857] INFO in app: 138.124.7.7 GET /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:43,857] INFO in app: 138.124.7.7 GET /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:44,387] INFO in app: 138.124.7.7 GET /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:44,387] INFO in app: 138.124.7.7 GET /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:44,768] INFO in app: 138.124.7.7 GET /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:44,768] INFO in app: 138.124.7.7 GET /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:45,296] INFO in app: 138.124.7.7 GET /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:45,296] INFO in app: 138.124.7.7 GET /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:45,900] INFO in app: 138.124.7.7 GET /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:45,900] INFO in app: 138.124.7.7 GET /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:46,135] INFO in app: 157.15.40.89 GET /txets.php
-[2026-04-05 10:30:46,135] INFO in app: 157.15.40.89 GET /txets.php
-[2026-04-05 10:30:46,347] INFO in app: 138.124.7.7 GET /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:46,347] INFO in app: 138.124.7.7 GET /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:46,371] INFO in app: 157.15.40.89 GET /wp-content/txets.php
-[2026-04-05 10:30:46,371] INFO in app: 157.15.40.89 GET /wp-content/txets.php
-[2026-04-05 10:30:46,612] INFO in app: 157.15.40.89 GET /wp-admin/txets.php
-[2026-04-05 10:30:46,612] INFO in app: 157.15.40.89 GET /wp-admin/txets.php
-[2026-04-05 10:30:46,814] INFO in app: 138.124.7.7 GET /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:46,814] INFO in app: 138.124.7.7 GET /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:46,851] INFO in app: 157.15.40.89 GET /wp-includes/txets.php
-[2026-04-05 10:30:46,851] INFO in app: 157.15.40.89 GET /wp-includes/txets.php
-[2026-04-05 10:30:47,090] INFO in app: 157.15.40.89 GET /schallfuns.php
-[2026-04-05 10:30:47,090] INFO in app: 157.15.40.89 GET /schallfuns.php
-[2026-04-05 10:30:47,327] INFO in app: 157.15.40.89 GET /postnews.php
-[2026-04-05 10:30:47,327] INFO in app: 157.15.40.89 GET /postnews.php
-[2026-04-05 10:30:47,353] INFO in app: 138.124.7.7 GET /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:47,353] INFO in app: 138.124.7.7 GET /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:47,571] INFO in app: 157.15.40.89 GET /wp-content/postnews.php
-[2026-04-05 10:30:47,571] INFO in app: 157.15.40.89 GET /wp-content/postnews.php
-[2026-04-05 10:30:47,764] INFO in app: 138.124.7.7 GET /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:47,764] INFO in app: 138.124.7.7 GET /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:47,813] INFO in app: 157.15.40.89 GET /wp-admin/postnews.php
-[2026-04-05 10:30:47,813] INFO in app: 157.15.40.89 GET /wp-admin/postnews.php
-[2026-04-05 10:30:48,051] INFO in app: 157.15.40.89 GET /wp-includes/postnews.php
-[2026-04-05 10:30:48,051] INFO in app: 157.15.40.89 GET /wp-includes/postnews.php
-[2026-04-05 10:30:48,176] INFO in app: 138.124.7.7 GET /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:48,176] INFO in app: 138.124.7.7 GET /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:48,689] INFO in app: 138.124.7.7 GET /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:48,689] INFO in app: 138.124.7.7 GET /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:49,379] INFO in app: 138.124.7.7 GET /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:49,379] INFO in app: 138.124.7.7 GET /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:49,732] INFO in app: 138.124.7.7 GET /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:49,732] INFO in app: 138.124.7.7 GET /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:50,221] INFO in app: 138.124.7.7 GET /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:50,221] INFO in app: 138.124.7.7 GET /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:50,670] INFO in app: 138.124.7.7 GET /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:50,670] INFO in app: 138.124.7.7 GET /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2026-04-05 10:30:51,365] INFO in app: 138.124.7.7 GET /index.php
-[2026-04-05 10:30:51,365] INFO in app: 138.124.7.7 GET /index.php
-[2026-04-05 10:30:51,864] INFO in app: 138.124.7.7 GET /public/index.php
-[2026-04-05 10:30:51,864] INFO in app: 138.124.7.7 GET /public/index.php
-[2026-04-05 10:30:52,351] INFO in app: 138.124.7.7 GET /index.php
-[2026-04-05 10:30:52,351] INFO in app: 138.124.7.7 GET /index.php
-[2026-04-05 10:30:52,883] INFO in app: 138.124.7.7 GET /index.php
-[2026-04-05 10:30:52,883] INFO in app: 138.124.7.7 GET /index.php
-[2026-04-05 10:30:53,479] INFO in app: 138.124.7.7 GET /containers/json
-[2026-04-05 10:30:53,479] INFO in app: 138.124.7.7 GET /containers/json
-[2026-04-05 10:43:56,405] INFO in app: 80.94.95.40 GET /
-[2026-04-05 10:43:56,405] INFO in app: 80.94.95.40 GET /
-[2026-04-05 10:47:26,292] INFO in app: 5.61.209.107 GET /SDK/webLanguage
-[2026-04-05 10:47:26,292] INFO in app: 5.61.209.107 GET /SDK/webLanguage
-[2026-04-05 10:49:38,960] INFO in app: 93.174.93.12 GET /
-[2026-04-05 10:49:38,960] INFO in app: 93.174.93.12 GET /
-[2026-04-05 10:56:26,324] INFO in app: 180.153.236.34 GET /
-[2026-04-05 10:56:26,324] INFO in app: 180.153.236.34 GET /
-[2026-04-05 11:13:31,558] INFO in app: 20.168.121.101 GET /
-[2026-04-05 11:13:31,558] INFO in app: 20.168.121.101 GET /
-[2026-04-05 11:23:46,618] INFO in app: 43.164.196.57 GET /
-[2026-04-05 11:23:46,618] INFO in app: 43.164.196.57 GET /
-[2026-04-05 11:30:20,808] INFO in app: 79.124.40.174 GET /actuator/gateway/routes
-[2026-04-05 11:30:20,808] INFO in app: 79.124.40.174 GET /actuator/gateway/routes
-[2026-04-05 11:37:29,357] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 11:37:29,357] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 11:46:08,513] INFO in app: 93.123.109.183 GET /judge
-[2026-04-05 11:46:08,513] INFO in app: 93.123.109.183 GET /judge
-[2026-04-05 11:46:08,729] INFO in app: 93.123.109.183 GET /judge
-[2026-04-05 11:46:08,729] INFO in app: 93.123.109.183 GET /judge
-[2026-04-05 11:46:09,006] INFO in app: 93.123.109.183 GET /judge
-[2026-04-05 11:46:09,006] INFO in app: 93.123.109.183 GET /judge
-[2026-04-05 11:47:55,160] INFO in app: 18.205.219.122 GET /
-[2026-04-05 11:47:55,160] INFO in app: 18.205.219.122 GET /
-[2026-04-05 11:47:55,268] INFO in app: 18.205.219.122 GET /
-[2026-04-05 11:47:55,268] INFO in app: 18.205.219.122 GET /
-[2026-04-05 11:52:19,016] INFO in app: 43.153.15.51 GET /auth/login/
-[2026-04-05 11:52:19,016] INFO in app: 43.153.15.51 GET /auth/login/
-[2026-04-05 12:01:10,700] INFO in app: 43.155.162.41 GET /auth/signup/
-[2026-04-05 12:01:10,700] INFO in app: 43.155.162.41 GET /auth/signup/
-[2026-04-05 12:02:19,970] INFO in app: 109.105.210.104 GET /
-[2026-04-05 12:02:19,970] INFO in app: 109.105.210.104 GET /
-[2026-04-05 12:07:46,871] INFO in app: 34.76.35.74 GET /
-[2026-04-05 12:07:46,871] INFO in app: 34.76.35.74 GET /
-[2026-04-05 12:12:04,023] INFO in app: 49.51.252.146 GET /search/
-[2026-04-05 12:12:04,023] INFO in app: 49.51.252.146 GET /search/
-[2026-04-05 12:14:56,190] INFO in app: 45.205.1.8 GET /
-[2026-04-05 12:14:56,190] INFO in app: 45.205.1.8 GET /
-[2026-04-05 12:22:34,670] INFO in app: 43.166.134.114 GET /results/
-[2026-04-05 12:22:34,670] INFO in app: 43.166.134.114 GET /results/
-[2026-04-05 12:30:56,999] INFO in app: 91.232.238.112 GET /robots.txt
-[2026-04-05 12:30:56,999] INFO in app: 91.232.238.112 GET /robots.txt
-[2026-04-05 12:31:42,900] INFO in app: 43.166.226.57 GET /
-[2026-04-05 12:31:42,900] INFO in app: 43.166.226.57 GET /
-[2026-04-05 12:35:54,579] INFO in app: 45.79.207.181 GET /
-[2026-04-05 12:35:54,579] INFO in app: 45.79.207.181 GET /
-[2026-04-05 12:36:20,359] INFO in app: 91.232.238.112 GET /robots.txt
-[2026-04-05 12:36:20,359] INFO in app: 91.232.238.112 GET /robots.txt
-[2026-04-05 12:41:41,981] INFO in app: 172.203.234.251 GET /owa/auth/logon.aspx
-[2026-04-05 12:41:41,981] INFO in app: 172.203.234.251 GET /owa/auth/logon.aspx
-[2026-04-05 12:48:06,647] INFO in app: 85.217.149.11 GET /
-[2026-04-05 12:48:06,647] INFO in app: 85.217.149.11 GET /
-[2026-04-05 12:48:06,715] INFO in app: 85.217.149.11 GET /favicon.ico
-[2026-04-05 12:48:06,715] INFO in app: 85.217.149.11 GET /favicon.ico
-[2026-04-05 12:52:19,601] INFO in app: 91.232.238.112 GET /robots.txt
-[2026-04-05 12:52:19,601] INFO in app: 91.232.238.112 GET /robots.txt
-[2026-04-05 12:59:01,360] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 12:59:01,360] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 13:00:37,033] INFO in app: 91.232.238.112 GET /robots.txt
-[2026-04-05 13:00:37,033] INFO in app: 91.232.238.112 GET /robots.txt
-[2026-04-05 13:22:51,490] INFO in app: 182.42.111.156 GET /
-[2026-04-05 13:22:51,490] INFO in app: 182.42.111.156 GET /
-[2026-04-05 13:26:29,860] INFO in app: 170.106.113.159 GET /
-[2026-04-05 13:26:29,860] INFO in app: 170.106.113.159 GET /
-[2026-04-05 13:57:01,893] INFO in app: 20.29.19.106 GET /actuator/health
-[2026-04-05 13:57:01,893] INFO in app: 20.29.19.106 GET /actuator/health
-[2026-04-05 14:07:17,068] INFO in app: 198.235.24.173 GET /
-[2026-04-05 14:07:17,068] INFO in app: 198.235.24.173 GET /
-[2026-04-05 14:17:24,675] INFO in app: 49.51.178.45 GET /
-[2026-04-05 14:17:24,675] INFO in app: 49.51.178.45 GET /
-[2026-04-05 14:19:26,787] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 14:19:26,787] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 14:35:18,756] INFO in app: 172.236.228.86 GET /
-[2026-04-05 14:35:18,756] INFO in app: 172.236.228.86 GET /
-[2026-04-05 14:46:40,497] INFO in app: 98.83.25.73 GET /
-[2026-04-05 14:46:40,497] INFO in app: 98.83.25.73 GET /
-[2026-04-05 14:46:40,526] INFO in app: 98.83.25.73 GET /
-[2026-04-05 14:46:40,526] INFO in app: 98.83.25.73 GET /
-[2026-04-05 14:57:48,393] INFO in app: 16.58.56.214 GET /
-[2026-04-05 14:57:48,393] INFO in app: 16.58.56.214 GET /
-[2026-04-05 15:04:03,578] INFO in app: 38.7.200.204 GET /
-[2026-04-05 15:04:03,578] INFO in app: 38.7.200.204 GET /
-[2026-04-05 15:04:03,727] INFO in app: 38.7.200.204 POST /
-[2026-04-05 15:04:03,727] INFO in app: 38.7.200.204 POST /
-[2026-04-05 15:08:50,875] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 15:08:50,875] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 15:17:13,892] INFO in app: 20.64.105.169 GET /actuator/health
-[2026-04-05 15:17:13,892] INFO in app: 20.64.105.169 GET /actuator/health
-[2026-04-05 15:20:57,904] INFO in app: 149.86.227.60 GET /
-[2026-04-05 15:20:57,904] INFO in app: 149.86.227.60 GET /
-[2026-04-05 15:22:09,759] INFO in app: 163.172.190.155 GET /
-[2026-04-05 15:22:09,759] INFO in app: 163.172.190.155 GET /
-[2026-04-05 15:44:12,486] INFO in app: 66.249.69.37 GET /robots.txt
-[2026-04-05 15:44:12,486] INFO in app: 66.249.69.37 GET /robots.txt
-[2026-04-05 15:44:14,019] INFO in app: 20.168.14.25 GET /portal/redlion
-[2026-04-05 15:44:14,019] INFO in app: 20.168.14.25 GET /portal/redlion
-[2026-04-05 15:49:40,696] INFO in app: 103.168.58.186 GET /
-[2026-04-05 15:49:40,696] INFO in app: 103.168.58.186 GET /
-[2026-04-05 15:49:41,400] INFO in app: 103.168.58.186 GET /
-[2026-04-05 15:49:41,400] INFO in app: 103.168.58.186 GET /
-[2026-04-05 15:56:07,535] INFO in app: 172.234.217.129 GET /
-[2026-04-05 15:56:07,535] INFO in app: 172.234.217.129 GET /
-[2026-04-05 16:15:20,186] INFO in app: 149.28.130.160 GET /
-[2026-04-05 16:15:20,186] INFO in app: 149.28.130.160 GET /
-[2026-04-05 16:15:20,827] INFO in app: 149.28.130.160 GET /
-[2026-04-05 16:15:20,827] INFO in app: 149.28.130.160 GET /
-[2026-04-05 16:15:46,147] INFO in app: 167.250.224.25 GET /admin/config.php
-[2026-04-05 16:15:46,147] INFO in app: 167.250.224.25 GET /admin/config.php
-[2026-04-05 16:17:23,219] INFO in app: 43.228.157.73 GET /
-[2026-04-05 16:17:23,219] INFO in app: 43.228.157.73 GET /
-[2026-04-05 16:42:16,795] INFO in app: 172.236.119.165 GET /
-[2026-04-05 16:42:16,795] INFO in app: 172.236.119.165 GET /
-[2026-04-05 16:43:42,500] INFO in app: 20.198.86.98 GET /admin.php
-[2026-04-05 16:43:42,500] INFO in app: 20.198.86.98 GET /admin.php
-[2026-04-05 16:43:42,730] INFO in app: 20.198.86.98 GET /about.php
-[2026-04-05 16:43:42,730] INFO in app: 20.198.86.98 GET /about.php
-[2026-04-05 16:43:43,004] INFO in app: 20.198.86.98 GET /cgi-bin/
-[2026-04-05 16:43:43,004] INFO in app: 20.198.86.98 GET /cgi-bin/
-[2026-04-05 16:43:43,277] INFO in app: 20.198.86.98 GET /wp-content/themes/
-[2026-04-05 16:43:43,277] INFO in app: 20.198.86.98 GET /wp-content/themes/
-[2026-04-05 16:43:43,507] INFO in app: 20.198.86.98 GET /adminfuns.php
-[2026-04-05 16:43:43,507] INFO in app: 20.198.86.98 GET /adminfuns.php
-[2026-04-05 16:43:43,737] INFO in app: 20.198.86.98 GET /edit.php
-[2026-04-05 16:43:43,737] INFO in app: 20.198.86.98 GET /edit.php
-[2026-04-05 16:43:43,968] INFO in app: 20.198.86.98 GET /.well-known/logs233/index.php
-[2026-04-05 16:43:43,968] INFO in app: 20.198.86.98 GET /.well-known/logs233/index.php
-[2026-04-05 16:43:44,439] INFO in app: 20.198.86.98 GET /wp-admin/maint/
-[2026-04-05 16:43:44,439] INFO in app: 20.198.86.98 GET /wp-admin/maint/
-[2026-04-05 16:43:44,746] INFO in app: 20.198.86.98 GET /wp-admin/
-[2026-04-05 16:43:44,746] INFO in app: 20.198.86.98 GET /wp-admin/
-[2026-04-05 16:43:45,102] INFO in app: 20.198.86.98 GET /lite.php
-[2026-04-05 16:43:45,102] INFO in app: 20.198.86.98 GET /lite.php
-[2026-04-05 16:43:45,333] INFO in app: 20.198.86.98 GET /wp-admin/js/
-[2026-04-05 16:43:45,333] INFO in app: 20.198.86.98 GET /wp-admin/js/
-[2026-04-05 16:43:45,564] INFO in app: 20.198.86.98 GET /wp-includes/
-[2026-04-05 16:43:45,564] INFO in app: 20.198.86.98 GET /wp-includes/
-[2026-04-05 16:43:45,916] INFO in app: 20.198.86.98 GET /wp-content/uploads/
-[2026-04-05 16:43:45,916] INFO in app: 20.198.86.98 GET /wp-content/uploads/
-[2026-04-05 16:43:46,211] INFO in app: 20.198.86.98 GET /wp-admin/js/widgets/
-[2026-04-05 16:43:46,211] INFO in app: 20.198.86.98 GET /wp-admin/js/widgets/
-[2026-04-05 16:43:46,460] INFO in app: 20.198.86.98 GET /wp-content/themes/admin.php
-[2026-04-05 16:43:46,460] INFO in app: 20.198.86.98 GET /wp-content/themes/admin.php
-[2026-04-05 16:43:46,690] INFO in app: 20.198.86.98 GET /wk/index.php
-[2026-04-05 16:43:46,690] INFO in app: 20.198.86.98 GET /wk/index.php
-[2026-04-05 16:43:46,920] INFO in app: 20.198.86.98 GET /wp-content/plugins/plugin/index.php
-[2026-04-05 16:43:46,920] INFO in app: 20.198.86.98 GET /wp-content/plugins/plugin/index.php
-[2026-04-05 16:43:47,150] INFO in app: 20.198.86.98 GET /wp-content/themes/index.php
-[2026-04-05 16:43:47,150] INFO in app: 20.198.86.98 GET /wp-content/themes/index.php
-[2026-04-05 16:43:47,395] INFO in app: 20.198.86.98 GET /wp-content/themes/theme/about.php
-[2026-04-05 16:43:47,395] INFO in app: 20.198.86.98 GET /wp-content/themes/theme/about.php
-[2026-04-05 16:43:47,650] INFO in app: 20.198.86.98 GET /file.php
-[2026-04-05 16:43:47,650] INFO in app: 20.198.86.98 GET /file.php
-[2026-04-05 16:43:47,879] INFO in app: 20.198.86.98 GET /inputs.php
-[2026-04-05 16:43:47,879] INFO in app: 20.198.86.98 GET /inputs.php
-[2026-04-05 16:43:48,110] INFO in app: 20.198.86.98 GET /wp-includes/js/crop/
-[2026-04-05 16:43:48,110] INFO in app: 20.198.86.98 GET /wp-includes/js/crop/
-[2026-04-05 16:49:17,550] INFO in app: 3.6.34.235 GET /
-[2026-04-05 16:49:17,550] INFO in app: 3.6.34.235 GET /
-[2026-04-05 16:49:18,370] INFO in app: 3.6.34.235 GET /
-[2026-04-05 16:49:18,370] INFO in app: 3.6.34.235 GET /
-[2026-04-05 16:54:49,521] INFO in app: 167.250.224.25 GET /admin/config.php
-[2026-04-05 16:54:49,521] INFO in app: 167.250.224.25 GET /admin/config.php
-[2026-04-05 17:01:51,639] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 17:01:51,639] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 17:10:20,096] INFO in app: 185.100.87.136 POST /ajax
-[2026-04-05 17:10:20,096] INFO in app: 185.100.87.136 POST /ajax
-[2026-04-05 17:41:16,579] INFO in app: 43.153.135.208 GET /
-[2026-04-05 17:41:16,579] INFO in app: 43.153.135.208 GET /
-[2026-04-05 17:43:30,735] INFO in app: 170.106.165.76 GET /
-[2026-04-05 17:43:30,735] INFO in app: 170.106.165.76 GET /
-[2026-04-05 17:52:47,874] INFO in app: 20.163.5.243 GET /druid/index.html
-[2026-04-05 17:52:47,874] INFO in app: 20.163.5.243 GET /druid/index.html
-[2026-04-05 18:18:37,025] INFO in app: 175.171.205.73 POST /GponForm/diag_Form
-[2026-04-05 18:18:37,025] INFO in app: 175.171.205.73 POST /GponForm/diag_Form
-[2026-04-05 18:21:23,846] INFO in app: 54.216.15.255 HEAD /icons/apache_pb.gif
-[2026-04-05 18:21:23,846] INFO in app: 54.216.15.255 HEAD /icons/apache_pb.gif
-[2026-04-05 18:49:15,769] INFO in app: 43.130.16.212 GET /
-[2026-04-05 18:49:15,769] INFO in app: 43.130.16.212 GET /
-[2026-04-05 18:49:47,596] INFO in app: 93.174.93.12 GET /
-[2026-04-05 18:49:47,596] INFO in app: 93.174.93.12 GET /
-[2026-04-05 19:11:24,199] INFO in app: 3.131.220.121 GET /
-[2026-04-05 19:11:24,199] INFO in app: 3.131.220.121 GET /
-[2026-04-05 19:12:40,090] INFO in app: 3.139.242.79 GET /
-[2026-04-05 19:12:40,090] INFO in app: 3.139.242.79 GET /
-[2026-04-05 19:17:02,652] INFO in app: 205.210.31.140 GET /
-[2026-04-05 19:17:02,652] INFO in app: 205.210.31.140 GET /
-[2026-04-05 19:19:31,408] INFO in app: 149.86.227.60 GET /
-[2026-04-05 19:19:31,408] INFO in app: 149.86.227.60 GET /
-[2026-04-05 19:27:16,972] INFO in app: 172.236.228.222 GET /
-[2026-04-05 19:27:16,972] INFO in app: 172.236.228.222 GET /
-[2026-04-05 19:28:24,130] INFO in app: 98.93.167.211 GET /
-[2026-04-05 19:28:24,130] INFO in app: 98.93.167.211 GET /
-[2026-04-05 19:32:39,142] INFO in app: 54.37.86.225 GET /robots.txt
-[2026-04-05 19:32:39,142] INFO in app: 54.37.86.225 GET /robots.txt
-[2026-04-05 19:32:40,976] INFO in app: 54.37.86.225 GET /
-[2026-04-05 19:32:40,976] INFO in app: 54.37.86.225 GET /
-[2026-04-05 19:33:35,696] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 19:33:35,696] INFO in app: 46.151.178.13 PROPFIND /
-[2026-04-05 19:53:34,129] INFO in app: 24.7.171.84 GET /
-[2026-04-05 19:53:34,129] INFO in app: 24.7.171.84 GET /
-[2026-04-05 19:53:34,497] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 19:53:34,497] INFO in app: 24.7.171.84 GET /static/style.css
-[2026-04-05 19:53:34,596] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 19:53:34,596] INFO in app: 24.7.171.84 GET /static/images/janeh.png
-[2026-04-05 19:53:34,677] INFO in app: 24.7.171.84 GET /static/images/92_resume.png
-[2026-04-05 19:53:34,677] INFO in app: 24.7.171.84 GET /static/images/92_resume.png
-[2026-04-05 19:53:34,677] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 19:53:34,677] INFO in app: 24.7.171.84 GET /static/images/chatbox-icon.svg
-[2026-04-05 19:53:34,685] INFO in app: 24.7.171.84 GET /static/app.js
-[2026-04-05 19:53:34,685] INFO in app: 24.7.171.84 GET /static/app.js
-[2026-04-05 19:53:34,685] INFO in app: 24.7.171.84 GET /static/script.js
-[2026-04-05 19:53:34,685] INFO in app: 24.7.171.84 GET /static/script.js
-[2026-04-05 19:53:34,692] INFO in app: 24.7.171.84 GET /static/images/1_old_excel_file.png
-[2026-04-05 19:53:34,692] INFO in app: 24.7.171.84 GET /static/images/1_old_excel_file.png
-[2026-04-05 19:53:34,693] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 19:53:34,693] INFO in app: 24.7.171.84 GET /static/images/2_entry_form.png
-[2026-04-05 19:53:34,764] INFO in app: 24.7.171.84 GET /static/images/3_transfer_to_table.png
-[2026-04-05 19:53:34,764] INFO in app: 24.7.171.84 GET /static/images/3_transfer_to_table.png
-[2026-04-05 19:53:34,769] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 19:53:34,769] INFO in app: 24.7.171.84 GET /static/projectAI.js
-[2026-04-05 19:53:34,776] INFO in app: 24.7.171.84 GET /static/images/4_form_to_array.png
-[2026-04-05 19:53:34,776] INFO in app: 24.7.171.84 GET /static/images/4_form_to_array.png
-[2026-04-05 19:53:34,783] INFO in app: 24.7.171.84 GET /static/theme.js
-[2026-04-05 19:53:34,783] INFO in app: 24.7.171.84 GET /static/theme.js
-[2026-04-05 19:53:34,784] INFO in app: 24.7.171.84 GET /static/jobs.json
-[2026-04-05 19:53:34,784] INFO in app: 24.7.171.84 GET /static/jobs.json
-[2026-04-05 19:53:34,789] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 19:53:34,789] INFO in app: 24.7.171.84 GET /static/images/5_python_data_array.png
-[2026-04-05 19:53:34,847] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 19:53:34,847] INFO in app: 24.7.171.84 GET /static/images/7_prompt_template.png
-[2026-04-05 19:53:34,870] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 19:53:34,870] INFO in app: 24.7.171.84 GET /static/images/6_python_program.png
-[2026-04-05 19:53:34,870] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 19:53:34,870] INFO in app: 24.7.171.84 GET /static/images/9_save_to_text.png
-[2026-04-05 19:53:34,871] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 19:53:34,871] INFO in app: 24.7.171.84 GET /static/images/8_AI_api.png
-[2026-04-05 19:53:34,877] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 19:53:34,877] INFO in app: 24.7.171.84 GET /static/images/11_add_to_resume.png
-[2026-04-05 19:53:34,877] INFO in app: 24.7.171.84 GET /static/images/10_word_macro.png
-[2026-04-05 19:53:34,877] INFO in app: 24.7.171.84 GET /static/images/10_word_macro.png
-[2026-04-05 20:05:26,879] INFO in app: 106.119.167.146 GET /
-[2026-04-05 20:05:26,879] INFO in app: 106.119.167.146 GET /
+2026-04-11 10:15:08,051 [INFO] [chat] This is chat.py starting
+[2026-04-11 10:15:08,056] INFO in app: App startup
+[2026-04-11 10:15:08,098] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.46:5000
+[2026-04-11 10:15:08,099] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2026-04-11 10:15:08,100] INFO in _internal:  * Restarting with stat
+2026-04-11 10:15:11,387 [INFO] [chat] This is chat.py starting
+[2026-04-11 10:15:11,389] INFO in app: App startup
+[2026-04-11 10:15:11,405] WARNING in _internal:  * Debugger is active!
+[2026-04-11 10:15:11,409] INFO in _internal:  * Debugger PIN: 870-570-930
+[2026-04-11 10:17:15,061] INFO in app: 127.0.0.1 GET /
+[2026-04-11 10:17:15,061] INFO in app: 127.0.0.1 GET /
+[2026-04-11 10:17:15,074] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "GET / HTTP/1.1" 200 -
+[2026-04-11 10:17:15,088] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 10:17:15,088] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 10:17:15,088] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 10:17:15,088] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 10:17:15,090] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 10:17:15,090] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 10:17:15,240] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,241] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/janeh.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,247] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,284] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 10:17:15,284] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 10:17:15,286] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,287] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 10:17:15,287] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 10:17:15,289] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,290] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 10:17:15,290] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 10:17:15,292] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 10:17:15,292] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 10:17:15,293] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/1_old_excel_file.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,294] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 10:17:15,294] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 10:17:15,296] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/2_entry_form.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,296] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 10:17:15,296] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 10:17:15,299] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/3_transfer_to_table.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,299] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 10:17:15,299] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 10:17:15,301] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 10:17:15,300] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/projectAI.js HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,301] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 10:17:15,304] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/4_form_to_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,305] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 10:17:15,305] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 10:17:15,306] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/theme.js HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,308] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 10:17:15,308] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 10:17:15,310] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/5_python_data_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,312] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 10:17:15,312] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 10:17:15,313] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/6_python_program.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,316] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 10:17:15,316] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 10:17:15,317] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/7_prompt_template.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,318] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 10:17:15,318] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 10:17:15,320] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/8_AI_api.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,322] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 10:17:15,322] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 10:17:15,322] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/9_save_to_text.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,325] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/92_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,335] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 10:17:15,335] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 10:17:15,337] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/10_word_macro.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,338] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 10:17:15,338] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 10:17:15,339] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/images/11_add_to_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:15,350] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 10:17:15,350] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 10:17:15,352] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:15] "[36mGET /static/jobs.json HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:32,101] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 10:17:32,101] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 10:17:36,962] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:36] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-04-11 10:17:41,698] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 10:17:41,698] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 10:17:41,700] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 10:17:41,712] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 10:17:41,712] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 10:17:41,713] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:17:41] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2026-04-11 10:28:43,168] INFO in _internal:  * Detected change in 'C:\\dev\\mds-website\\chat.py', reloading
+[2026-04-11 10:28:43,804] INFO in _internal:  * Restarting with stat
+2026-04-11 10:28:46,453 [INFO] [chat] This is chat.py starting
+[2026-04-11 10:28:46,454] INFO in app: App startup
+[2026-04-11 10:28:46,477] WARNING in _internal:  * Debugger is active!
+[2026-04-11 10:28:46,481] INFO in _internal:  * Debugger PIN: 870-570-930
+2026-04-11 10:29:13,031 [INFO] [chat] This is chat.py starting
+[2026-04-11 10:29:13,033] INFO in app: App startup
+[2026-04-11 10:29:13,057] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.46:5000
+[2026-04-11 10:29:13,058] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2026-04-11 10:29:13,058] INFO in _internal:  * Restarting with stat
+2026-04-11 10:29:15,388 [INFO] [chat] This is chat.py starting
+[2026-04-11 10:29:15,389] INFO in app: App startup
+[2026-04-11 10:29:15,405] WARNING in _internal:  * Debugger is active!
+[2026-04-11 10:29:15,408] INFO in _internal:  * Debugger PIN: 870-570-930
+[2026-04-11 10:29:31,881] INFO in app: 127.0.0.1 GET /
+[2026-04-11 10:29:31,881] INFO in app: 127.0.0.1 GET /
+[2026-04-11 10:29:31,899] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:31] "GET / HTTP/1.1" 200 -
+[2026-04-11 10:29:31,949] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 10:29:31,949] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 10:29:31,950] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:31] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2026-04-11 10:29:31,951] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 10:29:31,951] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 10:29:31,956] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 10:29:31,956] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 10:29:31,960] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 10:29:31,960] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 10:29:32,046] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 10:29:32,046] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 10:29:32,061] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 10:29:32,061] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 10:29:32,072] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 10:29:32,072] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 10:29:32,141] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/chatbox-icon.svg HTTP/1.1" 200 -
+[2026-04-11 10:29:32,159] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 10:29:32,159] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 10:29:32,172] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/2_entry_form.png HTTP/1.1" 200 -
+[2026-04-11 10:29:32,195] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/script.js HTTP/1.1" 200 -
+[2026-04-11 10:29:32,197] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 10:29:32,197] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 10:29:32,200] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/3_transfer_to_table.png HTTP/1.1" 200 -
+[2026-04-11 10:29:32,205] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 10:29:32,205] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 10:29:32,209] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/projectAI.js HTTP/1.1" 200 -
+[2026-04-11 10:29:32,220] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 10:29:32,220] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 10:29:32,222] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 10:29:32,222] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 10:29:32,223] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/theme.js HTTP/1.1" 200 -
+[2026-04-11 10:29:32,223] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/4_form_to_array.png HTTP/1.1" 200 -
+[2026-04-11 10:29:32,237] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 10:29:32,237] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 10:29:32,238] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/5_python_data_array.png HTTP/1.1" 200 -
+[2026-04-11 10:29:32,258] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 10:29:32,258] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 10:29:32,260] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/6_python_program.png HTTP/1.1" 200 -
+[2026-04-11 10:29:32,274] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 10:29:32,274] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 10:29:32,276] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 10:29:32,276] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 10:29:32,276] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/7_prompt_template.png HTTP/1.1" 200 -
+[2026-04-11 10:29:32,279] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/8_AI_api.png HTTP/1.1" 200 -
+[2026-04-11 10:29:32,292] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 10:29:32,292] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 10:29:32,293] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 10:29:32,293] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 10:29:32,295] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/9_save_to_text.png HTTP/1.1" 200 -
+[2026-04-11 10:29:32,295] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/10_word_macro.png HTTP/1.1" 200 -
+[2026-04-11 10:29:32,297] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/style.css HTTP/1.1" 200 -
+[2026-04-11 10:29:32,312] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/janeh.png HTTP/1.1" 200 -
+[2026-04-11 10:29:32,314] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 10:29:32,314] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 10:29:32,315] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/1_old_excel_file.png HTTP/1.1" 200 -
+[2026-04-11 10:29:32,316] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/11_add_to_resume.png HTTP/1.1" 200 -
+[2026-04-11 10:29:32,317] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/app.js HTTP/1.1" 200 -
+[2026-04-11 10:29:32,390] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 10:29:32,390] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 10:29:32,393] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/images/92_resume.png HTTP/1.1" 200 -
+[2026-04-11 10:29:32,396] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 10:29:32,396] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 10:29:32,401] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/jobs.json HTTP/1.1" 200 -
+[2026-04-11 10:29:32,678] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 10:29:32,678] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 10:29:32,679] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:32] "GET /static/favicon.ico HTTP/1.1" 200 -
+[2026-04-11 10:29:42,412] INFO in app: 127.0.0.1 GET /
+[2026-04-11 10:29:42,412] INFO in app: 127.0.0.1 GET /
+[2026-04-11 10:29:42,413] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "GET / HTTP/1.1" 200 -
+[2026-04-11 10:29:42,445] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 10:29:42,445] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 10:29:42,446] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2026-04-11 10:29:42,455] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 10:29:42,455] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 10:29:42,456] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 10:29:42,456] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 10:29:42,457] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,458] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 10:29:42,458] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 10:29:42,459] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/janeh.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,460] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,483] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 10:29:42,483] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 10:29:42,485] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,487] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 10:29:42,488] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 10:29:42,488] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 10:29:42,489] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 10:29:42,489] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 10:29:42,487] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 10:29:42,488] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 10:29:42,488] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 10:29:42,489] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 10:29:42,492] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 10:29:42,492] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 10:29:42,494] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,493] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/projectAI.js HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,489] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 10:29:42,494] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/3_transfer_to_table.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,496] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/92_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,495] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/2_entry_form.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,498] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/1_old_excel_file.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,502] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 10:29:42,502] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 10:29:42,508] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 10:29:42,508] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 10:29:42,511] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/theme.js HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,512] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 10:29:42,512] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 10:29:42,513] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/4_form_to_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,514] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/5_python_data_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,519] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 10:29:42,520] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 10:29:42,520] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 10:29:42,519] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 10:29:42,523] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 10:29:42,523] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 10:29:42,525] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/7_prompt_template.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,526] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 10:29:42,526] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 10:29:42,526] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/6_python_program.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,527] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/8_AI_api.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,531] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/9_save_to_text.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,542] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 10:29:42,542] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 10:29:42,543] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/jobs.json HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,554] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 10:29:42,554] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 10:29:42,558] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/10_word_macro.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,561] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 10:29:42,561] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 10:29:42,563] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/images/11_add_to_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 10:29:42,668] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 10:29:42,668] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 10:29:42,669] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:29:42] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+[2026-04-11 10:30:14,243] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 10:30:14,243] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 10:30:18,762] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 10:30:18] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-04-11 10:43:15,443] INFO in _internal:  * Detected change in 'C:\\dev\\mds-website\\chat.py', reloading
+[2026-04-11 10:43:16,067] INFO in _internal:  * Restarting with stat
+2026-04-11 10:43:18,638 [INFO] [chat] This is chat.py starting
+[2026-04-11 10:43:18,640] INFO in app: App startup
+[2026-04-11 10:43:18,660] WARNING in _internal:  * Debugger is active!
+[2026-04-11 10:43:18,664] INFO in _internal:  * Debugger PIN: 870-570-930
+[2026-04-11 10:50:07,809] INFO in _internal:  * Detected change in 'C:\\dev\\mds-website\\chat.py', reloading
+[2026-04-11 10:50:08,325] INFO in _internal:  * Restarting with stat
+2026-04-11 10:50:11,020 [INFO] [chat] This is chat.py starting
+[2026-04-11 10:50:11,022] INFO in app: App startup
+[2026-04-11 10:50:11,041] WARNING in _internal:  * Debugger is active!
+[2026-04-11 10:50:11,044] INFO in _internal:  * Debugger PIN: 870-570-930
+[2026-04-11 10:52:03,327] INFO in _internal:  * Detected change in 'C:\\dev\\mds-website\\load-resume-data-vectorstore.py', reloading
+[2026-04-11 10:52:03,765] INFO in _internal:  * Restarting with stat
+2026-04-11 10:52:06,046 [INFO] [chat] This is chat.py starting
+[2026-04-11 10:52:06,048] INFO in app: App startup
+[2026-04-11 10:52:06,066] WARNING in _internal:  * Debugger is active!
+[2026-04-11 10:52:06,069] INFO in _internal:  * Debugger PIN: 870-570-930
+[2026-04-11 10:59:23,884] INFO in _internal:  * Detected change in 'C:\\dev\\mds-website\\chat.py', reloading
+[2026-04-11 10:59:24,380] INFO in _internal:  * Restarting with stat
+2026-04-11 10:59:27,228 [INFO] [chat] This is chat.py starting
+[2026-04-11 10:59:27,242] INFO in app: App startup
+[2026-04-11 10:59:27,276] WARNING in _internal:  * Debugger is active!
+[2026-04-11 10:59:27,279] INFO in _internal:  * Debugger PIN: 870-570-930
+[2026-04-11 11:00:44,512] INFO in _internal:  * Detected change in 'C:\\dev\\mds-website\\chat.py', reloading
+[2026-04-11 11:00:45,052] INFO in _internal:  * Restarting with stat
+2026-04-11 11:00:47,605 [INFO] [chat] This is chat.py starting
+[2026-04-11 11:00:47,607] INFO in app: App startup
+[2026-04-11 11:00:47,624] WARNING in _internal:  * Debugger is active!
+[2026-04-11 11:00:47,628] INFO in _internal:  * Debugger PIN: 870-570-930
+2026-04-11 11:02:45,067 [INFO] [chat] This is chat.py starting
+[2026-04-11 11:02:45,069] INFO in app: App startup
+[2026-04-11 11:02:45,093] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.46:5000
+[2026-04-11 11:02:45,093] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2026-04-11 11:02:45,093] INFO in _internal:  * Restarting with stat
+2026-04-11 11:02:47,422 [INFO] [chat] This is chat.py starting
+[2026-04-11 11:02:47,424] INFO in app: App startup
+[2026-04-11 11:02:47,442] WARNING in _internal:  * Debugger is active!
+[2026-04-11 11:02:47,445] INFO in _internal:  * Debugger PIN: 870-570-930
+[2026-04-11 11:03:04,539] INFO in app: 127.0.0.1 GET /
+[2026-04-11 11:03:04,539] INFO in app: 127.0.0.1 GET /
+[2026-04-11 11:03:04,553] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "GET / HTTP/1.1" 200 -
+[2026-04-11 11:03:04,606] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 11:03:04,606] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 11:03:04,608] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2026-04-11 11:03:04,607] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 11:03:04,607] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 11:03:04,608] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 11:03:04,608] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 11:03:04,614] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 11:03:04,614] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 11:03:04,668] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 11:03:04,668] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 11:03:04,696] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 11:03:04,696] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 11:03:04,702] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 11:03:04,702] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 11:03:04,844] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,852] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 11:03:04,852] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 11:03:04,853] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/2_entry_form.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,860] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 11:03:04,860] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 11:03:04,861] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/3_transfer_to_table.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,874] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 11:03:04,874] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 11:03:04,875] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/projectAI.js HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,880] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 11:03:04,880] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 11:03:04,881] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/theme.js HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,889] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 11:03:04,889] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 11:03:04,889] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/4_form_to_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,894] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/1_old_excel_file.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,896] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/janeh.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,906] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 11:03:04,906] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 11:03:04,907] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 11:03:04,907] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 11:03:04,908] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/5_python_data_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,908] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/6_python_program.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,919] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 11:03:04,919] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 11:03:04,921] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/7_prompt_template.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,922] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,922] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 11:03:04,922] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 11:03:04,925] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/8_AI_api.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,929] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,930] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 11:03:04,930] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 11:03:04,931] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/9_save_to_text.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,934] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,941] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 11:03:04,941] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 11:03:04,943] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 11:03:04,943] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 11:03:04,944] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/10_word_macro.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,946] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/11_add_to_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:04,988] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 11:03:04,988] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 11:03:04,989] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:04] "[36mGET /static/images/92_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:05,002] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 11:03:05,002] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 11:03:05,003] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:05] "[36mGET /static/jobs.json HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:05,091] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 11:03:05,091] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 11:03:05,093] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:05] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,610] INFO in app: 127.0.0.1 GET /
+[2026-04-11 11:03:10,610] INFO in app: 127.0.0.1 GET /
+[2026-04-11 11:03:10,612] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "GET / HTTP/1.1" 200 -
+[2026-04-11 11:03:10,647] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 11:03:10,647] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 11:03:10,648] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2026-04-11 11:03:10,658] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 11:03:10,658] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 11:03:10,660] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 11:03:10,660] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 11:03:10,660] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,662] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 11:03:10,662] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 11:03:10,665] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,665] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/janeh.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,688] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 11:03:10,688] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 11:03:10,690] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,691] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 11:03:10,691] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 11:03:10,693] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 11:03:10,693] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 11:03:10,692] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 11:03:10,693] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 11:03:10,693] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 11:03:10,692] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 11:03:10,695] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 11:03:10,695] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 11:03:10,697] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/1_old_excel_file.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,700] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/projectAI.js HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,696] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,699] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/2_entry_form.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,698] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 11:03:10,700] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/3_transfer_to_table.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,698] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 11:03:10,710] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/92_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,711] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 11:03:10,711] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 11:03:10,712] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/jobs.json HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,713] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 11:03:10,713] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 11:03:10,714] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/theme.js HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,723] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 11:03:10,723] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 11:03:10,726] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 11:03:10,726] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 11:03:10,726] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/4_form_to_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,736] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/5_python_data_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,751] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 11:03:10,751] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 11:03:10,752] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/7_prompt_template.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,757] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 11:03:10,757] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 11:03:10,758] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/6_python_program.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,760] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 11:03:10,760] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 11:03:10,762] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/8_AI_api.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,763] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 11:03:10,763] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 11:03:10,768] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 11:03:10,768] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 11:03:10,769] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/9_save_to_text.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,771] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 11:03:10,771] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 11:03:10,772] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/10_word_macro.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:10,775] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:10] "[36mGET /static/images/11_add_to_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:11,035] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 11:03:11,035] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 11:03:11,036] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:11] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+[2026-04-11 11:03:40,922] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:03:40,922] INFO in app: 127.0.0.1 POST /predict
+2026-04-11 11:03:43,438 [INFO] [chat] Existing vectorstore found. Loading...
+[2026-04-11 11:03:43,438] INFO in chat: Existing vectorstore found. Loading...
+2026-04-11 11:03:43,848 [INFO] [chat] Chat Chain Built
+[2026-04-11 11:03:43,848] INFO in chat: Chat Chain Built
+[2026-04-11 11:03:46,477] INFO in _client: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2026-04-11 11:03:47,457] INFO in _client: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-11 11:03:51,029 [INFO] [chat] Response Received ?
+[2026-04-11 11:03:51,029] INFO in chat: Response Received ?
+[2026-04-11 11:03:51,038] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:03:51] "POST /predict HTTP/1.1" 200 -
+2026-04-11 11:13:38,627 [INFO] [chat] This is chat.py starting
+[2026-04-11 11:13:38,628] INFO in app: App startup
+[2026-04-11 11:13:38,653] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.46:5000
+[2026-04-11 11:13:38,653] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2026-04-11 11:13:38,654] INFO in _internal:  * Restarting with stat
+2026-04-11 11:13:40,953 [INFO] [chat] This is chat.py starting
+[2026-04-11 11:13:40,955] INFO in app: App startup
+[2026-04-11 11:13:40,973] WARNING in _internal:  * Debugger is active!
+[2026-04-11 11:13:40,976] INFO in _internal:  * Debugger PIN: 870-570-930
+[2026-04-11 11:14:17,579] INFO in app: 127.0.0.1 GET /
+[2026-04-11 11:14:17,579] INFO in app: 127.0.0.1 GET /
+[2026-04-11 11:14:17,592] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "GET / HTTP/1.1" 200 -
+[2026-04-11 11:14:17,630] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 11:14:17,630] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 11:14:17,632] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 11:14:17,632] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 11:14:17,634] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 11:14:17,634] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 11:14:17,644] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 11:14:17,644] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 11:14:17,646] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 11:14:17,646] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 11:14:17,647] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 11:14:17,647] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 11:14:17,859] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/janeh.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,863] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 11:14:17,863] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 11:14:17,864] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/2_entry_form.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,864] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,869] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,870] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 11:14:17,870] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 11:14:17,872] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 11:14:17,872] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 11:14:17,873] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/3_transfer_to_table.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,874] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/projectAI.js HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,875] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 11:14:17,875] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 11:14:17,877] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/theme.js HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,879] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,881] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 11:14:17,881] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 11:14:17,883] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 11:14:17,883] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 11:14:17,885] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/4_form_to_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,886] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,887] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/5_python_data_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,886] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 11:14:17,886] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 11:14:17,889] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 11:14:17,889] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 11:14:17,892] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/6_python_program.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,892] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/7_prompt_template.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,892] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/1_old_excel_file.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,893] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 11:14:17,893] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 11:14:17,896] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/8_AI_api.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,901] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 11:14:17,901] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 11:14:17,902] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/9_save_to_text.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,905] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 11:14:17,905] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 11:14:17,906] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 11:14:17,906] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 11:14:17,906] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/10_word_macro.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,907] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 11:14:17,907] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 11:14:17,908] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/11_add_to_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,909] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/images/92_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:17,927] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 11:14:17,927] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 11:14:17,928] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:17] "[36mGET /static/jobs.json HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:34,116] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:14:34,116] INFO in app: 127.0.0.1 POST /predict
+2026-04-11 11:14:36,554 [INFO] [chat] Existing vectorstore found. Loading...
+[2026-04-11 11:14:36,554] INFO in chat: Existing vectorstore found. Loading...
+2026-04-11 11:14:36,821 [INFO] [chat] Chat Chain Built
+[2026-04-11 11:14:36,821] INFO in chat: Chat Chain Built
+[2026-04-11 11:14:38,608] INFO in _client: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2026-04-11 11:14:39,970] INFO in _client: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-11 11:14:41,722 [INFO] [chat] Response Received ?
+[2026-04-11 11:14:41,722] INFO in chat: Response Received ?
+[2026-04-11 11:14:41,730] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:41] "POST /predict HTTP/1.1" 200 -
+[2026-04-11 11:14:48,221] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 11:14:48,221] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 11:14:48,222] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 11:14:48,252] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 11:14:48,252] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 11:14:48,253] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:14:48] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2026-04-11 11:15:26,954] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:15:26,954] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:15:27,789] INFO in _client: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2026-04-11 11:15:28,433] INFO in _client: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-11 11:15:29,935 [INFO] [chat] Response Received ?
+[2026-04-11 11:15:29,935] INFO in chat: Response Received ?
+[2026-04-11 11:15:29,941] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:15:29] "POST /predict HTTP/1.1" 200 -
+[2026-04-11 11:15:57,916] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:15:57,916] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:15:58,313] INFO in _client: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2026-04-11 11:15:59,596] INFO in _client: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-11 11:16:01,066 [INFO] [chat] Response Received ?
+[2026-04-11 11:16:01,066] INFO in chat: Response Received ?
+[2026-04-11 11:16:01,072] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:16:01] "POST /predict HTTP/1.1" 200 -
+[2026-04-11 11:16:20,574] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:16:20,574] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:16:21,019] INFO in _client: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2026-04-11 11:16:22,551] INFO in _client: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-11 11:16:25,457 [INFO] [chat] Response Received ?
+[2026-04-11 11:16:25,457] INFO in chat: Response Received ?
+[2026-04-11 11:16:25,463] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:16:25] "POST /predict HTTP/1.1" 200 -
+[2026-04-11 11:16:40,095] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:16:40,095] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:16:41,073] INFO in _client: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2026-04-11 11:16:41,651] INFO in _client: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-11 11:16:44,429 [INFO] [chat] Response Received ?
+[2026-04-11 11:16:44,429] INFO in chat: Response Received ?
+[2026-04-11 11:16:44,437] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:16:44] "POST /predict HTTP/1.1" 200 -
+[2026-04-11 11:17:14,771] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:17:14,771] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:17:15,608] INFO in _client: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2026-04-11 11:17:16,297] INFO in _client: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-11 11:17:19,064 [INFO] [chat] Response Received ?
+[2026-04-11 11:17:19,064] INFO in chat: Response Received ?
+[2026-04-11 11:17:19,071] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:17:19] "POST /predict HTTP/1.1" 200 -
+[2026-04-11 11:17:37,144] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:17:37,144] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 11:17:37,851] INFO in _client: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2026-04-11 11:17:38,542] INFO in _client: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-11 11:17:40,744 [INFO] [chat] Response Received ?
+[2026-04-11 11:17:40,744] INFO in chat: Response Received ?
+[2026-04-11 11:17:40,749] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 11:17:40] "POST /predict HTTP/1.1" 200 -
+[2026-04-11 12:09:23,727] INFO in _internal:  * Detected change in 'C:\\dev\\mds-website\\load_resume_data_vectorstore.py', reloading
+[2026-04-11 12:09:24,320] INFO in _internal:  * Restarting with stat
+2026-04-11 12:09:26,828 [INFO] [chat] This is chat.py starting
+[2026-04-11 12:09:26,830] INFO in app: App startup
+[2026-04-11 12:09:26,846] WARNING in _internal:  * Debugger is active!
+[2026-04-11 12:09:26,849] INFO in _internal:  * Debugger PIN: 870-570-930
+[2026-04-11 13:04:52,058] INFO in _internal:  * Detected change in 'C:\\dev\\mds-website\\load_resume_data_vectorstore.py', reloading
+[2026-04-11 13:04:52,738] INFO in _internal:  * Restarting with stat
+2026-04-11 13:04:56,298 [INFO] [chat] This is chat.py starting
+[2026-04-11 13:04:56,305] INFO in app: App startup
+[2026-04-11 13:04:56,356] WARNING in _internal:  * Debugger is active!
+[2026-04-11 13:04:56,366] INFO in _internal:  * Debugger PIN: 870-570-930
+2026-04-11 13:07:18,413 [INFO] [chat] This is chat.py starting
+[2026-04-11 13:07:18,415] INFO in app: App startup
+[2026-04-11 13:07:18,456] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.46:5000
+[2026-04-11 13:07:18,456] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2026-04-11 13:07:18,457] INFO in _internal:  * Restarting with stat
+2026-04-11 13:07:21,093 [INFO] [chat] This is chat.py starting
+[2026-04-11 13:07:21,095] INFO in app: App startup
+[2026-04-11 13:07:21,113] WARNING in _internal:  * Debugger is active!
+[2026-04-11 13:07:21,116] INFO in _internal:  * Debugger PIN: 870-570-930
+[2026-04-11 13:07:42,770] INFO in app: 127.0.0.1 GET /
+[2026-04-11 13:07:42,770] INFO in app: 127.0.0.1 GET /
+[2026-04-11 13:07:42,790] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:42] "GET / HTTP/1.1" 200 -
+[2026-04-11 13:07:42,827] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:07:42,827] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:07:42,833] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 13:07:42,833] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 13:07:42,834] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 13:07:42,834] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 13:07:42,849] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 13:07:42,849] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 13:07:42,855] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 13:07:42,855] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 13:07:42,856] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 13:07:42,856] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 13:07:43,078] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,089] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 13:07:43,089] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 13:07:43,091] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/2_entry_form.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,097] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,104] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 13:07:43,104] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 13:07:43,106] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/3_transfer_to_table.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,107] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 13:07:43,107] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 13:07:43,109] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/projectAI.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,112] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/janeh.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,122] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 13:07:43,122] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 13:07:43,124] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/1_old_excel_file.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,125] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 13:07:43,125] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 13:07:43,127] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 13:07:43,127] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 13:07:43,128] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,127] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/theme.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,127] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,130] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/5_python_data_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,136] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/4_form_to_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,138] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 13:07:43,138] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 13:07:43,148] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/92_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,150] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 13:07:43,150] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 13:07:43,151] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/6_python_program.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,152] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 13:07:43,154] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 13:07:43,154] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 13:07:43,152] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 13:07:43,159] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 13:07:43,159] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 13:07:43,162] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/7_prompt_template.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,162] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 13:07:43,162] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 13:07:43,163] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/8_AI_api.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,163] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/jobs.json HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,164] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/9_save_to_text.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,173] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 13:07:43,173] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 13:07:43,181] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/10_word_macro.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:07:43,186] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 13:07:43,186] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 13:07:43,187] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:07:43] "[36mGET /static/images/11_add_to_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:08:39,581] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 13:08:39,581] INFO in app: 127.0.0.1 POST /predict
+2026-04-11 13:08:42,083 [INFO] [chat] No vectorstore found. Building new one...
+[2026-04-11 13:08:42,083] INFO in chat: No vectorstore found. Building new one...
+[2026-04-11 13:08:42,139] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:08:42] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-04-11 13:08:45,455] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:08:45,455] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:08:45,457] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:08:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 13:08:45,475] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 13:08:45,475] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 13:08:45,475] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:08:45] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-04-11 13:21:22,716 [INFO] [chat] This is chat.py starting
+[2026-04-11 13:21:22,718] INFO in app: App startup
+[2026-04-11 13:21:22,742] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.46:5000
+[2026-04-11 13:21:22,742] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2026-04-11 13:21:22,743] INFO in _internal:  * Restarting with stat
+2026-04-11 13:21:25,324 [INFO] [chat] This is chat.py starting
+[2026-04-11 13:21:25,326] INFO in app: App startup
+[2026-04-11 13:21:25,345] WARNING in _internal:  * Debugger is active!
+[2026-04-11 13:21:25,348] INFO in _internal:  * Debugger PIN: 870-570-930
+[2026-04-11 13:21:32,556] INFO in app: 127.0.0.1 GET /
+[2026-04-11 13:21:32,556] INFO in app: 127.0.0.1 GET /
+[2026-04-11 13:21:32,573] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "GET / HTTP/1.1" 200 -
+[2026-04-11 13:21:32,614] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 13:21:32,614] INFO in app: 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-04-11 13:21:32,615] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+[2026-04-11 13:21:32,654] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:21:32,654] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:21:32,658] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 13:21:32,658] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 13:21:32,660] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 13:21:32,660] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 13:21:32,680] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 13:21:32,680] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 13:21:32,681] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 13:21:32,681] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 13:21:32,691] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 13:21:32,691] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 13:21:32,908] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,914] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 13:21:32,914] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 13:21:32,915] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/images/janeh.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,916] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/images/2_entry_form.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,927] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 13:21:32,927] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 13:21:32,928] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 13:21:32,928] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 13:21:32,930] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/images/3_transfer_to_table.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,930] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/projectAI.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,941] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 13:21:32,941] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 13:21:32,943] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 13:21:32,943] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 13:21:32,944] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/theme.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,944] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/images/1_old_excel_file.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,945] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/images/4_form_to_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,952] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,954] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 13:21:32,954] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 13:21:32,955] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,958] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/images/5_python_data_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,960] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 13:21:32,966] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,960] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 13:21:32,973] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/images/6_python_program.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,982] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 13:21:32,982] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 13:21:32,984] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 13:21:32,984] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 13:21:32,986] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/images/7_prompt_template.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,987] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 13:21:32,987] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 13:21:32,988] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/images/8_AI_api.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,988] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/images/9_save_to_text.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:32,994] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 13:21:32,994] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 13:21:32,996] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:32] "[36mGET /static/images/10_word_macro.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:33,009] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 13:21:33,009] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 13:21:33,010] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:33] "[36mGET /static/images/11_add_to_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:33,039] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 13:21:33,039] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 13:21:33,040] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:33] "[36mGET /static/images/92_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:33,052] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 13:21:33,052] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 13:21:33,054] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:33] "[36mGET /static/jobs.json HTTP/1.1[0m" 304 -
+[2026-04-11 13:21:33,174] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 13:21:33,174] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 13:21:33,177] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:21:33] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+[2026-04-11 13:22:02,484] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 13:22:02,484] INFO in app: 127.0.0.1 POST /predict
+2026-04-11 13:22:04,972 [INFO] [chat] No vectorstore found. Building new one...
+[2026-04-11 13:22:04,972] INFO in chat: No vectorstore found. Building new one...
+[2026-04-11 13:22:05,000] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:22:05] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-04-11 13:24:30,785] INFO in _internal:  * Detected change in 'C:\\dev\\mds-website\\load_resume_data_vectorstore.py', reloading
+[2026-04-11 13:24:31,436] INFO in _internal:  * Restarting with stat
+2026-04-11 13:24:34,309 [INFO] [chat] This is chat.py starting
+[2026-04-11 13:24:34,312] INFO in app: App startup
+[2026-04-11 13:24:34,337] WARNING in _internal:  * Debugger is active!
+[2026-04-11 13:24:34,341] INFO in _internal:  * Debugger PIN: 870-570-930
+[2026-04-11 13:24:45,798] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 13:24:45,798] INFO in app: 127.0.0.1 POST /predict
+2026-04-11 13:24:48,100 [INFO] [chat] No vectorstore found. Building new one...
+[2026-04-11 13:24:48,100] INFO in chat: No vectorstore found. Building new one...
+[2026-04-11 13:24:54,695] INFO in _client: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-04-11 13:24:55,385 [INFO] [chat] Chat Chain Built
+[2026-04-11 13:24:55,385] INFO in chat: Chat Chain Built
+[2026-04-11 13:24:55,919] INFO in _client: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2026-04-11 13:24:57,509] INFO in _client: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-11 13:24:59,897 [INFO] [chat] Response Received ?
+[2026-04-11 13:24:59,897] INFO in chat: Response Received ?
+[2026-04-11 13:24:59,907] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:24:59] "POST /predict HTTP/1.1" 200 -
+[2026-04-11 13:25:58,378] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 13:25:58,378] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 13:25:59,706] INFO in _client: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2026-04-11 13:26:00,773] INFO in _client: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-11 13:26:01,433 [INFO] [chat] Response Received ?
+[2026-04-11 13:26:01,433] INFO in chat: Response Received ?
+[2026-04-11 13:26:01,440] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:26:01] "POST /predict HTTP/1.1" 200 -
+[2026-04-11 13:26:34,955] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 13:26:34,955] INFO in app: 127.0.0.1 POST /predict
+[2026-04-11 13:26:35,317] INFO in _client: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2026-04-11 13:26:36,264] INFO in _client: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-11 13:26:37,988 [INFO] [chat] Response Received ?
+[2026-04-11 13:26:37,988] INFO in chat: Response Received ?
+[2026-04-11 13:26:37,993] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:26:37] "POST /predict HTTP/1.1" 200 -
+[2026-04-11 13:28:47,918] INFO in app: 127.0.0.1 GET /
+[2026-04-11 13:28:47,918] INFO in app: 127.0.0.1 GET /
+[2026-04-11 13:28:47,933] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:47] "GET / HTTP/1.1" 200 -
+[2026-04-11 13:28:47,962] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:28:47,962] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:28:47,964] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:47,965] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 13:28:47,965] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 13:28:47,969] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:47] "[36mGET /static/images/janeh.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:47,971] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 13:28:47,971] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 13:28:47,973] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:47] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:47,974] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 13:28:47,974] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 13:28:47,976] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:47] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:47,977] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 13:28:47,977] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 13:28:47,979] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 13:28:47,979] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 13:28:47,981] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 13:28:47,981] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 13:28:47,980] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:47] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:47,984] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:47] "[36mGET /static/images/1_old_excel_file.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:47,985] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:47] "[36mGET /static/images/2_entry_form.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,003] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 13:28:48,003] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 13:28:48,008] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/images/3_transfer_to_table.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,011] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 13:28:48,013] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 13:28:48,013] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 13:28:48,011] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 13:28:48,019] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 13:28:48,019] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 13:28:48,021] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/images/92_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,022] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/projectAI.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,022] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/jobs.json HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,026] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 13:28:48,026] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 13:28:48,030] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 13:28:48,030] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 13:28:48,032] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/images/4_form_to_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,033] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 13:28:48,033] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 13:28:48,034] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/theme.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,036] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 13:28:48,036] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 13:28:48,037] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/images/7_prompt_template.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,040] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/images/5_python_data_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,042] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 13:28:48,042] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 13:28:48,044] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 13:28:48,044] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 13:28:48,046] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/images/8_AI_api.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,047] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 13:28:48,047] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 13:28:48,047] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/images/6_python_program.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,050] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 13:28:48,050] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 13:28:48,052] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/images/9_save_to_text.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,054] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/images/10_word_macro.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,055] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 13:28:48,055] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 13:28:48,057] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/images/11_add_to_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:28:48,177] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 13:28:48,177] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 13:28:48,178] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:28:48] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,489] INFO in app: 127.0.0.1 GET /
+[2026-04-11 13:29:06,489] INFO in app: 127.0.0.1 GET /
+[2026-04-11 13:29:06,505] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "GET / HTTP/1.1" 200 -
+[2026-04-11 13:29:06,535] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:29:06,535] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:29:06,536] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,538] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 13:29:06,538] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 13:29:06,539] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/janeh.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,542] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 13:29:06,542] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 13:29:06,543] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 13:29:06,543] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 13:29:06,545] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,545] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 13:29:06,545] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 13:29:06,546] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,547] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 13:29:06,547] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 13:29:06,549] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 13:29:06,549] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 13:29:06,552] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,553] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 13:29:06,553] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 13:29:06,556] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/1_old_excel_file.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,556] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/2_entry_form.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,560] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/3_transfer_to_table.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,560] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 13:29:06,560] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 13:29:06,563] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 13:29:06,563] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 13:29:06,567] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 13:29:06,567] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 13:29:06,570] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/projectAI.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,572] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 13:29:06,571] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/theme.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,574] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/92_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,572] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 13:29:06,581] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 13:29:06,581] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 13:29:06,583] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/4_form_to_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,585] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 13:29:06,585] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 13:29:06,588] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 13:29:06,588] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 13:29:06,590] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/7_prompt_template.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,592] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 13:29:06,592] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 13:29:06,594] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 13:29:06,595] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/5_python_data_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,592] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/jobs.json HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,596] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/6_python_program.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,594] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 13:29:06,606] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/8_AI_api.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,609] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 13:29:06,609] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 13:29:06,611] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/9_save_to_text.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,616] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 13:29:06,616] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 13:29:06,617] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/10_word_macro.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,620] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 13:29:06,620] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 13:29:06,623] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/images/11_add_to_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:29:06,747] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 13:29:06,747] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 13:29:06,748] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:29:06] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,058] INFO in app: 127.0.0.1 GET /
+[2026-04-11 13:30:30,058] INFO in app: 127.0.0.1 GET /
+[2026-04-11 13:30:30,070] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "GET / HTTP/1.1" 200 -
+[2026-04-11 13:30:30,100] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:30:30,100] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:30:30,101] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,106] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 13:30:30,106] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 13:30:30,107] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 13:30:30,107] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 13:30:30,109] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/janeh.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,109] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 13:30:30,109] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 13:30:30,112] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 13:30:30,112] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 13:30:30,110] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,116] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,117] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 13:30:30,117] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 13:30:30,119] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,122] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 13:30:30,122] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 13:30:30,122] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/1_old_excel_file.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,123] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 13:30:30,123] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 13:30:30,127] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/2_entry_form.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,129] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 13:30:30,129] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 13:30:30,131] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/3_transfer_to_table.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,135] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/projectAI.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,142] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 13:30:30,142] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 13:30:30,147] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 13:30:30,147] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 13:30:30,148] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/92_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,149] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/theme.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,152] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 13:30:30,152] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 13:30:30,158] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 13:30:30,158] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 13:30:30,160] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/4_form_to_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,164] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 13:30:30,164] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 13:30:30,168] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/5_python_data_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,171] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 13:30:30,171] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 13:30:30,172] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/6_python_program.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,173] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 13:30:30,173] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 13:30:30,173] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/jobs.json HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,176] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/7_prompt_template.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,181] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 13:30:30,181] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 13:30:30,187] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/8_AI_api.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,188] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 13:30:30,188] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 13:30:30,190] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/9_save_to_text.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,191] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 13:30:30,191] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 13:30:30,193] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 13:30:30,193] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
+[2026-04-11 13:30:30,196] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/10_word_macro.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,197] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/images/11_add_to_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:30,272] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 13:30:30,272] INFO in app: 127.0.0.1 GET /static/favicon.ico
+[2026-04-11 13:30:30,274] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:30] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,235] INFO in app: 127.0.0.1 GET /
+[2026-04-11 13:30:57,235] INFO in app: 127.0.0.1 GET /
+[2026-04-11 13:30:57,252] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "GET / HTTP/1.1" 200 -
+[2026-04-11 13:30:57,281] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:30:57,281] INFO in app: 127.0.0.1 GET /static/style.css
+[2026-04-11 13:30:57,282] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,283] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 13:30:57,283] INFO in app: 127.0.0.1 GET /static/images/janeh.png
+[2026-04-11 13:30:57,284] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/images/janeh.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,288] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 13:30:57,288] INFO in app: 127.0.0.1 GET /static/images/chatbox-icon.svg
+[2026-04-11 13:30:57,289] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 13:30:57,289] INFO in app: 127.0.0.1 GET /static/script.js
+[2026-04-11 13:30:57,290] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,291] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 13:30:57,291] INFO in app: 127.0.0.1 GET /static/app.js
+[2026-04-11 13:30:57,291] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,292] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 13:30:57,292] INFO in app: 127.0.0.1 GET /static/images/1_old_excel_file.png
+[2026-04-11 13:30:57,293] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,298] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 13:30:57,298] INFO in app: 127.0.0.1 GET /static/images/2_entry_form.png
+[2026-04-11 13:30:57,299] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 13:30:57,299] INFO in app: 127.0.0.1 GET /static/images/3_transfer_to_table.png
+[2026-04-11 13:30:57,298] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/images/1_old_excel_file.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,302] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 13:30:57,302] INFO in app: 127.0.0.1 GET /static/projectAI.js
+[2026-04-11 13:30:57,303] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/images/3_transfer_to_table.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,302] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/images/2_entry_form.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,305] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 13:30:57,305] INFO in app: 127.0.0.1 GET /static/theme.js
+[2026-04-11 13:30:57,305] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/projectAI.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,309] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 13:30:57,309] INFO in app: 127.0.0.1 GET /static/images/4_form_to_array.png
+[2026-04-11 13:30:57,312] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 13:30:57,312] INFO in app: 127.0.0.1 GET /static/jobs.json
+[2026-04-11 13:30:57,311] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/theme.js HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,316] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 13:30:57,316] INFO in app: 127.0.0.1 GET /static/images/92_resume.png
+[2026-04-11 13:30:57,317] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/images/4_form_to_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,319] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 13:30:57,320] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/jobs.json HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,319] INFO in app: 127.0.0.1 GET /static/images/7_prompt_template.png
+[2026-04-11 13:30:57,332] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/images/92_resume.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,335] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 13:30:57,335] INFO in app: 127.0.0.1 GET /static/images/5_python_data_array.png
+[2026-04-11 13:30:57,341] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/images/7_prompt_template.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,345] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/images/5_python_data_array.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,347] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 13:30:57,347] INFO in app: 127.0.0.1 GET /static/images/6_python_program.png
+[2026-04-11 13:30:57,349] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 13:30:57,349] INFO in app: 127.0.0.1 GET /static/images/8_AI_api.png
+[2026-04-11 13:30:57,352] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/images/6_python_program.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,352] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/images/8_AI_api.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,353] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 13:30:57,353] INFO in app: 127.0.0.1 GET /static/images/9_save_to_text.png
+[2026-04-11 13:30:57,360] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/images/9_save_to_text.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,370] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 13:30:57,370] INFO in app: 127.0.0.1 GET /static/images/10_word_macro.png
+[2026-04-11 13:30:57,372] INFO in _internal: 127.0.0.1 - - [11/Apr/2026 13:30:57] "[36mGET /static/images/10_word_macro.png HTTP/1.1[0m" 304 -
+[2026-04-11 13:30:57,378] INFO in app: 127.0.0.1 GET /static/images/11_add_to_resume.png
