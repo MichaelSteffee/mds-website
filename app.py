@@ -4,7 +4,6 @@ from chat import get_response
 from werkzeug.middleware.proxy_fix import ProxyFix
 
 import logging
-from logging.handlers import RotatingFileHandler
 
 import os
 
@@ -19,41 +18,18 @@ app.wsgi_app = ProxyFix(app.wsgi_app)
 # 👇 THEN configure logging
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
-log_path = os.path.join(BASE_DIR, "logs", "flask_app.log")
-log_dir = os.path.join(BASE_DIR, "logs")
-os.makedirs(log_dir, exist_ok=True)
 
-log_path = os.path.join(log_dir, "flask_app.log")
-
-handler = RotatingFileHandler(
-    log_path,
-    maxBytes=100000,
-    backupCount=3
+logging.basicConfig(
+    level=logging.INFO,
+    format='[%(asctime)s] %(levelname)s in %(module)s: %(message)s'
 )
-
-formatter = logging.Formatter(
-    '[%(asctime)s] %(levelname)s in %(module)s: %(message)s'
-)
-
-handler.setFormatter(formatter)
-
-handler.setLevel(logging.INFO)
-
-root_logger = logging.getLogger()
-root_logger.setLevel(logging.INFO)
-root_logger.addHandler(handler)
 
 app.logger.handlers.clear()        # remove default handlers
 app.logger.propagate = True       # prevent sending to Apache error.log
 
 app.logger.info("App startup")
 
-
-if not app.logger.handlers:
-    app.logger.addHandler(handler)
-
 app.logger.setLevel(logging.INFO)
-
 
 @app.before_request
 def log_request():
